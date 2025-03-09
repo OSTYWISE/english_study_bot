@@ -1,6 +1,0 @@
-defaults:
-  - bot: example
-  - database: example
-  - graph: example
-  - recommender: example
-  - _self_
