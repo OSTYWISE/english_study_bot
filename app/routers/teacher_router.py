@@ -1,9 +1,7 @@
 from aiogram import Router, F
 from aiogram.types import Message, CallbackQuery
 from aiogram.filters import Filter, CommandStart, Command
-
 teacher = Router()
-
 
 class Teacher(Filter):
     def __init__(self):

@@ -13,6 +13,8 @@ class Organization(Filter):
         return message.from_user.id in self.organizations
     
 
-@organization.message(Organization(), Command('organization'))
+@organization.message(Organization(), CommandStart())
 async def cmd_start(message: Message):
     await message.answer('Добро пожаловать в бот, образовательная организация!')
+
+

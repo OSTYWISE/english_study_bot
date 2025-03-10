@@ -15,6 +15,7 @@ from aiogram.enums import ParseMode
 # from app.llm.LLMClient import TogetherAIClient
 # from app.llm.prompter import Prompter
 from app.routers import user, admin, teacher, organization
+from app.routers.admin_router import Admin
 from app.database.models import async_main, drop_all_tables
 warnings.filterwarnings("ignore", category=UserWarning)
 
@@ -36,7 +37,7 @@ async def main(config):
               default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 
     dp = Dispatcher()
-    dp.include_routers(user, admin, teacher, organization)
+    dp.include_routers(admin, organization, teacher, user)
     dp.startup.register(startup)
     dp.shutdown.register(shutdown)
     await dp.start_polling(bot)

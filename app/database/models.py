@@ -1,10 +1,11 @@
 import os
 from dotenv import load_dotenv
 from typing import List, Optional
-from sqlalchemy import ForeignKey, String, BigInteger, Boolean, Float, ARRAY, Integer
+from sqlalchemy import ForeignKey, String, BigInteger, Boolean, Float, ARRAY, Integer, UUID
 from sqlalchemy.orm import Mapped, DeclarativeBase, mapped_column, relationship
 from sqlalchemy.ext.asyncio import AsyncAttrs, async_sessionmaker, create_async_engine
 from sqlalchemy.sql import text
+import uuid
 
 
 load_dotenv()
@@ -18,29 +19,62 @@ class Base(AsyncAttrs, DeclarativeBase):
     pass
 
 
+class Organization(Base):
+    __tablename__ = 'organizations'
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    invite_code: Mapped[uuid.UUID] = mapped_column(
+        UUID(as_uuid=True), unique=True, nullable=False
+    )
+    tg_id: Mapped[Optional[int]] = mapped_column(BigInteger, nullable=True)
+    name: Mapped[str] = mapped_column(String(200))
+    legal_address: Mapped[str] = mapped_column(String)
+    quote: Mapped[Optional[int]] = mapped_column(nullable=True)  # limit on num of classes
+    class_quote: Mapped[Optional[int]] = mapped_column(nullable=True)  # limit on class size
+
+
+class Teacher(Base):
+    __tablename__ = 'teachers'
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    invite_code: Mapped[uuid.UUID] = mapped_column(
+        UUID(as_uuid=True), unique=True, nullable=False
+    )
+    tg_id: Mapped[Optional[int]] = mapped_column(BigInteger, nullable=True)
+    organization_id: Mapped[int] = mapped_column(ForeignKey("organizations.id"))
+    subject_id: Mapped[int] = mapped_column(ForeignKey("subjects.id"))
+    name: Mapped[str] = mapped_column(String(100))
+    age: Mapped[int] = mapped_column()
+    phone_number: Mapped[str] = mapped_column(String(12))
+    personal_info: Mapped[str] = mapped_column(String)
+
+
 class Student(Base):
     __tablename__ = 'students'
 
     id: Mapped[int] = mapped_column(primary_key=True)
-    tg_id = mapped_column(BigInteger)
+    invite_code: Mapped[uuid.UUID] = mapped_column(
+        UUID(as_uuid=True), unique=True, nullable=False
+    )
+    tg_id: Mapped[Optional[int]] = mapped_column(BigInteger, nullable=True)
     student_group_id: Mapped[int] = mapped_column(ForeignKey("student_groups.id"))
-    # Example for optional: name: Mapped[Optional[str]] = mapped_column(String(100), nullable=True)
+    organization_id: Mapped[int] = mapped_column(ForeignKey('organizations.id'))
     name: Mapped[str] = mapped_column(String(100))
-    age: Mapped[int] = mapped_column(nullable=True)
-    grade: Mapped[float] = mapped_column(Float)
-    phone_number: Mapped[str] = mapped_column(String(12))
-    pers_regime_id: Mapped[str] = mapped_column(ForeignKey('pers_regimes.id'))
-    topic_id: Mapped[int] = mapped_column(ForeignKey('topics.id'))
-    difficulty_id: Mapped[int] = mapped_column(ForeignKey('difficulties.id'))
-    task_type_id: Mapped[int] = mapped_column(ForeignKey('task_types.id'))
-    regime_id: Mapped[int] = mapped_column(ForeignKey('llm_regimes.id'))
+    age: Mapped[Optional[int]] = mapped_column(nullable=True)
+    grade: Mapped[int] = mapped_column()  # 1-11 - нужна проверка при создании 
+    phone_number: Mapped[Optional[str]] = mapped_column(String(12), nullable=True)
+    pers_regime_id: Mapped[Optional[int]] = mapped_column(ForeignKey('pers_regimes.id'), nullable=True)
+    topic_id: Mapped[Optional[int]] = mapped_column(ForeignKey('topics.id'), nullable=True)
+    difficulty_id: Mapped[Optional[int]] = mapped_column(ForeignKey('difficulties.id'), nullable=True)
+    task_type_id: Mapped[Optional[int]] = mapped_column(ForeignKey('task_types.id'), nullable=True)
+    regime_id: Mapped[Optional[int]] = mapped_column(ForeignKey('llm_regimes.id'), nullable=True)
 
 
 class LLMRegime(Base):
     __tablename__ = 'llm_regimes'
 
     id: Mapped[int] = mapped_column(primary_key=True)
-    name: Mapped[str] = mapped_column(String(50))
+    name: Mapped[str] = mapped_column(String(100))
 
 
 class PersRegime(Base):
@@ -50,53 +84,22 @@ class PersRegime(Base):
     name: Mapped[str] = mapped_column(String(50))  # in ["Персонализированное обучение", "Выбор темы"]
 
 
-class Teacher(Base):
-    __tablename__ = 'teachers'
-
-    id: Mapped[int] = mapped_column(primary_key=True)
-    tg_id = mapped_column(BigInteger)
-    organization_id: Mapped[int] = mapped_column(ForeignKey("organizations.id"))
-    subject_id: Mapped[int] = mapped_column(ForeignKey("subjects.id"))
-    name: Mapped[str] = mapped_column(String(100))
-    age: Mapped[int] = mapped_column()
-    phone_number: Mapped[str] = mapped_column(String(12))
-    personal_info: Mapped[str] = mapped_column(String)
-
-
-class Organization(Base):
-    __tablename__ = 'organizations'
-
-    id: Mapped[int] = mapped_column(primary_key=True)
-    tg_id = mapped_column(BigInteger)
-    name: Mapped[str] = mapped_column(String(100))
-    legal_address: Mapped[str] = mapped_column(String(200))
-    quote: Mapped[int] = mapped_column()  # limit on num of classes
-    class_quote: Mapped[int] = mapped_column()  # limit on class size
-
-
-class ContactType(Base):
-    __tablename__ = 'contact_types'
-
-    id: Mapped[int] = mapped_column(primary_key=True)
-    name: Mapped[str] = mapped_column(String(20))
-
-
 class Contact(Base):
     __tablename__ = 'contacts'
 
     id: Mapped[int] = mapped_column(primary_key=True)
     data: Mapped[str] = mapped_column(String(80))
     organization_id: Mapped[int] = mapped_column(ForeignKey("organizations.id"))
-    contact_type_id: Mapped[int] = mapped_column(ForeignKey("contact_types.id"))
+    contact_type: Mapped[str] = mapped_column(String(20))  # in ["почта", "телеграм", "телефон"]
 
 
 class Document(Base):
     __tablename__ = 'documents'
 
     id: Mapped[int] = mapped_column(primary_key=True)
-    data: Mapped[str] = mapped_column(String(80))
     organization_id: Mapped[int] = mapped_column(ForeignKey("organizations.id"))
     type: Mapped[str] = mapped_column(String(20))
+    storage_link: Mapped[str] = mapped_column(String)
 
 
 class StudentGroup(Base):
@@ -136,18 +139,19 @@ class Exam(Base):
     id: Mapped[int] = mapped_column(primary_key=True)
     name: Mapped[str] = mapped_column(String(50))
     subject_id: Mapped[int] = mapped_column(ForeignKey("subjects.id"))
-    graph_id: Mapped[int] = mapped_column(ForeignKey("graphs.id"))
+    graph_id: Mapped[int] = mapped_column(Integer, ForeignKey('graphs.id'), nullable=True, unique=True)
     max_score: Mapped[int] = mapped_column()
     generated_flg: Mapped[bool] = mapped_column(Boolean)
+    graph = relationship("Graph", back_populates="exam", uselist=False)
 
 
 class Graph(Base):
     __tablename__ = 'graphs'
 
     id: Mapped[int] = mapped_column(primary_key=True)
-    exam_id: Mapped[int] = mapped_column(ForeignKey("exams.id"))
     organization_id: Mapped[int] = mapped_column(ForeignKey("organizations.id"))
     subject_id: Mapped[int] = mapped_column(ForeignKey("subjects.id"))
+    exam = relationship("Exam", back_populates="graph", uselist=False)
 
 
 class Topic(Base):
@@ -172,7 +176,7 @@ class TaskType(Base):
     __tablename__ = 'task_types'
 
     id: Mapped[int] = mapped_column(primary_key=True)
-    name: Mapped[str] = mapped_column(String(30))
+    name: Mapped[str] = mapped_column(String(30))  # in ['Yes/No','Single choice ','Multiple choice','Strict format text answer','*Free text','Random from']
 
 
 class Difficulty(Base):
