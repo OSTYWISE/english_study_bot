@@ -1,16 +1,23 @@
 import os
+import uuid
 from dotenv import load_dotenv
 from typing import List, Optional
 from sqlalchemy import ForeignKey, String, BigInteger, Boolean, Float, ARRAY, Integer, UUID
-from sqlalchemy.orm import Mapped, DeclarativeBase, mapped_column, relationship
+from sqlalchemy.orm import Mapped, DeclarativeBase, mapped_column, relationship, backref
 from sqlalchemy.ext.asyncio import AsyncAttrs, async_sessionmaker, create_async_engine
 from sqlalchemy.sql import text
-import uuid
+from sqlalchemy_schemadisplay import create_schema_graph
+from sqlalchemy import create_engine
 
 
 load_dotenv()
+
+# add echo variable in config of database
 engine = create_async_engine(
     url=os.getenv("SQLALCHEMY_URL"), echo=True)
+
+sync_engine = create_engine(os.getenv("SQLALCHEMY_URL_SYNC"), echo=True)
+
 
 async_session = async_sessionmaker(engine)
 
@@ -44,9 +51,9 @@ class Teacher(Base):
     organization_id: Mapped[int] = mapped_column(ForeignKey("organizations.id"))
     subject_id: Mapped[int] = mapped_column(ForeignKey("subjects.id"))
     name: Mapped[str] = mapped_column(String(100))
-    age: Mapped[int] = mapped_column()
-    phone_number: Mapped[str] = mapped_column(String(12))
-    personal_info: Mapped[str] = mapped_column(String)
+    birth_date: Mapped[Optional[str]] = mapped_column(String(10), nullable=True)
+    phone_number: Mapped[Optional[str]] = mapped_column(String(12), nullable=True)
+    personal_info: Mapped[Optional[str]] = mapped_column(String(300), nullable=True)
 
 
 class Student(Base):
@@ -60,14 +67,14 @@ class Student(Base):
     student_group_id: Mapped[int] = mapped_column(ForeignKey("student_groups.id"))
     organization_id: Mapped[int] = mapped_column(ForeignKey('organizations.id'))
     name: Mapped[str] = mapped_column(String(100))
-    age: Mapped[Optional[int]] = mapped_column(nullable=True)
+    birth_date: Mapped[Optional[str]] = mapped_column(String(10), nullable=True)
     grade: Mapped[int] = mapped_column()  # 1-11 - нужна проверка при создании 
     phone_number: Mapped[Optional[str]] = mapped_column(String(12), nullable=True)
-    pers_regime_id: Mapped[Optional[int]] = mapped_column(ForeignKey('pers_regimes.id'), nullable=True)
-    topic_id: Mapped[Optional[int]] = mapped_column(ForeignKey('topics.id'), nullable=True)
-    difficulty_id: Mapped[Optional[int]] = mapped_column(ForeignKey('difficulties.id'), nullable=True)
-    task_type_id: Mapped[Optional[int]] = mapped_column(ForeignKey('task_types.id'), nullable=True)
-    regime_id: Mapped[Optional[int]] = mapped_column(ForeignKey('llm_regimes.id'), nullable=True)
+    pers_regime_id: Mapped[Optional[int]] = mapped_column(ForeignKey('pers_regimes.id'), default=1)
+    topic_id: Mapped[Optional[int]] = mapped_column(ForeignKey('topics.id'), default=1)
+    difficulty_id: Mapped[Optional[int]] = mapped_column(ForeignKey('difficulties.id'), default=1)
+    task_type_id: Mapped[Optional[int]] = mapped_column(ForeignKey('task_types.id'), default=1)
+    regime_id: Mapped[Optional[int]] = mapped_column(ForeignKey('llm_regimes.id'), default=1)
 
 
 class LLMRegime(Base):
@@ -81,7 +88,7 @@ class PersRegime(Base):
     __tablename__ = 'pers_regimes'
     
     id: Mapped[int] = mapped_column(primary_key=True)
-    name: Mapped[str] = mapped_column(String(50))  # in ["Персонализированное обучение", "Выбор темы"]
+    name: Mapped[str] = mapped_column(String(50))
 
 
 class Contact(Base):
@@ -106,8 +113,10 @@ class StudentGroup(Base):
     __tablename__ = 'student_groups'
 
     id: Mapped[int] = mapped_column(primary_key=True)
+    name: Mapped[str] = mapped_column(String(40))
     organization_id: Mapped[int] = mapped_column(ForeignKey("organizations.id"))
     teacher_id: Mapped[int] = mapped_column(ForeignKey("teachers.id"))
+    students: Mapped[List["Student"]] = relationship()
 
 
 class TeachersXStudentGroups(Base):
@@ -140,7 +149,7 @@ class Exam(Base):
     name: Mapped[str] = mapped_column(String(50))
     subject_id: Mapped[int] = mapped_column(ForeignKey("subjects.id"))
     graph_id: Mapped[int] = mapped_column(Integer, ForeignKey('graphs.id'), nullable=True, unique=True)
-    max_score: Mapped[int] = mapped_column()
+    max_score: Mapped[Optional[int]] = mapped_column(nullable=True)
     generated_flg: Mapped[bool] = mapped_column(Boolean)
     graph = relationship("Graph", back_populates="exam", uselist=False)
 
@@ -159,9 +168,12 @@ class Topic(Base):
 
     id: Mapped[int] = mapped_column(primary_key=True)
     name: Mapped[str] = mapped_column(String(50))
-    parent_topic_id: Mapped[str] = mapped_column(String(50))
-    child_topic_ids: Mapped[List[int]] = mapped_column(ARRAY(Integer))
     subject_id: Mapped[int] = mapped_column(ForeignKey("subjects.id"))
+    parent_id: Mapped[Optional[int]] = mapped_column(Integer, ForeignKey('topics.id'), nullable=True)
+    children = relationship("Topic", backref=backref('parent', remote_side=[id]))
+
+    def __repr__(self):
+        return f"<Topic(id={self.id}, name='{self.name}', parent_id={self.parent_id})>"
 
 
 class ExamsXStudentGroups(Base):
@@ -172,25 +184,34 @@ class ExamsXStudentGroups(Base):
     student_group_id: Mapped[int] = mapped_column(ForeignKey("student_groups.id"))
 
 
+class GraphsXStudentGroups(Base):
+    __tablename__ = 'graphs_x_student_groups'
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    graph_id: Mapped[int] = mapped_column(ForeignKey("graphs.id"))
+    student_group_id: Mapped[int] = mapped_column(ForeignKey("student_groups.id"))
+
+
 class TaskType(Base):
     __tablename__ = 'task_types'
 
     id: Mapped[int] = mapped_column(primary_key=True)
-    name: Mapped[str] = mapped_column(String(30))  # in ['Yes/No','Single choice ','Multiple choice','Strict format text answer','*Free text','Random from']
+    name: Mapped[str] = mapped_column(String(40))
 
 
 class Difficulty(Base):
     __tablename__ = 'difficulties'
 
     id: Mapped[int] = mapped_column(primary_key=True)
-    name: Mapped[str] = mapped_column(String(30))
+    name: Mapped[str] = mapped_column(String(40))  
 
 
 class ExamSpecification(Base):
     __tablename__ = 'exam_specifications'
 
     id: Mapped[int] = mapped_column(primary_key=True)
-    name: Mapped[str] = mapped_column(String(30))
+    name: Mapped[str] = mapped_column(String(40))
+    exam_id: Mapped[int] = mapped_column(ForeignKey('exams.id'))
 
 
 class Task(Base):
@@ -277,3 +298,19 @@ async def drop_all_tables():
 
         await conn.execute(text("SET session_replication_role = 'origin';"))
         print("All tables dropped successfully.")
+
+
+def generate_erd(output_file: str = "schema_diagram.png"):
+    """
+    Generate an ER diagram of the database schema and save it as an image.
+    """
+    graph = create_schema_graph(
+        metadata=Base.metadata,
+        engine=sync_engine,
+        show_datatypes=True,
+        show_indexes=True,
+        rankdir='LR',
+        concentrate=False,
+    )
+    graph.write_png(output_file)
+    print(f"✅ ER diagram saved as {output_file}")

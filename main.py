@@ -6,6 +6,7 @@ import logging
 
 from dotenv import load_dotenv
 from aiogram import Dispatcher, Bot
+from aiogram.types import BotCommand
 from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
 # from yandex_cloud_ml_sdk.auth import APIKeyAuth
@@ -14,10 +15,21 @@ from aiogram.enums import ParseMode
 
 # from app.llm.LLMClient import TogetherAIClient
 # from app.llm.prompter import Prompter
-from app.routers import user, admin, teacher, organization
-from app.routers.admin_router import Admin
+from app.routers import reg, user, admin, teacher, organization
 from app.database.models import async_main, drop_all_tables
 warnings.filterwarnings("ignore", category=UserWarning)
+
+async def set_commands(bot: Bot):
+    commands = [
+        BotCommand(command="start", description="Начать работу с ботом"),
+        BotCommand(command="help", description="Инструкция по работе с ботом"),  # "Помощь по боту"
+        BotCommand(command="settings", description="Настройка параметров генерации"),
+        BotCommand(command="feedback", description="Сообщить о проблеме"),
+        BotCommand(command="study", description="Начать обучение"),
+        # BotCommand(command="info", description="Описание функциональности бота"),
+    ]
+    await bot.set_my_commands(commands)
+
 
 
 async def main(config):
@@ -35,9 +47,9 @@ async def main(config):
     # prompter = Prompter()
     bot = Bot(token=TG_BOT_TOKEN,
               default=DefaultBotProperties(parse_mode=ParseMode.HTML))
-
     dp = Dispatcher()
-    dp.include_routers(admin, organization, teacher, user)
+    dp.include_routers(user, admin, teacher, organization, reg)
+    await set_commands(bot)
     dp.startup.register(startup)
     dp.shutdown.register(shutdown)
     await dp.start_polling(bot)
