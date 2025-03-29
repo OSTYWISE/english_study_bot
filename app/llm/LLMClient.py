@@ -105,7 +105,7 @@ async def discuss_litwork(
         max_tokens: int | None = None,
         model_specification: str = "yandexgpt/rc") -> str:
     try:
-        system_prompt = "You are a brilliant student that study “Drama and Theatre” advanced english course." + \
+        system_prompt = "You are a brilliant student that study “Fantastic in World Literature” advanced english course." + \
             "You discuss the text of the literary work, that is provided below, with your classmate. " + \
             "You want to help him to analyze the text, the realize the real meaning author put to his work. " + \
             "You may use your background knowledge about the work and literary work and provided author if needed. " + \
