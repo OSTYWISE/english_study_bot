@@ -25,7 +25,7 @@ user = Router()
 async def cmd_start(message: Message, state: FSMContext) -> None:
     await message.answer(
         f"Hi, {hbold(message.from_user.full_name)}!\n"
-        "I am your helper in \"Drama and Theatre\" course studying")
+        "I am your helper in \"Fantastic in World Literature\" course studying")
     help_message = "I have different options to organize your learning process:\n" + \
         "1. Generate questionary with 5 multiple choice questions about the literary work you'll choose (/questionary);\n" + \
         "2. Discussion mode: I'll be your classmate to discuss the plot and the meaning of engrossing scences(/discuss);\n" + \
