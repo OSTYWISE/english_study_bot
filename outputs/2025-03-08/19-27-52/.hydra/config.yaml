@@ -1,5 +1,0 @@
-database: {}
-graph: {}
-recommender: {}
-model:
-  model_name: deepseek-ai/DeepSeek-R1-Distill-Llama-70B-free

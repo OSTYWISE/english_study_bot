@@ -1,5 +1,4 @@
 import os
-import hydra
 import warnings
 import asyncio
 import logging
@@ -9,30 +8,25 @@ from aiogram import Dispatcher, Bot
 from aiogram.types import BotCommand
 from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
-# from yandex_cloud_ml_sdk.auth import APIKeyAuth
-# from hydra.utils import instantiate
-# from omegaconf import DictConfig, OmegaConf
-
-# from app.llm.LLMClient import TogetherAIClient
-# from app.llm.prompter import Prompter
-from app.routers import reg, user, admin, teacher, organization
-from app.database.models import async_main, drop_all_tables
+from app.user_router import user
+from app.database.models import async_main
 warnings.filterwarnings("ignore", category=UserWarning)
+
 
 async def set_commands(bot: Bot):
     commands = [
-        BotCommand(command="start", description="Начать работу с ботом"),
-        BotCommand(command="help", description="Инструкция по работе с ботом"),  # "Помощь по боту"
-        BotCommand(command="settings", description="Настройка параметров генерации"),
-        BotCommand(command="feedback", description="Сообщить о проблеме"),
-        BotCommand(command="study", description="Начать обучение"),
-        # BotCommand(command="info", description="Описание функциональности бота"),
+        BotCommand(command="start", description="Start working with bot"),
+        BotCommand(command="help", description="Instructions for working with bot"),
+        BotCommand(command="change_litwork", description="Change the literary work"),
+        BotCommand(command="questionary", description="Test your knowledge"),
+        BotCommand(command="discuss", description="Discuss the literary work"),
+        BotCommand(command="idea", description="Generate new idea"),
+        BotCommand(command="stop", description="Stop the discussion"),
     ]
     await bot.set_my_commands(commands)
 
 
-
-async def main(config):
+async def main():
     """
     Main script for launching bot
     Args:
@@ -43,12 +37,10 @@ async def main(config):
     TG_BOT_TOKEN = os.getenv("BOT_TOKEN", "")
 
     # together_client = TogetherAIClient(api_key=TOGETHER_API_KEY)
-    # model_name = config.model.model_name
-    # prompter = Prompter()
     bot = Bot(token=TG_BOT_TOKEN,
               default=DefaultBotProperties(parse_mode=ParseMode.HTML))
     dp = Dispatcher()
-    dp.include_routers(user, admin, teacher, organization, reg)
+    dp.include_routers(user)
     await set_commands(bot)
     dp.startup.register(startup)
     dp.shutdown.register(shutdown)
@@ -66,9 +58,7 @@ async def shutdown(dispatcher: Dispatcher):
 
 if __name__ == '__main__':
     try:
-        logging.basicConfig(level=logging.INFO)
-        with hydra.initialize(version_base=None, config_path="app/configs"):
-            config = hydra.compose(config_name="baseline")
-        asyncio.run(main(config))
+        logging.basicConfig(level=logging.DEBUG)
+        asyncio.run(main())
     except KeyboardInterrupt:
         pass

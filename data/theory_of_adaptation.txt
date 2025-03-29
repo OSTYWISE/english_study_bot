@@ -1,0 +1,2892 @@
+A Theory of
+Adaptation
+Second edition
+
+Linda Hutcheon with
+Siobhan O'Elynn
+
+Routledge
+Taylor & Francis Group
+
+LONDON AND NEW YORK
+
+PREFACE To THE SECOND EDITION
+PLUS GA CHANGE
+
+PLUS GA CHANGE!
+
+No, things do not stay the same, not always, and certainly not in the
+six years since
+-2--eration
+
+A 7heory ofAdaptation was first published. Flhe pro-
+
+of adaptations has continued apace, of course; our thirst
+
+retelling stories has not been quenched in the least.
+
+But what has
+
+nged is the availability of many new forms and platforms. New dig-
+
+media have burgeoned in these last years. Now iPads and iPhones
+
+become new sites for adaptive play. YouTube is the placement of
+choice for many adapters—especially for the parodically inclined. Fan
+
+=lüre has taken imaginative (and economic) possession of the fate
+favorite stories. Social networking has altered forever the com-
+
+—znication landscape. But we also witness familiar older films being
+
+through computerization techniques. The coexistence of
+
+new and the old, the digital and the analogue, is afait accompli: the
+-—=stion remaining is whether this shift is one of degree or, more radior kind (see Jenkins 2006: 257). For adaptation studies, is ours a
+
+Z=zsitional time or are we facing a totally new world?
+
+XIX
+
+xx
+
+PREFACE TO
+
+I
+
+SECOND
+
+had two main aims in writing A 'Theory ofAdaptation. nie
+
+was to tackle head-on the subtle and not so subtle denigration 0-2
+adaptation in our (late-Romantic, capitalist) culture that still tends
+to value the "original," despite the ubiquity and longevity of adapta-
+
+tion as a mode of retelling our favorite stories. And the second aim
+
+was to consider the ever-widening range of forms of adaptations, vcell
+beyond the fiction-to-film discussions that dominated the field in its
+early years. To these ends, in Chapter 2 and again in Chapter 4, 'in
+
+theorizing three possible modes of engagement with adapted stortes —telling,
+
+showing, and interacting with—I also tried, throuch
+
+the latter, to articulate my sense of something new and different hap-
+
+pening in everything from videogames to interactive art installations
+to hypertext fiction. It is not that reading a print book and watchinz
+a film are not active, even Immersive, processes. '%ey clearly are. But
+
+that "something new and different" was evident even in the grammar
+to which I had to resort: some adaptational strategies; demand that wt
+
+show or tell stories, but in others, we interact with them. The verbal
+transitivity of showing and telling had to be replaced by the prepositional engagement of the "with" that signals something as physical
+
+and kinetic as it is cognitive and emotional. This is true whether thi
+
+medium be an iPad adaptation of T.S. Eliot's poem 7he Waste Lar.=
+or a multi-platform site like Pottermore, designed not only as a vehick
+for the electronic versions of the Harry Potter novels, but as mucz
+
+much more.
+I have chosen not to rewrite
+
+A 7heory ofAdaptation in the light of these
+
+recent changes, but rather to add to it.
+
+"interactive" category
+
+been expanded immensely by the rise of the newer digital media, b.
+in ways that seem to me to be a continuation of the kind of thinkir.z
+
+begun in the existing book. And my discussion of the growing role
+fan culture in Chapter 4, in the context of" The Pleasures of Adapt atior-.
+allows room for the expansion needed to further theorize the expr.
+Sion of fan participation in adaptation that we have witnessed in the
+years. But the lateral (not vertical—that is, evaluational and thus high
+
+lower) continuum of adaptive relations outlined in the final chapter cv-
+
+and should be rethought and retheorized in the light of the new mediæ
+
+PREFACE TO THE SECOND EDITION
+Enter Siobhan O'Flynn, the one who has taught me everything I
+
+Know about adaptation in the new media. It seemed fitting, therefore,
+that she, not I, should move the field of adaptation studies forward in
+her usual fearless way. Hence, her Epilogue—which, I can assure you,
+will not be her last word on this emerging and constantly morphing
+topic. As both a theorist and a practitioner,
+
+she lives these immersive
+
+oractices, and can speak with that double authority to the shift that has
+
+altered not only the forms
+
+of adaptation but also the economics and
+
+:ven the ethics of the global entertainment and media industries.
+
+MJhat's New about Media Change?
+-a a word, nothing. In the sixteenth century,
+
+Leonardo da Vinci's
+
+rnural painting of the Last Supper was adapted into the form ofa Flem
+Ish tapestry that hangs in Rome's Vatican Museum. Today, however,
+-
+
+media change" is not just a question of remediation. Digital is more
+
+than a platform; it is changing the context in which films, for instance,
+
+made, distributed, and consumed (see Perlmutter 2011). But of parZicular interest to adaptation studies is the fact that technology is also
+
+altering how we actually tell and re-tell our stories, for it challenges
+
+the traditional cinematic way of narrating: now, a new compendium of
+
+zraphic text, still and moving images, sound, and a cursor or interac-
+
+Eve touch screen IS to digital narration what cross-cutting, tracking
+shots, and closeups are to narration that privileges the moving image
+a-ad
+
+sound. But because of those navigating devices, the new media
+
+a•age us directly—in an individualized, indeed personalized manner
+point to which
+
+'I
+
+shall return). As
+
+Tom Perlmutter, the director of
+
+National Film Board of Canada, recently put it, navigation is to
+zzeractivity what montage is to film. lhis also means that the forward
+
+moving temporal force of film is being replaced by the digital media's
+=teractive, spatial movement.
+
+nie conventions of storytelling—and story retelling—are changing
+Zily, in other words. Again, this process of change is not new, but its
+
+has certainly intensified and quickened and its forms multiplied
+
+oanese cellphone novels are being adapted to print, often in anime
+the ethical values ofthe story world of Harry Potter are adapted to
+real world of social activism. The Harry Potter Alliance website asks:
+
+PREFACE TO THE SECOND EDITION
+
+xxii
+
+Did you ever wish that Harry Potter was real? Well it kind of is.
+Just as Dumbledore's Army wakes the world up to Voldemort's
+return, works for equal rights of house elves and werewolves,
+
+and
+
+empowers its members, we: Work with partner NGOs in alerting
+the world to the dangers of global warming, poverty, and genocide.
+
+Work with our partners for equal rights regardless of race, gender,
+and sexuality. Encourage our members to hone the magic of their
+creativity in endeavoring to make the world a better place. Join our
+
+army to make the world a safer, more magical place, and let your
+voice be heard!
+
+(http://thehpalliance.org/)
+
+Without a crystal ball, it's hard to know whether all this adaptive
+experimentation means that we are in a transitional phase or whether
+
+something has changed definitively. Tie argument for transition could
+be made by looking, as Siobhan O' Flynn does, at how the iPad's new
+interactive and intermedial iBooks both integrate and transform the
+
+conventions of the physical book through audio (sound and voice-over)
+additions as well as by incorporating film animation and touch-screen
+
+gaming design. But material books are arguably fighting back, adapting through inversion the visual layering technology possible on digi
+tal platforms to the paper page: to create his 2010 book free of Codes,
+
+Jonathan Safran Foer literally cut out most of the words of his favourite book, Bruno Schulz's Tee of Crocodiles, creating a physically multi-
+
+layered, sculptural text that told his own story in the interstices (see
+
+Figure 1).
+
+As the author put it: "l started thinking about what books look like,
+what they will look like, how the form of the book is changing very
+quickly. Tf we don't give it a lot of thought, it won't be for the better.
+Flhere is an alternative to e-books" (quoted in Wagner 2010). But that
+
+alternative arguably adapts the layered visuality of a form reminiscent
+
+of digital media (specifically, Photoshop). We may well "make sense
+of novelty through the lens of history," defining "new technologies in
+terms of older, more familiar ones" (Moore 2010: 181), but that process can also be reversed. Tie transitional can operate both ways with
+
+adaptations.
+
+PREFACE TO THE SECOND EDITION
+
+XXIII
+
+Oce
+
+Figure 1 Image from Tree of Codes by Jonathan Safran Foer. Reproduced with permisSion from Visual Edition
+
+That said, in the last six years, what has become evident is that the
+
+new entertainment norm, not the exception, is transmedia" storytell
+ing: "a process
+
+where integral elements of a fiction get dispersed sys-
+
+tematically across multiple delivery channels for the purpose of creating a
+
+unified and coordinated entertainment experience. Ideally, each medium
+
+makes its own unique contribution to the unfolding of the story" (Jenkins 2011; emphasis in original). As such it is more likely to target
+different audiences
+
+through different media:
+
+not everyone wants to
+
+watch the movie and play the game" (Dena 2009: 162)—but we may
+
+want to enter the narrative and its world through some other medium
+graphic novel, for example) or to access backstory or other charac
+ters'
+
+perspectives. (For more on adaptation in relation to transmedia,
+
+see Dena 2009: 147—63.) In marketing terms, "franchise" storytelling
+
+was certainly already driving some adaptational practices as I completed this book (see "The Economic Lures" section of Chapter 3), but
+
+now, as the Epilogue explores in detail, franchising through transmedia design dominates the marketing strategies of the entertainment
+industry. And in so doing, it is forcing a rethinking of certain aspects
+
+PREFACE TO THE SECOND EDITION
+
+XXIV
+
+of adaptation theory. For example, when it is not a single, fixed, recognizable story that is being adapted, but rather an on-going, unstable,
+
+open-ended "multitext," where do we draw the line at what we call an
+adaptation? And what is it that is actually being adapted?
+
+Stories vs. Story Worlds
+
+The emphasis throughout A Theory ofAdaptation is on adapting narrative, but
+
+when it came to analyzing videogame adaptations, I realized
+
+that it was less the story itself than the story world, or what I called the
+
+"heterocosm" (literally, an other cosmos), that was being adapted. In
+
+transmedia storytelling, that fictional world is the core, for it becomes
+the site of multiple possible storylines. Elhe Epilogue argues that this is
+yet another change that demands the expansion of existing theories of
+adaptation. Tie proliferation of franchise storytelling suggests to Clare
+
+Parody that what is actually adapted is "a brand identity, the intellectual
+property, advertising language, and presentational devices that cohere,
+authorize, and market the range of media products that together comprise the franchise experience" (2011: 214).
+
+7hematic and narrative
+
+persistence is not the name of the new adaptation game; world building
+is.
+
+This also means that theorizing adaptation only in terms of rep
+
+etition with variation 'becomes too limiting; what must be added is a
+
+way to deal with the range of extensions or expansions of a story world
+that not only transmedia producers but, as we shall see, fans too have
+
+wrought.
+It obviously becomes harder and harder to think in terms of "origi-
+
+nal" or "source" stories or even story worlds when dealing with these
+
+kinds of adaptations, because here simultaneity, not priority, reigns.
+
+Movie and video game versions, for instance, are conceived and even
+executed simultaneously; there is no single and prior adapted work.
+
+Martin McEachern explains that film crews now work alongside video
+
+game artists, who take photographs and record the proportions and
+work closely with the film's production designers
+and the visual effects team "to make sure their game upholds the same
+textures of sets.
+
+production values as the film.
+
+.
+
+.
+
+[I]n this era of cross-platform mar-
+
+keting and convergent technology, major film properties live twice—in
+the movie theater and in the interactive realm" (2007: 12). But, as the
+
+PREFACE TO THE SECOND EDITION
+
+xxv
+
+Epilogue explores, they live in many other realms besides these, realms
+not always under the control of the major studios.
+
+Who Is in Control?
+The last decade has witnessed a major democratizing shift in media
+production—through the sheer
+
+(global)
+
+reach
+
+of the
+
+Internet,
+
+through software like iMovie and Photoshop, through web
+
+plat-
+
+forms like blogs and wikis, and through the ready availability of
+low-cost (but high quality) recording and editing tools. As O'Flynn
+argues in the Epilogue, this has had an impact on how adaptations
+are not only produced
+
+and controlled, but also distributed. In this
+
+new media environment, "adaptation becomes a strategy of participations Rather than develop wholly new works, audiences take ownership over existing media, adapting the stories, shows,
+
+and films
+
+that they most identify with" (Moore 2010: 183). And nowhere has
+this been more evident than in fan culture. YouTube, Facebook, and
+
+Twitter have made it easy to adapt digital content, for that content is
+not only accessible and repeatable, but also infinitely modifiable. In
+
+our capitalist culture, it is no doubt needless to point out that this is
+not always legal, despite the strong democratizing ethos of the Internet. (See
+
+Legal Constraints" section of Chapter 3.) The Epi
+
+logue analyzes a number of famous cases where copyright law and
+fan adaptation practices have come into conflict, but it also carefully
+
+nuances what is at stake in these struggles by pointing out that media
+conglomerates paradoxically have an economic interest in fostering
+fan devotion, while still attempting to retain sole control over the
+intellectual property that garners them profits.
+
+Fan-generated content has exploded in recent years, and not only
+online, of course. Yet, when fans can remake their favourite films on
+
+minimal budgets ("sweding") and then distribute them on YouTube,
+
+who is in control? When they can adapt and thus personalize a video
+game to suit themselves, should its creators greet this with "cease
+and desist" letters or with joy at the free publicity? Fan loyalty can
+obviously translate into sales, but it can also pose a threat to control
+
+and ultimately to economic gain. When fans can not only view but
+remix, interact with, and share content, an argument can be made
+
+xxvi
+
+PREFACE TO THE SECOND EDITION
+
+that individual agency has trumped textual fidelity,
+
+and with that,
+
+ownership rights, For better or worse, the new media are participatory media.
+
+What Else Has Changed?
+Tie field of adaptation studies itself has grown immensely—and this
+translates into a considerable
+
+debates" were
+
+still
+
+change since 2006 when the "fidelity
+
+ongoing (see Leitch 2008)—that is to say, when
+
+adaptations were being judged in terms of quality by how close or far
+
+they were from their 'original" or "source" texts. One of the reasons
+for this emphasis was the fact that much of the early work in the field
+
+had been based on comparative case studies of particular works, rather
+than attempting to theorize more broadly the phenomenon of adapta
+tion. With the important work of, first, Robert Stam, Kamilla Elliott,
+
+Deborah Cartmell and Imelde Whelehan, and then others such as
+Julie Sanders, Christine Geraghty, and
+
+%omas Leitch, the critical ter-
+
+rain has changed immensely, though vestiges of fidelity criticism still
+
+remain in reviewing practices, especially of films adapted from beloved
+novels.
+
+Today, if "fidelity" is invoked at all in adaptation studies, it is usually, as in this
+
+book (see Chapter 4's "Knowing and Unknowing Audi-
+
+ences"), in the context of fan-culture loyalty rather than as a quality of
+
+adaptive strategies. "The "success" of an adaptation today, in the age of
+
+transmedia, can no longer be determined in relation to its proximity 'to
+
+any single "original," for none may even exist. Perhaps it is time to look
+instead to such things as popularity, persistence, or even the diversity
+
+and extent of dissemination for criteria of success (see Bortolotti and
+
+Hutcheon 2007: 450—53).
+
+is
+
+how biology thinks about adaptation:
+
+in terms of successful replication and change. Perhaps cultural adapta-
+
+tion can be seen to work in similar ways.
+
+If it ever does, it will be because adaptation as a field of study has
+
+been expanding its scope in recent years. New journals dedicated to
+adaptation have appeared, but film and fiction still appear to remain at
+the top of the list of major academic concerns: the title of Toe Journal
+
+ofAdaptation in Film and Performance announces its limited focus, as
+does the "literature on screen
+
+mandate of the more generally-named
+
+PREFACE TO THE SECOND EDITION
+
+XXVII
+
+journal, Adaptation. The canonization of literature-to-film adaptation
+studies persists (see Cartmell and Whelehan 2007; Palmer 2007a and
+
+2007b). Even the move to theorize adaptation in digital media has
+often been film-oriented (see Constandinides 2010). But new collections of essays have broadened the range of both the theory and practice
+
+of adaptation studies to include indigenization across cultures as
+
+well as translation across languages (in Laurence Raw, ed., Translation,
+
+Adaptaiion and T-ansformation [2012]; Tricia Hopton, Adam Atkin
+son, Jane Stadler,
+
+and Peta Mitchell, eds., Pockets of Change: Adapta-
+
+tion and Cultural Tansition [2011]; and to some extent Rachel Carroll,
+ed.,
+
+Adaptation in Contemporary Culture: Textual Infidelities [2009]).
+
+Interdisciplinarity now rules (see Sanders 2011: x). And therefore most
+
+new works in the field have not been simple case-study compilations,
+but rather serious engagements with theoretical issues as well, often
+
+within a particular historical period, as in William Verone's Adaptation
+
+and the Avant Garde (2011). The pedagogical focus of Nassim Bales
+trini's
+
+edited collection, Adaptation and American Studies: Perspectives
+
+on Teaching and Research, acknowledges the increasingly evident reality of the educational importance and prominence of adaptation today.
+
+(See also the textbooks on adaptation by Desmond and Hawkes [2005]
+
+and Cahir [2006].) %ese provide yet further reasons for the addition of
+the Epilogue here, in order to address not just film but also other new
+
+media that are the site of adaptation for an entire new generation of
+story (re)tellers and story-world makers.
+
+Has anything not changed in the last SIX years? With some regret,
+
+'I
+
+still hear echoes of those all too familiar denigrations of adaptation today
+
+in the context of transmedia storytelling where, in O'Flynn's account of
+
+the industry debate currently underway, adaptation becomes a "lesser,
+
+more simplistic mode of reworking content." Others point to a related
+and repeated rhetoric of commoditization and commercialization that
+haunts adaptation discussions of franchise storytelling (Parody 2011:
+216). Some acknowledge that video game adaptations of films will prob-
+
+a bly always be seen as derivative and secondary productions, "beholden
+to" the prior adapted work (Moore 2010: 185). Yet, in practice, the con-
+
+tinuing ubiquity and longevity of adaptational strategies across everc hanging
+
+and ever-developing new media suggest a more optimistic
+
+XXVIII
+
+PREFACE TO THE SECOND EDITION
+
+future where such dismissive evaluations just might disappear. Just as
+
+biology does not evaluate the merit of organisms relative to their ances-
+
+tors—for all have equal biological validity—so too may all cultural adap
+tations one day be seen to have equal cultural validity.
+
+1
+
+BEGINNING TO THEORIZE
+ADAPTATION:
+What? Who? Why? How? Where? When?
+
+[Clinema is still playing second fiddle to literature.
+
+—Rabindranath Tagore (1929)
+Writing a screenplay based on a great novel [George Eliot's
+Daniel Deronda] is foremost a labor of simplification. I don't mean
+only the plot, although particularly in the case of a Victorian novel
+
+teeming with secondary characters and subplots, severe pruning is
+required, but also the intellectual content.
+
+A film has to convey
+
+its
+
+message by images and relatively few words; it has little tolerance
+for complexity or irony or tergiversations. I found the work exceed-
+
+ingly difficult,
+
+beyond anything I had anticipated. And, I should
+
+add, depressing: I care about words more than images, and yet I was
+
+2
+
+A THEORY OF ADAPTATION
+constantly sacrificing words and their connotations. You might tell
+
+me that through images film conveys a vast amount of information
+that words can only attempt to approximate, and you would be right,
+
+but approximation is precious in itself, because it bears the author's
+stamp. All in all, it seemed to me that my screenplay was worth much
+less than the book, and that the same would be true of the film.
+
+—Novelist John North in Louis Begley's novel, Shipwreck (2003)
+
+Familiarity and Contempt
+
+Adaptations are everywhere today: on the television and movie screen,
+
+on the musical and dramatic stage, on the Internet, in novels and comic
+books, in your nearest theme park and video arcade.
+
+A certain level
+
+of self-consciousness about—and perhaps even acceptance of—their
+ubiquity is suggested by the fact that films have been made about the
+process itself, such as Spike Jonze's Adaptation or Terry Gilliam's Lost
+in La Mancha, both in 2002. Television series have also
+
+act of adaptation, like the eleven-part
+
+explored the
+
+BRAVO documentary "Page
+
+to Screen." Adaptations are obviously not new to our time, however;
+
+Shakespeare transferred his culture's stories from page to stage and
+
+made them available to a whole new audience. Aeschylus and Racine
+and Goethe and da Ponte also retold familiar stories in new forms.
+Adaptations are so much a part ofYVestern culture that they appear to
+affirm Walter Benjamin's insight that "storytelling is always the art of
+
+repeating stories" (1992: 90).
+
+critical pronouncements of T.S. Eliot
+
+or Northrop Frye were certainly not needed to convince avid adapters
+across the centuries of what, for them, has always been a truism: art is
+
+derived from other art; stories are born of other stories.
+Nevertheless, in both academic criticism and journalistic reviewing,
+
+contemporary popular adaptations are most often put down as second
+ary, derivative, "belated,
+
+middlebrow, or culturally inferior" (as noted
+
+by Naremore 2002b: 6). This is what Louis Begley's novelist-adapter
+is
+
+expressing in the epigraph; but there are more strong and decidedly
+
+moralistic words used to attack film adaptations of literature: "tam
+pering," 'finterference,"
+
+violation" (listed in
+
+"betrayal," "deformation,"
+
+McFarlane 1996:
+
+12),
+
+perversion," "infidelity," and "desecration
+
+BEGINNING TO THEORIZE ADAPTATION
+
+3
+
+(found by Stam 2000: 54). The move from the literary to the filmic
+or televisual has even been called a move to "a willfully inferior form
+
+of cognition
+
+(Newman 1985: 129). Although adaptation's detractors
+
+argue that "all the directorial Scheherazades of the world cannot add
+
+up to one Dostoevsky" (Peary and Shatzkin 1977: 2), it does seem to
+be more or less acceptable to adapt Romeo and Juliet into a respected
+high art form, like an opera or a ballet, but not to make it into a movie,
+especially an updated one like Baz Luhrmann's (1996) William Shakespeare's Romeo + Juliet. If an adaptation is perceived as "lowering" a story
+
+(according to some imagined hierarchy of medium or genre), response
+is likely to
+
+be negative. Residual suspicion remains even in the admira-
+
+tion expressed for something like Julie Taymor's Titus (1999), her critically successful film version
+
+of Shakespeare's Titus Andronicus. Even
+
+In our postmodern age of cultural recycling, something—perhaps the
+
+commercial success of adaptations—would appear to make us uneasy.
+
+As early as 1926, Virginia Woolf, commenting on the fledgling art
+of cinema, deplored the simplification of the literary work that inevita
+bly occurred in its transposition to the new visual medium and called
+film a "parasite" and literature its
+
+prey" and "victim" (1926: 309). Yet
+
+she also foresaw that film had the potential to develop its own indepen-
+
+dent idiom: "cinema has within its grasp innumerable symbols for emo
+tions that have so far failed to find expression" in words (309).
+it
+
+And so
+
+does. In the view of film semiotician Christian Metz, cinema "tells
+
+us continuous stories; it 'says' things that could be conveyed also In the
+
+language of words; yet it says them differently. %ere is a reason for
+the possibility as well as for the necessity of adaptations" (1974: 44).
+
+However, the same could be said of adaptations in the form of muslcals,
+
+operas, ballets, or songs. All these adapters relate stories in their
+
+different ways. They use the
+
+same tools that storytellers have always
+
+used: they actualize or concretize ideas; they make simplifying selections, but also amplify and extrapolate; they make analogies; they cri-
+
+tique or show their respect, and so on. But the stories they relate are
+
+taken from elsewhere, not invented anew. Like parodies, adaptations
+
+have an overt and defining relationship to prior texts, usually revealingly called "sources." Unlike parodies, however, adaptations usually
+
+openly announce this relationship. It is the (post-) Romantic valuing
+
+A THEORY OF ADAPTATION
+
+4
+
+of the original creation and of the originating creative genius that is
+clearly one source of the denigration of adapters and adaptations. Yet
+this negative view IS actually a late addition to Western culture's long
+
+and happy history of borrowing and stealing or, more accurately, sharing stories.
+
+For some, as Robert Stam argues, literature will always have axiomatic superiority over any adaptation of it because of its seniority as
+
+an art form. But this hierarchy also involves what he calls iconophobia
+(a
+
+suspicion of the visual) and logophilia (love of the word as sacred)
+
+(2000: 58). Of course, a negative view of adaptation might simply be
+the product of thwarted expectations on the part ofa fan desiring fidelity to a beloved adapted text or on the part of someone teaching lit-
+
+erature and therefore needing proximity to the text and perhaps some
+
+entertainment value to do so.
+If adaptations are, by this definition, such inferior and secondary
+creations, why then are they so omnipresent in our culture and, indeed,
+
+increasing steadily in numbers? Why, even according to 1992 statistics,
+are 85 percent of all Oscar-winning Best Pictures adaptations?
+
+Why
+
+do adaptations make up 95 percent of all the miniseries and 70 percent
+of all the
+
+TV movies of the week that win Emmy Awards? Part of the
+
+answer no doubt has to do with the constant appearance of new media
+
+and new channels of mass diffusion (Groensteen 1998b: 9). %ese have
+clearly fueled an enormous deman&for all kinds of stories. Nonetheless, there must be something particularly appealing about adaptations
+
+as adaptations.
+
+Part of this pleasure, I want to argue, comes simply from repetition
+
+with variation, from the comfort of ritual combined with the piquancy
+of surprise. Recognition and remembrance are part of the pleasure (and
+risk)
+
+of experiencing an adaptation; so too is change. Thematic and
+
+narrative
+
+persistence
+
+Wuilleumier 1998:
+
+combines with material variation
+
+131),
+
+(Ropars-
+
+with the result that adaptations are never
+
+simply reproductions that lose the Benjaminian aura. Rather, they
+carry that aura with them. But as John Ellis suggests, there
+
+is
+
+something counterintuitive about this desire for persistence within a
+post-Romantic and capitalist world that values novelty primarily: the
+process of adaptation should thus be seen as a massive investment
+
+BEGINNING TO THEORIZE ADAPTATION
+
+(financial
+
+and psychic)
+
+5
+
+in the desire to repeat particular acts of
+
+consumption within a form of representation [film, in this case] that
+discourages such a repetition" (1982: 4—5).
+
+As Ellis' commercial rhetoric suggests, there is an obvious finanCial
+
+appeal to adaptation as well. It is not just at times of economic
+
+downturn that adapters turn to safe bets: nineteenth-century Italian
+co mposers of that notoriously expensive art form, opera, usually chose
+to adapt reliable—that is, already financially successful—stage plays or
+
+novels in order to avoid financial risks, as well as trouble with the censors (see Trowell 1992: 1198, 1219).
+
+Hollywood films of the classical
+
+period relied on adaptations from popular novels, what Ellis calls the
+"tried and tested" (1982: 3), while British television has specialized in
+
+adapting the culturally accredited eighteenth- and nineteenth-century
+novel, or Ellis' "tried and trusted." However, It is not simply a matter
+
+of risk-avoidance; there is money to be made.
+
+A best-selling book may
+
+reach a million readers; a successful Broadway play will be seen by 1 to
+8 million people; but a movie or television adaptation will find an audi-
+
+ence of many million more (Seger 1992: 5).
+recent phenomenon of films being "musicalized" for the stage is
+
+obviously economically driven. The movies of 7he Lion King or 7he Producers offer ready-made name recognition for audiences, thereby reliev-
+
+tng some of the anxiety for Broadway producers of expensive musicals.
+
+Like sequels and prequels, "director's cut"
+
+DVDs and spin-offs,
+
+videogame adaptations based on films are yet another way of taking
+one 'property" in a "franchise" and reusing it in another medium. Not
+only will audiences already familiar 'With the "franchise" be attracted to
+the new "repurposing" (Bolter and Grusin 1999: 45), but new consumers will also be created. Flhe multinationals
+
+who own film studios today
+
+often already own the rights to stories in other media, so they can be
+recycled for videogames, for example, and then marketed by the televiSion stations they also own (%ompson 2003: 81—82).
+
+Does the manifest commercial success of adaptations help us under
+stand why the 2002 film The Royal Tenenbaums (directed by Wes Ander-
+
+son with a script by Owen Wilson) opens with a book being checked
+out of a library—the book upon which the film implicitly claims to
+
+be based? Echoing movies like David Lean's Great Expectations (1946),
+
+6
+
+A THEORY OF ADAPTATION
+
+which begins with a shot of the Dickens novel opened to Chapter 1,
+scene changes in Anderson's movie are marked by a shot of the Tenen-
+
+baums' "book" opened to the next chapter, the first lines of which
+describe what we then see on screen. Because, to my knowledge, this
+film is not adapted from any literary text, the use of this device is a
+direct and even parodic recall of its use in earlier films, but with a difference: the authority of literature as an institution and thus also of the
+
+act of adapting it seems to be what is being invoked and emphasized.
+
+But why would a film want to be seen as an adaptation? And what do
+
+we mean by a work being seen as an adaptation?
+
+Treating Adaptations as Adaptations
+
+To deal with adaptations as adaptations is to think of them as, to use
+Scottish poet and scholar Michael Alexander's great term (Ermarth
+
+2001: 47), inherently "palimpsestuous" works, haunted at
+
+all
+
+times
+
+by their adapted texts. If we know that prior text, we always feel its
+presence shadowing the one we are experiencing directly. When we
+call a work an adaptation, we
+
+openly announce its overt relationship
+
+to another work or works. It is what Gérard Genette would call a text
+
+in the "second degree" (1982: 5), created and then received in relation
+to a prior text. Flhis is why adaptation studies are so often comparative
+
+studies (cf. Cardwell 2002: 9).
+
+is
+
+not to say that adaptations are
+
+not also autonomous works that can be interpreted and valued as such;
+as many theorists have insisted, they obviously are (see, for example,
+
+Bluestone 1957/1971; Ropars 1970). This is one reason why an adaptation has its own aura, its own "presence in time and space, its unique
+
+existence at the place where it happens to be" (Benjamin 1968: 214). I
+
+take such a position as axiomatic, but not as my theoretical focus. To
+interpret an adaptation as an adaptation is, in a sense, to treat it as what
+
+Roland Barthes called, not a "work," but a "text," a plural "stereophony
+of echoes, citations, references" (1977: 160). Although adaptations are
+also aesthetic objects in their own right, it is only as inherently double-
+
+or multilaminated works that they can be theorized as adaptations.
+
+An adaptation's double nature does not mean, however, that proximity or fidelity to the adapted text should be the criterion of judgment or
+
+the focus of analysis. For a long time, "fidelity criticism," as it came to
+
+BEGINNING TO THEORIZE ADAPTATION
+
+7
+
+be known, was the critical orthodoxy in adaptation studies, especially
+
+when dealing with canonical works such as those of Pushkin or Dante.
+Today that dominance has been challenged from a variety of perspectives (e.g., McFarlane 1996: 194; Cardwell 2002: 19) and with a range
+
+of results. And, as George Bluestone pointed out early on, when a film
+
+becomes a financial or critical success, the question of its faithfulness
+is
+
+given hardly any thought (1957/1971: 114).
+
+My decision not to con
+
+centrate on this particular aspect of the relationship between adapted
+text and adaptation means that there appears to be little need to engage
+
+directly in the constant debate over degrees of proximity to the "origi
+
+nal" that has generated those many typologies of adaptation processes:
+
+borrowing versus intersection versus transformation (Andrew 1980:
+
+commentary versus transposition (Wagner
+1975: 222—31); using the source as raw material versus reinterpretation
+10-12); analogy versus
+
+of only the core narrative structure versus a literal translation (Klein
+
+and Parker 1981: 10).
+
+Of more interest to me is the fact that the morally loaded discourse
+of fidelity is based on the implied assumption that adapters aim simply
+to reproduce the adapted text (e.g., Orr 1984: 73). Adaptation is repeti-
+
+tion, but repetition without replication.
+
+And there are manifestly many
+
+different possible intentions behind the act of adaptation: the urge to
+
+consume and erase the memory of the adapted text or to call it into
+question is as likely as the desire to pay tribute by copying. Adaptations
+
+such as film remakes can even be seen as mixed in intent: "contested
+
+homage" (Greenberg 1998: 115), Oedipally envious and worshipful at
+the same time (Horton and McDougal 1998b: 8).
+If the idea of fidelity should not frame any theorizing of adaptation
+today, what should? According to its dictionary meaning, "to adapt" is
+to adjust, to alter, to make suitable.
+
+can be done in any number of
+
+ways. As the next section will explore in more depth, the phenomenon
+
+of adaptation can be defined from three distinct but interrelated perspectives, for I take it as no accident that we use the same word—adap-
+
+ration—to refer to the process and the product.
+First, seen as aformal entity orproduct, an adaptation is an announced
+
+and extensive transposition of a particular 'work or works. Tlis
+-transcoding" can involve a shift of medium (a poem to a film) or genre
+
+8
+
+A THEORY OF ADAPTATION
+
+(an epic to a novel), or a change of frame and therefore context: telling
+
+the same story from a different point of view, for instance, can create a
+
+manifestly different interpretation. Transposition can also mean a shift
+in ontology from the real to the fictional, from a historical account or
+
+biography to a fictionalized narrative or drama. Sister Helen Prejean's
+
+1994 book, DeadMan Walking: An Eyewitness Account ofthe Death Penalty in the
+
+United States, became first a fictionalized film (directed by
+
+Tim Robbins, 1995) and then, a few years later, an opera (written by
+Terrence McNally and Jake Heggie).
+Second, as a Process of creation, the act of adaptation always involves
+
+both (re-)interpretation and then (re-)creation; this has been called
+both appropriation and salvaging, depending on your perspective. For
+every aggressive appropriator outed by a political opponent, there is a
+patient salvager. Priscilla Galloway, an adapter of mythic and historical
+narratives for children and young adults, has said that she is motivated
+
+by a desire to preserve stories that are worth knowing but will not necessarily speak to a new audience without creative "reanimation" (2004),
+
+and that is her task. African film adaptations of traditional oral legends
+are also seen as a way of preserving a rich heritage in an aural and
+visual mode (Cham 2005: 300).
+
+Tlird, seen from the perspective of its Process ofTecePtion, adaptation
+is a
+
+form of intertextuality: we experience adaptations (as adaptations) as
+
+palimpsests through our memory of other works that resonate through
+repetition with variation. For the right audience, then, the novelization
+
+by Yvonne Navarro of a film like Hellboy (2004) may echo not only
+with Guillermo del Toro's film but also with the Dark Horse Comics
+series from which the latter was adapted.
+
+Paul Anderson's 2002 film
+
+Resident Evil will be experienced differently by those who have played
+
+the videogame of the same name, from which the movie was adapted,
+
+than by those who have not.
+In short, adaptation can be described as the following:
+
+An acknowledged transposition of a recognizable other work or
+works
+
+A creative and an interpretive act of appropriation/salvaging
+An extended intertextual engagement with the adapted work
+
+9
+
+BEGINNING TO THEORIZE ADAPTATION
+
+Iherefore, an adaptation is a derivation that is not derivative—a work
+that
+
+is
+
+second without being secondary.
+
+It is its
+
+own palimpsestic
+
+thing.
+
+Tiere is some apparent validity to the general statement that adaptation "as a concept can
+
+expand or
+
+contract.
+
+Writ large, adaptation
+
+includes almost any act of alteration performed upon specific cultural
+
+works of the past and dovetails with a general process of cultural recreation" (Fischlin and Fortier 2000: 4). But, from a pragmatic point of
+
+view, such vast definition would clearly make adaptation rather difficult
+to theorize.
+
+My more restricted double definition of adaptation as pro
+
+cess and product IS closer to the
+
+common usage of the word and is broad
+
+enough to allow me to treat not just films and stage productions, but
+also musical arrangements
+
+and song covers, visual art revisitations of
+
+prior works and comic book versions of history, poems put to music and
+
+remakes of films, and videogames and interactive art. It also permits me
+to draw distinctions; for Instance, allusions to and brief echoes of other
+
+would not qualify as extended engagements, nor do most examples of musical sampling, because they recontextualize only short frag-
+
+ments of music. Plagiarisms are not acknowledged appropriations, and
+Äequels
+
+and prequels are not
+
+really adaptations
+
+either,
+
+nor
+
+fiction. There is a difference between never wanting a story to
+
+is
+
+fan
+
+end—the
+
+reason behind sequels and prequels, according to Marjorie Garber
+
+2003: 73—74)—and wanting to retell the same story over and over in
+different ways. With adaptations, we seem to desire the repetition as
+
+much as the cha nge. Maybe this is why, in the eyes of the law, adapta
+tiDn IS a "derivative work"—that is, one based on one or more preexist-
+
+ing works, but "recast, transformed' (17
+
+USC 5101). Elhat seemingly
+
+•imple definition, however, is also a theoretical can of worms.
+
+Exactly What Gets Adapted? How?
+I
+
+Vhat precisely is "recast" and "transformed"? In law, ideas themselves
+
+cannot be copyrighted; only their expression can be defended in court.
+
+And herein lies the whole problem. As Kamilla Elliott has astutely
+zoted, adaptation commits the heresy of showing that form (expression)
+
+can be separated from content (ideas)—something both mainstream
+Esthetic and semiotic theories have resisted or denied (2003: 133),
+
+A THEORY OF ADAPTATION
+
+10
+
+even as legal theory has embraced it. The form changes with adaptation
+(thus evading most legal prosecution); the content persists. But what
+
+exactly constitutes that transferred and transmuted "content"?
+
+Many professional reviewers and audience members alike resort to
+the elusive notion of the spirit" ofa work or an artist that has to be cap'
+
+tured and conveyed in the adaptation for it to be a success. rlhe "spirit"
+
+of Dickens or Wagner is invoked, often to justify radical changes in the
+"letter" or form. Sometimes it is "tone" that is deemed central, though
+
+rarely defined (e.g., Linden 1971: 158, 163); at other times it is "style"
+
+(Seger 1992: 157). But all three are arguably equally subjective and, it
+
+would appear, difficult to discuss, much less theorize.
+
+Most theories of adaptation assume, however, that the story is the
+
+common denominator, the core of what is transposed across different media and genres, each of which deals with that story in formally
+different ways and, I would add, through different modes of engage-
+
+ment—narrating, performing, or interacting. In adapting, the story-
+
+argument goes, equivalences" are sought in different sign systems for
+the various elements of the story: its themes, events, world, characters,
+motivations, points of view, consequences, contexts, symbols, imagery,
+
+and so on. As Millicent Marcus has explained, however, there are two
+opposing theoretical schools of thought on this point: either a story
+can exist independently of any embodiment in any particular signify
+ing system or, on the contrary,åt cannot be considered separately from
+its
+
+material mode of mediation (1993: 14). What the phenomenon
+
+of adaptation suggests, however, is that, although the latter is obviously true for the audience, whose members experience the story in
+particular material form, the various elements of the story can be and
+are considered separately by adapters and by theorists, if only becaust
+
+technical constraints of different media will inevitably highlight differ-
+
+ent aspects of that story (Gaudreault and Marion 1998: 45).
+
+Ihemes are perhaps the easiest story elements to see as adapt abl±
+across media and even genres or framing contexts.
+
+As author Louis
+
+Begley said about the themes of his 1996 novel About Schmidt wher
+the work was transcribed to the screen by Alexander Payne and Jir
+Taylor: "I was able to hear them rather like melodies transposed in:
+a different key" (2003:
+
+1).
+
+Many Romantic ballets were derived fro
+
+BEGINNING TO THEORIZE ADAPTATION
+
+11
+
+Hans Christian Andersen's stories simply, some say, because of their
+traditional and easily accessible themes, such as quests, magical tasks,
+
+disguise and revelation,
+
+and innocence versus evil (Mackrell 2004).
+
+Composer Alexander Zemlinsky wrote a "symphonic fantasy" adap
+tation of Andersen's famous
+Little Mermaid" (1836) called Die
+Seejungfrau (1905) that includes musical programmatic descriptions of
+
+such elements as the storm and musical leitmotifs that tell the story and
+its
+
+themes of love, pain, and nature, as well as music that evokes emo
+
+tions and atmosphere befitting the story.
+
+A modern manual for adapt-
+
+ers explains, however, that themes are, in fact, of most importance to
+
+novels and plays; in
+
+action and
+
+TV and films, themes must always serve the story
+
+reinforce or dimensionalize" it, for in these forms, story-
+
+line is supreme——except in European "art" films (Seger 1992: 14).
+
+Characters, too, can obviously be transported from one text to
+another, and indeed, as Murray Smith has argued, characters are cruCial to the rhetorical and aesthetic effects of both narrative and perfor-
+
+mance texts because they engage receivers imaginations through what
+he calls recognition, alignment, and allegiance (1995: 4—6). The theater
+
+-nd the novel are usually considered the forms in which the human
+subject is central. Psychological development (and thus receiver empath3) is part of the narrative and dramatic arc when characters are the
+
+of adaptations. Yet, in playing videogame adaptations of films,
+can actually "become" one of the characters and act in their fic:ional world.
+
+The separate units of the story (or the fabula) can also be transmedi2ted—just as they can be summarized in digest versions or transzed into another language
+
+(Hamon 1977: 264). But they may well
+
+-hange—often radically—in the process of adaptation, and not only
+
+most obviously) in terms of their plot ordering. Pacing can be
+—ansformed, time compressed or expanded. Shifts in the focalizaor point of view of the adapted story may lead to major differ-
+
+When David Lean wrote, directed, and edited the film version
+E.NI. Forster's 1924 novel Passage to India in 1984, he altered the
+•.-el's
+
+focalization on the two men, Fielding and Aziz, and their cross
+
+=ltural interrelations. Instead, the film
+
+tells
+
+Adela's
+
+story,
+
+add
+
+scenes to establish her character and make it more complex and
+
+A THEORY OF ADAPTATION
+
+12
+
+interesting than
+
+it
+
+arguably
+
+in the novel.
+
+is
+
+More radically, Miss
+
+Havisham's Fire (1979/revised 1996), Dominick Argento and John
+
+Olon-Scrymgeour's operatic adaptation of Dickens' Great Expectations
+(1860/1861), all but ignored the story of the protagonist Pip to tell that
+
+of the eccentric Miss Havisham.
+In other cases, it might be the point of departure or conclusion that
+totally transfigured in adaptation. For instance, in offering a differ-
+
+is
+
+ent ending in the film version of Michael Ondaatje's novel The English
+Patient, Anthony Minghella, in his film script and in his directing,
+
+removed the postcolonial politics of the Indian Kip's response to the
+
+bombing of Hiroshima, substituting instead another smaller, earlier
+
+bomb that kills his co-worker and friend. In other words, a personal
+crisis is made to replace a political one. As the movie's editor Walter
+Murch articulated the decision: "lhe film [unlike the novel] was so
+much about those five individual people: the Patient, Hana, Kip, Katharine, Caravaggio—that to suddenly open it up near the end and ask the
+
+audience to imagine the death of hundreds of thousands of unknown
+
+people
+
+It was too abstract.
+
+So the bomb of Hiroshima became the
+
+bomb that killed Hardy, someone you knew" (qtd. in Ondaatje 2002:
+213). And, in the movie version (but not in the novel), the nurse Hana
+actually gives her patient the fatal morphine shot at the end, undoubt-
+
+edly so that she can be seen to merge with his lover Katharine in the
+patient's memory, as in ours.
+
+On the soundtrack, their volces merge
+
+as well. Tie focus of the film is on the doomed love affair alone. 7his
+
+change of ending may not be quite the same as Nahum Tate's male
+ing Cordelia survive and marry Edgar in his infamous 1681 version of
+
+King Lear, but it is a major shift of emphasis nonetheless.
+If we move from considering only the medium in this way to consid
+
+ering changes in the more general manner of story presentation, however, other differences in what gets
+
+adapted begin to appear.
+
+is
+
+because each manner involves a different mode of engagement on the
+part of both audience and adapter. As we shall see in more detail shortly,
+
+being shown a story is not the same as being told it—and neither is the
+
+same as participating in it or interacting with it, that is, experiencing
+a story directly and kinesthetically. With each mode, different things
+
+get adapted and in different ways. As my examples so far suggest, to
+
+BEGINNING TO THEORIZE ADAPTATION
+
+13
+
+tell a story, as in novels, short stories, and even historical accounts, is to
+
+describe, explain, summarize, expand; the narrator has a point of view
+
+and great power to leap through time and space and sometimes to ven
+ture inside the minds of characters. To show a story, as in movies, ballets,
+
+radio and stage plays, musicals and operas, involves a direct aural
+
+and usually visual performance experienced in real time.
+
+Although neither telling nor showing renders its audience passive
+in the least, they also do not engage people as immediately and viscerally as do virtual environments, videogames (played on any platform),
+
+or even theme-park rides that are, in their own ways, adaptations or
+
+remediations" (Bolter and Grusin 1999).
+
+The interactive, physical
+
+nature of this kind of engagement entails changes both in the story
+
+and even In the importance of story itself. If a film can be said to have
+a three-act structure—a beginning in which a conflict is established; a
+
+middle in which the implications of the conflict are played out; an end
+
+where the conflict is resolved—then a videogame adaptation of a film
+can be argued to have a different three-act structure. Elhe introductory
+material, often presented in what are called "movie cut-scenes," is the
+first act;
+
+the second is the core gameplay experience; the third is the
+
+climax, again often in filmed cut-scenes (Lindley 2002: 206). Acts one
+
+and three obviously do the narrative work—through showing—and
+set up the story frame, but both are in fact peripheral to the core: the
+
+second-act gameplay, with
+cal engagement,
+
+its
+
+intensity
+
+of cognitive and physi-
+
+moves the narrative along through visual spectacle
+
+and audio
+
+effects
+
+challenges.
+
+As Marie-Laure Ryan
+
+(including music)
+
+to the narrative success
+
+and through problem-solving
+has pointed out:
+
+"The secret
+
+of games is their ability to exploit the most
+
+fundamental of the forces that move a plot forward: the solving of
+problems" (2004c: 349). Story, in this case, is no longer central or at
+least no longer an end in itself,
+
+although it is still present as a means
+
+toward a goal (King 2002: 51).
+
+Although there has been a long debate recently about whether interactivity and storytelling are at odds with one another (see Ryan 2001
+
+Rvan 2004c: 337), what is more relevant in a game adaptation
+the fact that players can inhabit a known fictional, often striking,
+t.-isual
+
+world of digital animation. Nintendo's 3-D world of Zelda, for
+
+A THEORY OF ADAPTATION
+
+14
+
+instance, has been described as "a highly intricate environment, with
+a complicated economics, an awesome cast of creatures, a broad range
+
+of landscapes and indoor scenarios, and an elaborated chemistry, biology, geology and ecology so that its world can almost be studied like an
+alternative version of nature" (Weinbren 2002: 180). Flhough Zelda is
+
+not an adaptation, this description of its world fits so many games that
+are adaptations. Similarly, Disney World visitors who go on the Alad
+
+din ride can enter and physically navigate a universe originally presented as a linear experience through film.
+
+What gets adapted here is a heterocosm, literally an "other world"
+or cosmos, complete, of course, with the stuff of a story—settings,
+characters, events,
+
+and situations. To be more precise, it is the "res
+
+extensa"—to use Descartes' terminology—of that world, its material,
+physical dimension, which is transposed and then experienced through
+
+multisensorial interactivity (Grau 2003: 3). This heterocosm possesses
+
+what theorists call "truth-of-coherence" (Ruthven 1979: ll)—here,
+plausibility
+
+and consistency of movement and graphics within the
+
+context of the game (Ward 2002: 129)—just as do narrated and per-
+
+formed worlds, but this world also has a particular kind of "truth-ofcorrespondence"—not to any "real world" but to the universe of
+particular adapted text. Tie videogame of 7he Godfather uses the voices
+
+and physical images of some of the film's actors, including Marlon
+Brando, but the linear structure of the movie is transmuted into that
+
+ofa flexible game model in which the player becomes a nameless mafia
+
+henchman, trying to win the respect of the main characters by taking
+over businesses, killing people, and so on. In other words, the point
+
+of view has been changed from that of the mafia bosses to that of the
+underlings, who allow us to see familiar scenes from the film's world
+
+from a different perspective and possibly create a different resolution.
+
+What videogames, like virtual reality experiments, cannot easil}
+adapt is what novels can portray so well: the "res cogitans," the space
+
+of the mind. Even screen and stage media have difficulty with this
+dimension, because when psychic reality is shown rather than told
+about, it has to be made manifest in the material realm to be perceived
+
+by the audience. However, expanding the idea of what can be adapted
+to include this idea of a heterocosm or visual world as well as other
+
+BEGINNING -ro THEORIZE ADAPTATION
+
+15
+
+aspects of the story opens up the possibility ofconsidering, for instance,
+
+Aubrey Beardsley's famous illustrations for Oscar Wilde's play Salomé
+as a possible adaptation or even Picasso's cubist recodings
+
+of some of
+
+the canonical paintings of Velåsquez.
+
+Are some kinds of stories and their worlds more easily adaptable
+than others? Susan Orlean's book, 7he Orchid 7hief, proved intractable to screenwriter "Charlie Kaufman" in the movie Adaptation.
+
+Or
+
+did it? Linear realist novels, it would appear, are more easily adapted
+for the screen
+
+than experimental ones, or so we might assume from
+
+the evidence: the works of Charles Dickens, Ian Fleming, and Agatha
+Christie are more often adapted than those of Samuel Beckett, James
+Joyce, or Robert Coover. "Radical" texts, it is said, are "reduced to a
+
+kind of cinematic homogenization" (Axelrod 1996: 204) when they
+are adapted
+
+But Dickens' novels have been called "theatrical" in their
+
+lively dialogue and their individualized, if broadly drawn, characters,
+
+complete with idiosyncratic speech patterns. tlheir strongly pictorial
+descriptions and potential for scenes of spectacle also make them readily adaptable or at least "adaptogenic"
+
+(Groensteen 1998a: 270) to the
+
+stage and screen. Historically, it is melodramatic worlds and stories that
+
+have lent themselves to adaptation to the form of opera and musical
+
+dramas, where music can reinforce the stark emotional oppositions and
+tensions created by the requisite generic compression (because it takes
+
+longer to sing than to speak a line). Today, spectacular special effects
+films like the various 7he Matrix or Star Wars movies are the ones likely
+to
+
+spawn popular videogames whose players can enjoy entering and
+
+manipulating the cinematic fantasy world.
+
+Double Vision: Defining Adaptation
+Given this complexity of what can be adapted and of the means of
+adaptation, people keep trying to coin new words to replace the con-
+
+fusing simplicity of the word "adaptation" (e.g., Gaudreault 1998: 268).
+
+But most end up admitting defeat: the word has stuck for a reason,
+Yet,
+
+however straightforward the idea of adaptation may appear on
+
+the surface, it IS actually very diffcult to define, in part, as we have
+seen, because we use the same word for the process and the product.
+
+As a product, an adaptation can be given a formal definition, but as
+
+A THEORY OF ADAPTATION
+
+16
+
+process—of creation and of reception—other aspects have to be
+
+a
+
+considered. Tlis is why those different perspectives touched on earlier
+are needed to discuss and define adaptation.
+
+Adaptation as Product: Announced, Extensive, Specific Transcoding
+
+As openly acknowledged and extended reworkings of particular other
+texts, adaptations are often compared to translations. Just as there is
+
+no such thing as a literal translation, there can be no literal adaptation. Nevertheless, the
+
+study of both has suffered from domination
+
+by "normative and source-oriented approaches" (Hermans 1985: 9).
+Transposition to another medium, or even moving within the same
+one, always
+
+means change or, in the language of the new media,
+
+"reformatting." And there will always be both gains and losses (Stam
+
+2000: 62). Although this seems commonsensical enough, it is important to remember that, in most concepts of translation, the source text
+is
+
+granted an axiomatic primacy and authority, and the rhetoric of
+
+comparison has most often been that of faithfulness and equivalence.
+'Walter Benjamin did alter this frame of reference when he argued, in
+
+The Task of the Translator," that translation is not a rendering of some
+fixed nontextual meaning to be copied or paraphrased or reproduced,
+rather, it is an engagement with the original text that makes us see that
+
+text in different ways (1992: 77). Recent translation theory argues that
+
+translation involves a transaction between texts and between languages
+
+and is thus "an act of both inter-cultural and inter-temporal communication" (Bassnett 2002: 9).
+
+newer sense of translation comes closer to defining adaptation
+as well. In many cases, because adaptations are to a different medium,
+
+they are re-mediations, that is, specifically translations in the form of
+intersemiotic transpositions from one sign system (for example, words)
+to another (for example, images). Flhis is translation but in a very specific
+sense: as transmutation or transcoding, that is, as necessarily a recod-
+
+ing into a new set of conventions as well as signs. For example, 'Harold
+Pinter's screenplay for Karel Reisz's film 7he French Lieutenant's Woman
+
+(1981) transposed the narrative of John Fowles' novel (1969) into a
+totally cinematic code. Tie novel juxtaposed a modern narrator and a
+
+Victorian story; in the equally self-reflexive movie, we have, instead, a
+
+2CL) zuuaJuqaasuuv11/1 pollt30 0!Aotu u0F!A010J uv,u1JOD
+.10d
+
+put', OJt',1POUIU1!
+
+KJOA s! poJt31sueJJ JO postuqduv,cl Buyoq
+
+uo postq '(put',poos u:
+
+SOUIPOUIOS •uotaeutssessv, Äpout10>1
+
+soul?D 01Bt',JL Kq) papvopy
+
+se qons 'sourefioop!A OJ
+
+tu0JJ ofiu?J uln
+
+OJ
+
+uro.1J 'surly
+
+ue oq
+
+JXOJ poJcIv,pv
+
+uoddv,q ut',o
+
+u? JO suotav:
+
+JJ!qs
+
+Inyosn oq osp
+
+1
+
+pue
+
+so!fiopue
+
+oos) sy-100
+
+•(VL—€LL :8661
+
+Aq poJoo-1!p u111J 8661
+exed .10 poxopuo.l
+s,
+
+„KJofieu1! tenSIA OAIJVIOOSSt3
+
+(Cvm,ovva
+
+Kpsuep
+Luo-IJ ponyop
+
+oqJ 11! poseaqclejed ST OIKJS
+
+'It',ns1A
+
+uoA0 'osuos
+
+Kq ullY
+
+Juops!utuo oqJ OJ
+
+11! poaopuo.l
+
+acu IOA0u s,xlnoacl Oluuy
+u!
+
+opt',tuoup
+
+osserl JOJOOJ!T
+
+pue sqooef uos10N Jetoqou .10J!JMJdyos
+Jnq 'e
+
+JS0q soqwosop
+
+pue '.osuos
+
+oq OJ poJJ!tupt', s! 00)
+spJ0A\
+
+s!
+
+'pat01dxo Kldcue s!
+•(€66L) snarv
+
+IOA0u
+
+OS Jou
+
+s 10noz
+
+opoqcI?J
+
+001Aop oust1t30J
+
+pozqensyy 11!
+
+JO
+
+ut post3JT4d
+
+ohnfiuv,1
+
+•fill!umoxpyo
+
+JIOOA/\
+
+.11',u
+
+•ulJOJ
+
+-10 JUOAO
+
+OJLI! OJ!I s,uosxod
+
+dep
+
+'01dtuvxg
+
+sclet1J?d
+
+se pom0110J
+
+Jd0>1 S! 10tpnt3 oqJ OJOIIAY 'opnanv
+
+• •
+
+su osexqde.lt',cl fitl!uyop se poJonb s! uopÄ.1(1 uqof
+
+ohssed
+
+'UOISUOJXO Kq 'Jnq Tt',q.10A s!
+
+se
+
+JO fiuyopuo.t oo-1J v,
+
+OJ fill!p-toooe 'pue (eel?d)
+
+puoJX()
+
+JO ouo
+
+as-ty
+
+Sl
+
+oppoq„ fill!110JJ0 opour
+
+LIP,
+
+s!
+
+(79
+
+:
+
+s!
+
+osuqd
+
+OJ po-10+0 KIJuonbz:
+
+•Kfioteue
+
+t',
+
+JO
+
+JO
+
+LL61/LS61 ou0Json1g)
+•(ot-s€1
+
+IOAou oqJJ0
+
+ppzlqos
+
+JO
+JO JPOUI
+
+pooqoo
+oout',tuoel poJd!Jos oqJ Jno
+
+Su 'BU!JOJJIUI
+
+JO ssousnopsuoo-yps
+
+put',
+
+KsyoodÄz
+•soill
+
+oqJ Keld
+poJv,1suee1J
+
+•KJOJS KJtuuoo-tpuooJoutu oqJ JO
+
+NOI-LYXdyav 3ZlU03HL OX
+
+S
+
+THEORY OF ADAPTATION
+
+18
+
+Wannsee Conference) was an 85-minute film adaptation scripted from
+the actual minutes of the 85-minute meeting held in 1942 and chaired
+
+by Reinhard Heydrich, the Chief of the German State Police, in which
+the "Final Solution to the Jewish Question" was decided. In 2001,
+
+Loring Mandel did a further adaptation in English for BBC and
+
+HBO
+
+called Conspiracy.
+
+At other times, the adapted text is more complex or even multiple:
+Sidney Lumet's 1975 film Dog Day Afternoon was a fictionalized adaptation of an actual 1972 bank robbery and hostage situation in Brook-
+
+lyn that was covered live on television and was much discussed in the
+
+media. In fact, a Life magazine article by P.E Kluge was the basis of
+the film's screenplay. But in 2002 artist Pierre Huyghe asked the real
+robber, John Wojtowicz, to reenact and narrate—in effect, to translate or paraphrase—the original event for his camera.
+
+In the process,
+
+a second-level adaptation occurred: as the perpetrator relived his own
+past, what became clear was that he could not do so except through the
+
+lenses of the subsequent movie version. In effect, the film became, for
+
+him, as much the text to be adapted as was the lived event preserved in
+either his memory or the media coverage. In ontological shifts, it makes
+little
+
+sense to talk about adaptations as "historically accurate" or "his-
+
+torically inaccurate" in the usual sense. Schindler's List is not Shoah (see
+
+Hansen 2001) in part because it is an adaptation ofa novel by %omas
+Keneally, which is itself based on survivor testimony In other words,
+it is
+
+a paraphrase or translation of a Particular other text, a particular
+
+interpretation of history. The seeming simplicity of the familiar label,
+
+"based on a true story," is a ruse: in reality, such historical adaptations
+are as complex as historiography itself.
+
+Adaptation as Process
+7he Adapter's Creative Interpretation/Interpretive Creation
+
+Early in the
+
+film Adaptation, screenwriter "Charlie Kaufman" faces an anguished
+
+dilemma: he worries about his responsibility as an adapter to an author
+
+and a book he respects. As he senses, what is involved in adapting can
+be a process of appropriation, of taking possession of another's story,
+
+and filtering it, in a sense, through one's own sensibility, interests, and
+talents. Flherefore, adapters are first interpreters and then creators. Tlis
+
+BEGINNING TO THEORIZE ADAPTATION
+
+19
+
+one reason why Morte a Venezia, Luchino Visconti's 1971 Italian film
+
+is
+
+version of Thomas Mann's 1911 novella Der Tod in Venedig, is so differ-
+
+ent in focus and impact from Benjamin Britten and Myfanwy Piper's
+
+English opera Death in Venice, which premiered only a few years later
+1973. Tie other reason, of course, is the adapter's choice of medium.
+
+E.H. Gombrich offers a 'useful analogy when he suggests that if an artist stands before a landscape with a pencil in hand, he or she will "look
+
+for those aspects which can be rendered in lines"; if it is a paintbrush
+
+that the hand holds, the artist's vision of the very same landscape will
+
+be in terms of masses, not lines (1961: 65). Therefore, an adapter coming to a story with the idea of adapting it for a film would be attracted
+to different aspects of it than an opera librettist would be.
+
+Usually adaptations, especially from long novels,
+
+mean that the
+
+adapter's job is one of subtraction or contraction; this is called "a surgical art"
+
+(Abbott 2002: 108) for a good reason. In adapting Philip
+
+Pullman's trilogy of novels, His Dark Materials, from 1,300 print pages
+to two three-hour plays, Nicholas Wright had to cut major characters
+(for example, the Oxford scientist
+
+Mary Malone) and therefore whole
+
+.vorlds they inhabit (for example,
+
+the land of the mulefas); he had to
+
+•peed up the action and involve the Church right from the start. Of
+course, he also had to find two major narrative climaxes to replace the
+
+three of the trilogy. He also found he had to explain certain themes and
+
+even plot details, for there was not as much time for the play's audience
+--0
+
+piece things together as there was for those reading the novels.
+
+Obviously, not all adaptations involve simply cutting. Short stories,
+particular, have often inspired movies; for example, John M.
+
+Cun-
+
+zingham's 1947 "The Tin Star" became Fred Zinneman and Carl Fornan's 1952 film High Noon. Short story adaptations have had to expand
+their source material considerably.
+
+When filmmaker Neil Jordan and
+
+Angela Carter adapted Carter's story "Plhe Company of Wolves" in
+•-984,
+
+they added details from two other related tales in Carter's lhe
+
+3100dy Chamber (1979): {'The Werewolf" and "Wolf-Alice.'
+
+They took
+
+contemporary prologue from Carter's own earlier radio play adapta-Eon to set up the dream logic of the piece. Screenwriter Noel Baker
+•imilarly described his attempt to take "a whisper of a movie idea" and
+
+zake it into a feature film. He had been asked to adapt not a short
+
+A THEORY OF ADAPTATION
+
+20
+
+story but, in fact, Michael Turner's book Hard Core Logo (1993), but
+this book is a fragmentary narrative about the reunion ofa 1980s punk
+
+band that is made up of letters, songs, answering machine messages
+invoices, photos, hand-written notes, diary entries, contracts,
+
+and so
+
+on. Baker said that he first felt the challenge of the fragmentation itself
+
+and then of the fact that it was "lean and spare, full of gaps and silences,
+the eloquence of things left unsaid" (1997: 10). In the end, he noted
+in his diary that this latter point was what made the task more fun,
+
+more creative: "Must thank Turner for writing so little yet suggesting
+so much" (14).
+
+Of course, there is a wide range of reasons why adapters might
+choose a particular story and then transcode it into a particular medium
+or genre. As noted earlier, their aim might well be to economically and
+artistically supplant the prior works.
+
+are just as likely to want to
+
+contest the aesthetic or political values of the adapted text as to pay
+
+homage. %is, of course, is one of the reasons why the rhetoric of "fidel
+ity" is less than adequate to discuss the process
+
+of adaptation. What-
+
+ever the motive, from the adapter's perspective, adaptation is an act
+
+of appropriating or salvaging, and this is always a double process of
+interpreting and then creating something new.
+
+If this sounds somewhat familiar, there is good reason, given the
+
+long history in the West of imitatio or mimesis—imitation—as what
+Aristotle saw as part of the instinctive behavior of humans and the
+
+source of their pleasure in art (Wittkower 1965: 143). Imitation of
+great works of art, in particular, was not intended only to capitalize on
+
+the prestige and authority of the ancients or even to offer a pedagogr
+cal model (as the Rhetorica ad Herennium argued [l.ii.3
+
+and IV.i.2]),
+
+though it did both. It was also a form of creativity: "Imitatio is neither plagiarism nor a flaw in the constitution of Latin literature. It is
+a dynamic law of its existence" (West and Woodman 1979: ix). Like
+classical imitation, adaptation also is not slavish copying; it is a process
+
+of making the adapted material one's own. In both, the novelty is in
+
+what one does with the other text. Indeed, for "Longinus," imitatio went
+together with aemulatio, linking imitation and creativity (Russell 1979:
+10). Perhaps one way to think about unsuccessful adaptations is not in
+
+BEGINNING TO THEORIZE ADAPTATION
+
+21
+
+terms of infidelity to a prior text, but in terms of a lack of the creativity
+
+and skill to make the text one's own and thus autonomous.
+or the reader, spectator, or listener, adaptation as adaptation
+
+is
+
+unavoidably a kind of intertextuality if the receiver is acquainted with the
+adapted text. It is an ongoing dialogical process, as Mikhail Bakhtin
+
+would have said, in which we compare the work we already know with
+the one we are experiencing (Stam 2000: 64). By stressing the relation
+
+of individual works to other works and to an entire cultural system,
+
+French semiotic and post-structuralist theorizing of intertextuality
+(e.g.,
+
+in
+
+by Barthes 1971/1977; Kristeva 1969/1986) has been important
+
+its
+
+challenges to dominant post-Romantic notions of originality,
+
+uniqueness, and autonomy. Instead, texts are said to be mosaics of citations that are visible and invisible,
+
+heard and silent; they are always
+
+already written and read. So, too, are adaptations, but with the added
+proviso that they are also acknowledged as adaptations of spectfic texts.
+
+Often, the audience will recognize that a work is an adaptation of more
+
+than one specific text. For instance, when later writers reworked—for
+
+and even screen—John Buchan's 1914 novel, 7he 7hirty-
+
+radio, stage,
+
+-Vine Steps, they often adapted Alfred Hitchcock's
+
+dark and cynical
+
+•-935 film adaptation along with the novel (Glancy 2003: 99—100).
+
+And
+
+films about Dracula today are as often seen as adaptations of other earlier films as they are of
+
+"Palimpsestuous" Intertextuality
+
+For audiences, such
+
+are obviously "multilaminated";
+
+they are directly and
+
+lhe Audiences
+
+adaptations
+
+Bram Stoker's novel.
+
+openly connected to recognizable other works, and that connection is
+oart of their formal identity, but also of what we might call their her-
+
+meneutic identity. '%is is what keeps under control the "background
+noise"
+
+(Hinds 1998: 19) of all the other intertextual parallels to the
+
+work the audience might make that are due to similar artistic and
+social conventions, rather than specific works. In all cases, the engage-
+
+ments with these other works in adaptations are extended ones, not
+cassing allusions.
+
+Part of both the pleasure and the frustration of experiencing an
+
+zaptation
+
+is
+
+the familiarity bred through repetition and memory.
+
+Depending on our relationship with any of the traditionally choreo-
+
+zaphed versions of Tchaikovsky's 1877 ballet, Swan Lake (and there
+
+A THEORY OF ADAPTATION
+
+22
+
+are many of these, from the Petipa/lvanov one to its reworkings by
+
+Ashton and Dowell), we will be
+
+either delighted or irritated
+
+by
+
+Matthew Bourne's adaptation, with its updating and queer ironizing of
+the popular classical ballet. His muscular male swans and their homo
+erotic, violent, and sexually charged choreography allow, among many
+
+other things, the traditional pas de deux between the prince and the
+
+swan to be a dance of equals—perhaps for the first time. Ibis prince
+is
+
+no athletic assistant to a ballerina star. Not everyone In the audi-
+
+ence will enjoy this transgression of and critical commentary upon the
+sexual politics of the balletic tradition. But no matter what our response
+
+our intertextual expectations about medium and genre, as well as about
+this specific work, are brought to the forefront of our attention.
+
+Tie
+
+same will be true of experiencing the Australian IDance %eatre's
+version, entitled Birdbrain (2001), with its hyperspeed edgy choreogra-
+
+phy, film clips, and mechanized music. As audience members, we need
+
+memory in order to experience difference as well as similarity.
+
+Modes of Engagement
+
+A doubled definition of adaptation as a product (as extensive, particular
+transcoding) and as a process (as creative reinterpretation and palimpsestic intertextuality) is
+
+one way to address the various dimensions of the
+
+broader phenomenon of adaptation. An emphasis omprocess allows us to
+
+expand the traditional focus of adaptation studies on medium-specificity
+and individual comparative case studies in order to consider as well rela
+
+among the major modes of engagement: that is, it permits us to
+think about how adaptations allow people to tell, show, or interact with
+tions
+
+stories.
+
+We can be told or shown a story, each in a range of different
+
+media. However, the perspective, and thus the grammar, changes with
+the third mode of engagement; as audience members, we interact with
+stories in, for instance, the new media, from virtual reality to machin-
+
+ima. All three
+
+modes are arguably "immersive," though to different
+
+degrees and in different ways: for example, the telling mode (a novel)
+
+immerses us through imagination in a fictional world; the showing mode
+(plays and films) immerses us through the perception of the aural and the
+
+visual—the latter in a way related to that of Renaissance perspective
+painting and Baroque trompe l'oeil (Ryan 2001:
+
+3);
+
+the participatory
+
+'l
+
+BEGINNING TO THEORIZE ADAPTATION
+
+23
+
+mode (videogames) immerses us physically and kinesthetically. But if all
+are, in some sense of the word, "immersive," only the last of them is usu-
+
+ally called "interactive."
+
+Neither the act of looking at and interpreting
+
+black marks—words or notes—on a white page nor that of perceiving
+
+and Interpreting a direct representation ofa story on the stage or screen IS
+in any way passive; both are imaginatively, cognitively, and emotionally
+active.
+
+But the move to participatory modes in which we also engage
+
+physically with the story and its world—whether it be in a violent action
+
+game or a role-playing or puzzle/skill testing one—is not more active but
+certainly active in a different way.
+'In
+
+the telling
+
+mode—in narrative literature, for example—our
+
+engagement begins in the realm of imagination, which is simultaneously controlled by the selected, directing words of the text and liber-
+
+ated—that is, unconstrained by the limits of the visual or aural. We
+can stop reading at any point; we can re-read or skip ahead; we hold
+the book in our hands and feel, as well as see, how much of the story
+
+remains to be read. But with the move to the mode of showing, as in
+film and stage adaptations, we are caught in an unrelenting, forward-
+
+driving story. And we have moved from the imagination to the realm
+
+of direct perception—with its mix of both detail and broad focus.
+
+The performance mode teaches us that language is not the only way
+to express meaning or to relate stories. Visual and gestural representa-
+
+tions are rich in complex associations; music offers aural "equivalents'
+for characters' emotions and, in turn, provokes affective responses In
+
+the audience; sound, in general, can enhance, reinforce, or even coneradict the visual and verbal aspects.
+
+On the other hand, however, a
+
+hown dramatization cannot approximate the complicated verbal play
+of told poetry or the interlinking of description, narration, and expla
+nation that is so easy for prose narrative to accomplish. Telling a story
+in words, either orally or on paper, is never the same as showing it visually and aurally in any of the many performance media available.
+
+Some theorists argue that, at a basic level, there is no significant
+difference
+
+between a verbal text and visual images, that, as W.J.T.
+
+Mitchell outlines this position, "communicative, expressive acts, narration, argument, description, exposition and other so-called 'speech acts
+
+are not medium-specific, are not proper' to some medium or another"
+
+A THEORY OF ADAPTATION
+
+24
+
+(1994: 160). (See also Cohen 1991b.)
+
+A consideration of the differences
+
+between the modes of engagement of telling and showing, however,
+suggests quite the contrary: each mode, like each medium, has its own
+specificity, if not its
+
+own essence. In other words, no one mode is inher-
+
+ently good at doing one thing and not another; but each has at its dis
+
+posal different means of expression—media and genres—and so can
+
+aim at and achieve certain things better than others.
+Consider, for example, the interesting technical task the British nov-
+
+M. Forster set himself at one point in his 1910 novel Howards
+End: how to represent in told words the effect and the meaning of perelist E.
+
+formed music—music that his readers would have to imagine, of course,
+and not hear. He begins the novel's fifth chapter with these words: "It
+will be generally admitted that Beethoven's Fifth
+
+Symphony is the
+
+most sublime noise that has ever penetrated into the ear of man" (Forster 1910/1941: 31). Forster goes on to describe the effect on each
+
+mem-
+
+ber of the Schlegel family, whose ears this "sublime noise" penetrates.
+
+In a telling mode, a novel can do this: it can take us into the minds
+
+and feelings of characters at will. However, the focus of this episode,
+in which the family attends a symphony concert in Queen's Hall in
+
+London together, is specifically on one character, Helen Schlegel—
+young, newly hurt in love, and therefore someone whose response to
+the music is intensely personal and deeply tied to her emotional trou
+bles at the time.
+
+As the orchestra plays the third movement, we are told that she
+hears "a goblin walking quietly over the universe, from end to end'
+(32). In the first movement, she had heard "heroes and shipwrecks," but
+
+here it is terrible goblins she hears, and an "interlude of elephants dancing" (32). These creatures are frightening because ofwhat Helen sees as
+their casualness: they "observed in passing that there was no such thing
+as
+
+splendour or heroism in the world" (32). Forster continues, telling
+
+us that: "Helen could not contradict them, for, once at all events, she
+
+had felt the same, and had seen the reliable walls of youth collapse.
+Panic and emptiness! Panic and emptiness! 'The goblins were right
+(33). Totally moved, not to mention upset, by the end of the piece, she
+
+finds she has to leave her family and be alone. As the novel puts it: "The
+
+music had summed up to her all that had happened or could happen
+
+BEGINNING TO THEORIZE ADAPTATION
+
+25
+
+in her career. She read it as a tangible statement, which could never be
+
+superceded" (34). She leaves the hall, taking by mistake the umbrella
+
+ofa stranger, one Leonard Bast, who will play an important part in the
+rest of her life and, indeed, in the rest of the novel.
+
+What happens when this told scene is transposed to the showing mode—in this case to film—in the Merchant/ Ivory production
+adapted by Ruth Prawer Jhabvala?
+
+concert, in a sense, remains,
+
+but Helen attends alone. It is not a full orchestral concert this time,
+
+but a four-handed piano performance, accompanying a lecture on
+Beethoven's Fifth Symphony.
+
+A few of Forster's own words remain,
+
+but very few. Because we can only see Helen on film and not get into
+her head, we can only guess at her thoughts. So in the shown version,
+it is
+
+not she who experiences the "panic and emptiness" of the goblins;
+
+it is
+
+simply the lecturer who uses this as an Image in his explanation
+
+of the piece In response to a question from a member of the audience.
+In fact, Helen, from what we can see, seems rather more bored than
+upset by the whole experience.
+
+We do get to hear the full orchestral
+
+version of the symphony on the soundtrack (nondiegetically), but only
+after she leaves the hall, pursued by the young
+
+man whose umbrella she
+
+has taken by mistake.
+
+Although Forster uses this scene to tell us about the imaginative and
+emotional world of Helen Schlegel, the film makes it the occasion to
+
+show us Helen meeting Leonard Bast in an appropriately culturally
+loaded context. In terms of plot action, that is indeed what happens
+in this scene,
+
+and so this is what the film aims to achieve. Interest-
+
+ingly, what the
+
+showing mode can do that the telling one cannot is
+
+to let us actually hear Beethoven's music.
+
+We cannot, however, get at
+
+Zhe interior of the characters' minds as they listen; they must visibly,
+physically embody their responses for the
+
+camera to record, or they
+
+must talk about their reactions. Of course, this film contains lots of
+oerformed talk about music, art, and many other things, and not only
+in this rather overt lecture form.
+
+Interacting with a story is different again from being shown or told
+
+it—and not only because of the more immediate kind of immersion it
+allows. As in a play or film, in virtual reality or a videogame, language
+
+alone does not have to conjure up a world; that world is present before
+
+A THEORY OF AD A p TAT O N
+
+26
+
+I
+
+our eyes and ears. But in the showing mode we do not physically enter
+that world and proceed to act within it. Because of its visceral impact,
+a scripted paintball war game would be considered by some to be a
+
+different kind of adaptation of a war story than, say, even the graphic
+
+violence of a film like Saving Private Ryan (1998). Civil War battle
+
+reenactments may involve role-playing, and new narrative media works
+
+may require database "combinatorics," but, in both cases, the audience's
+engagement is different in kind than when we are told or shown the
+same story.
+Stories, however, do not consist only of the material means of their
+
+transmission (media) or the rules that structure them (genres). Those
+
+means and those rules permit and then channel narrative expectations
+and communicate narrative meaning to someone In some context, and
+they are created by someone with that intent. %ere is, in short, a wider
+
+communicative context that any theory of adaptation would do well
+to consider. Elhat context will change with the mode of presentation
+
+or engagement: the telling mode can use a variety of material media,
+as can the live or mediated showing mode, just as each medium can
+
+support a variety of genres. But media distinctions alone will not necessarily allow the kind of differentiations that adaptations call to our
+
+attention. For instance, 'machinima" is a form of filmmaking that uses
+
+computer game technology to make films within the virtual reality of
+a game engine. As such, it's a hybrid form, but basically the medium is
+electronic. 7he machinima adaptation of Percy Bysshe Shelley's
+
+1817
+
+poem "Ozymandias" (by Hugh Hancock for Strange Company) is
+indeed a digitalized visualization of the poem's "story" about a man
+walking across a solitary desert and finding a ruined statue of a king
+inscribed with a chillingly ironic message about worldly glory and the
+
+power of time. Even if the figure of the man on screen creates suspense
+by having to wipe the sand off the final line of the inscription ("Look
+
+upon my works, ye Mighty, and despair"), we experience little in the
+digital vers10n of the frisson we feel reading the
+
+poem's devastating
+
+irony. Considering medium alone would not be useful to getting at the
+
+success (or failure) of this adaptation: although this machinima is in a
+digital medium, it is not interactive. If anything, the act of interpreting
+
+BEGINNING TO THEORIZE ADAPTATION
+
+27
+
+what is really a shown story here IS even less actively engaging than
+reading the told version.
+Illis is
+
+not to say that we do not engage differently with different
+
+media, but the lines of differentiation are not as clear as we might
+expect.
+
+Tie private and individual experience of reading is, in fact,
+
+closer to the private visual and domestic spaces of television, radio,
+
+DVD, video, and computer than it is to the public and communal
+viewing experience in a dark theater of any kind. And when we Sit m
+the dark, quiet and still, being shown real live bodies speaking or sing-
+
+ing on stage, our level and kind of engagement are different than when
+
+we Sit in front of a screen and technology mediates "reality" for us.
+When we play a first-person shooter videogame and become an active
+character In a narrative world and viscerally experience the action,
+
+our response is different again. Medium alone cannot explain what
+
+happens when an interactive videogame is adapted into a museumdisplayed digital work of art, for it becomes a way to show, rather than
+interact with, a story. For instance, in a piece by Israeli American video
+artist
+
+Eddo Stern called Vietnam Romance (2003), the viewer finds that
+
+the game's enemies have already been taken out by the artist-shooter,
+leaving us to watch—in other words, to be shown—only a series of
+
+empty sets that have been manipulated to recall classic shots from war
+films, from
+
+to Apocalypse Now. In reversing the intended out-
+
+come by breaking all the rules of game action, the artist has ensured
+that the audience cannot and does not engage in the same manner as it
+
+would with the interactive game. Likewise, Stern's Fort Paladin: America's
+
+Army presents a scale model of a medieval castle within which a
+
+•ideo screen reveals—again—the final results of the artist's mastery of
+the U.S. military's game used for recruiting, also called America'sArmy.
+
+Zhe work and the pleasure of the observing audience here are different
+
+rom the kinetic and cognitive involvement of the interactive gamer.
+
+Framing Adaptation
+Keeping these three modes of engagement—telling, showing, and interActing with stories—in the forefront can allow for certain precisions
+
+and distinctions that a focus on medium alone cannot. It also allows
+zor linkages across media that a concentration on medium-specificity
+
+A THEORY OF ADAPTATION
+
+28
+
+can efface, and thus moves us away from just the formal definitions of
+adaptation to consider the process. %ese ways of engaging with stories
+
+do not, of course, ever take place in a vacuum. We engage in time and
+space, within a particular society and a general culture. Tie contexts
+
+of creation and reception are material, public, and economic as much
+as they are cultural, personal, and aesthetic. This explains why, even In
+
+today's globalized world, major shifts in a story's context—that is, for
+
+example, in a national setting or time period—can change radically
+
+how the transposed story is interpreted, ideologically and literally. How
+do we react today, for instance, when a male director adapts a woman's
+novel or when an American director adapts a British novel, or both—as
+in Neil LaBute's film version of A.S. Byatt's 1991 novel, Possession? In
+
+shifting cultures and therefore sometimes shifting languages, adapta
+tions make alterations that reveal much about the larger contexts of
+
+reception and production. Adapters often "indigenize" stories, to use
+
+an anthropological term (Friedman 2004). In Germany, for instance,
+Shakespeare's works were appropriated through Romantic transla
+tions and, through an assertion of the Bard's Germanic affinity, used to
+
+generate a German national literature. However strange it may seem,
+this is why the plays of an enemy-culture's major dramatist continued
+
+to be performed—with major variations that could be called adapta-
+
+tions—throughout the two World Wars. The National Socialists, in
+fact,
+
+made these works both political, with psivate values stressed as
+
+being subordinated to public ones in the tragedies, and heroic, with
+leadership themes dominating (Habicht 1989: 110—15).
+
+Even a shift of time frame can reveal much about when al work is
+created and received. Robert Louis Stevenson's 1886 novel, 7he Strange
+
+Case of Dr. Jekyll and MI. Hyde, has been adapted many times for the
+stage and for the movie and television screens. (To get a sense of the
+
+whole range, see Geduld 1983.) The showing mode entails embody
+ing and enacting, and thereby often ends up spelling out important
+ambiguities that are central to the told version—especially, in th1S case,
+
+Hyde's undefined and unspecified evil. Because of mode change, these
+various versions have
+physically,
+
+had to show—and thus to "figure"—that evil
+
+and the means they have chosen to do so are revealing of
+
+the historical and political moments of their production. In 1920, at the
+
+BEGINNING TO THEORIZE ADAPTATION
+
+29
+
+start of Prohibition, we witness a sexual fall through alcohol in John
+
+Robertson's sile nt film; in the 1971 Hammer film, Dr. Jekyll and Sister
+
+Hyde (directed by Roy Ward Baker), we see instead Britain's confused
+responses to feminism after the 1960s (see McCracken-Flesher 1994:
+183—94). For economic reasons, adapters often rely on selecting works to
+
+adapt that are well known and that have proved popular over time; for
+gal reasons, they often choose works that are no longer copyrighted.
+
+I
+
+Technology too, has probably always framed, not to mention driven,
+adaptation, in that new media have constantly opened the door for new
+,
+
+possibilities for all three modes of engagement. Lately, new electronic
+
+technologies have made what we might call fidelity to the imagina-
+
+than a move obvious fidelity to reality—possible in new
+ways, well beyond earlier animation techniques and special effects.
+
+IVe can now enter and act within those worlds, through 3-D digital
+technology. One of the central beliefs of film adaptation theory is that
+
+audiences are more demanding of fidelity when dealing with classics,
+
+such as the work of Dickens or Austen. But a whole new set of cult
+
+popular classics, especially the work ofJ.R.R. Tolkien, Philip Pullman,
+
+and J.K. Rowling, are now being made visible and audible on stage, in
+the movie theater, on the video and computer screens, and in multiple
+
+zaming formats, and their readers are proving to be just as demanding.
+
+A1though our imaginative visualizations of literary worlds are always
+highly individual, the variance among readers is likely even greater in
+fantasy fiction than in realist fiction. What does this mean when these
+-ans see one particular version on screen that comes from the direc-or's imagination rather their
+
+own (see Boyum 1985)? Flhe answer(s), of
+
+course, can be found in the reviews and the audience reactions to the
+
+recent adaptations of Toe Lord of the Rings stories and the Harry Potter
+
+Now that I know what an enemy orc or a game of Qyidditch
+
+novels.
+
+can) look like (from the movies), I suspect I will never be able to recapture my first imagined versions again. Palimpsests make for permanent
+
+change.
+
+Nicholas Wright's dramatic adaptation ofPullman's His Dark Materi
+trilogy had to cope with the fact that the books had sold three million
+Copies
+
+and had been translated into thirty-six languages.
+
+adapter
+
+h Ad to find a way to visualize and then bring to physical life on stage—
+
+A THEORY OF ADAPTATION
+
+30
+
+without the technological advantages of film—important elements that
+the fans would demand be done well: things like the novels' multiple
+parallel worlds, the windows cut to move characters into each world,
+
+and especially the wondrous creatures known as "daemons "—animals
+of the opposite sex that embody the inner soul of characters. %ese were
+technical issues as well as imaginative ones, because Wright knew the
+novels' fans would be a demanding audience.
+
+two plays that were
+
+finally seen in London at the National %eatre in 2003
+
+and revised in
+
+2004 were set within an elaborate "paratextual" context in order to prepare the audience and perhaps forestall any objections: the program was
+larger and much more informative than most, offering photos, inter
+
+views with the novelist and the adapter, maps, a glossary of places, people, things, and "other beings," and a list of literary intertexts.
+
+As this suggests, a further framing of adaptation across all modes of
+engagement is economic. Broadway adapts from Hollywood; noveliza
+tions are timed to coincide with the release ofa film. November 2001
+saw the infamous simultaneous international release of the film and
+multiplatform videogame versions of the first installment of the story of
+
+Harry Potter. Book publishers produce new editions of adapted literary
+works to coincide with the film version and invariably put photos of the
+movie's actors or scenes on the cover. General economic issues, such as
+
+the financing and distribution of different media and art forms, must
+
+be considered in any general theorizing of adaptation. To appeal to a
+global market or even a very particular one, a television series or a stage
+
+musical may have to alter the cultural, regional, or historical specifics
+
+of the text being adapted.
+
+A bitingly satiric novel of social pretense
+
+and pressure may be transformed into a benign comedy of manners in
+
+which the focus of attention is on the triumph of the individual, as has
+happened in most American television and film versions of Ihackeray's
+Vanity Fair (1848).
+
+Videogames derived from popular films and vice
+
+versa are clearly ways to capitalize on a "franchise" and extend its market.
+
+But how different is this from Shakespeare's decision to write a
+
+play for his theater based on that familiar story about two teenage lovers or, for that matter, from Charles Gounod's choice to compose what
+
+he hoped would be a hit opera about them? In their different ways,
+
+Giuseppe Verdi and Richard Wagner were both deeply involved in the
+
+'BEGINNING TO THEORIZE ADAPTATION
+
+--ancial aspects
+-e
+
+31
+
+of their operatic adaptations, yet we tend to reserve
+
+negatively judgmental rhetoric for popular culture, as if it is more
+
+z:zted 'With capitalism than is high art.
+
+beginning to explore this wide range of theoretical issues surroundadaptation, I have been struck by the unproductive nature of both
+
+negative evaluation ofpopular cultural adaptations as derivative and
+
+zondary and that morally loaded rhetoric of fidelity and infidelity used
+
+omparing adaptations to "source" texts. Like others, I have found
+asking whether we could use any less compromised image to
+
+about adaptation as both process and product. Robert Stam, too,
+seen one intriguing possibility in the film Adaptation, despite all its
+---nies; because his focus is specifically on novel to film adaptation, he
+
+—s an analogy between these two media and the film's dichotomous
+'=tenwriting twins (or split personality).
+
+He is also attracted to the
+
+taphor of adaptations as hybrid forms, as "meeting places of different
+—ecies,"' like the orchid (Stam 2005b: 2). For Stam, mutations—filmic
+
+captations—can help their "source novel 'survive"' (3).
+Because my focus is on modes of engagement rather than on two
+Etcific media or on "sources," different things have caught my attenI was struck by the other obvious analogy to adaptation suggested
+
+the film by Darwin's theory of evolution, where genetic adaptation
+
+presented as the biological process by which something is fitted to a
+
+Scen environment. To think of narrative adaptation in terms ofa story's
+and its process of mutation or adjustment, through adaptation, to a
+tlcular cultural environment is something I find suggestive. Stories
+a-so evolve by adaptation and are not immutable over time. Sometimes,
+
+biological adaptation, cultural adaptation involves migration to
+
+conditions: stories travel to different cultures
+
+and different
+
+—edia. In short, stories adapt just as they are adapted
+
+In his 1976 book on Darwinian theory called 7he Selfish Gene,
+
+Richard Dawkins bravely suggested the existence of a cultural paralQI to Darwin's biological theory: 'Cultural transmission is analogous
+genetic transmission in that, although basically conservative, it can
+rise to a form of evolution" (1976/1989: 189). Language, fashions,
+
+ehnology, and the arts, he argued, "all evolve in historical time in a
+-
+
+-cay that looks like highly speeded up genetic evolution, but has really
+
+32
+
+THEORY OF ADAPTATION
+
+nothing to do with genetic evolution" (190). Nonetheless, he posits the
+parallel existence of what he calls "memes"—units of cultural transmis-
+
+Sion or units of imitation—that, like genes, are "replicators" (191—92).
+
+But unlike genetic transmission, when memes are transmitted, they
+always change, for they are subject to "continuous mutation, and also
+to blending" (195), in part to adapt for survival in the "meme poole
+
+Although Dawkins is thinking about ideas when he writes of memes,
+stories also are ideas
+
+and could be said to function in this same way.
+
+Some have great fitness through survival (persistence in a culture) or
+reproduction (number of adaptations). Adaptation, like evolution, is a
+transgenerational phenomenon. Some stories obviously have more "stability and penetrance in the cultural environment," as Dawkins would
+
+put it (193). Stories do get retold in different ways in new material and
+cultural environments; like genes, they adapt to those
+
+new environ-
+
+ments by virtue of mutation—in their offspring" or their adaptations.
+
+And the fittest do more than survive; they flourishe
+
+

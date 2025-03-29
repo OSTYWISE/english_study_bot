@@ -1,8 +1,0 @@
-defaults:
-  - database: example
-  - graph: example
-  - recommender: example
-  - _self_
-
-model:
-  model_name: "deepseek-ai/DeepSeek-R1-Distill-Llama-70B-free"

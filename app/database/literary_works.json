@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Blue Beard",
+        "author": "Charles Perrault",
+        "path": "data/blue_beard.txt"
+    },
+    {
+        "title": "The Garden of Forking Paths",
+        "author": "Jorge Luis Borges",
+        "path": "data/borges_garden_fantastic.txt"
+    },
+    {
+        "title": "The Theory of Adaptation",
+        "author": "Linda Hutcheon with Siobhan O'Flynn",
+        "path": "data/theory_of_adaptation.txt"
+    },
+    {
+        "title": "The Cycle of Socialization",
+        "author": "Bobbie Harro",
+        "path": "data/cycle_of_socialization.txt"
+    }
+]
