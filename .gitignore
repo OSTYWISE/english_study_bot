@@ -1,0 +1,88 @@
+# Project specific
+backend/test.ipynb
+backend/prokachka_tasks.ipynb
+backend/test_db.ipynb
+backend/data/
+
+# Secrets
+secrets/
+*.pem
+*.key
+*.crt
+
+# Dependencies
+node_modules/
+.pnpm-store/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build outputs
+.next/
+out/
+dist/
+build/
+*.egg-info/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+.env.example
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Testing
+coverage/
+.nyc_output/
+.pytest_cache/
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Cache
+.cache/
+.mypy_cache/
+.eslintcache
+.stylelintcache
+.parcel-cache
+
+# OS
+.DS_Store
+Thumbs.db
+*.pem
+.directory
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Misc
+*.pid
+*.seed
+*.pid.lock
+.tmp/
+.temp/
