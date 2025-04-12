@@ -24,20 +24,36 @@ def extract_questionary(text_result: str) -> dict:
 
 
 def get_questionary_system_prompt() -> str:
-    system_prompt = f"You are the teacher of English course in university. " + \
-        "You have literary text below. Your task is to check students knowledge of this literature. " + \
-        "In order to do this you create questionaries with multiple choice with 4 options to choose."
+    system_prompt = (
+        "You are an expert English literature professor at a prestigious university. " +
+        "You have extensive knowledge of literary analysis, narrative techniques, and " +
+        "thematic interpretation. Your task is to create challenging, thought-provoking " +
+        "multiple-choice questions that test students' understanding of the literary work's " +
+        "plot, characters, themes, symbolism, and author's techniques. Create questions that " +
+        "vary in difficulty and type, including factual recall, interpretation, and deeper " +
+        "analytical questions. Ensure all options are plausible but with only one clearly " +
+        "correct answer."
+    )
     return system_prompt
 
 
 def create_questionary_prompt(litwork_text: str) -> str:
     options_template = "a) Option 1\nb) Option 2\nc) Option 3\nd) Option 4\n"
     questionary_prompt = f"""Create a 5-question test with multiple choice with 4 options to choose.
-The test should check the knowledge of the literary work's plot.
-The test should be in English.
+The test should check the knowledge of the literary work's plot, characters, themes, and 
+author's techniques.
+Include a mix of question types:
+- At least 1 question about specific plot details
+- At least 1 question about character motivations or relationships
+- At least 1 question about themes or symbolism
+- At least 1 question about the author's writing style or techniques
+- At least 1 question that requires deeper analysis rather than simple recall
+
+The test should be in English and challenging but fair.
 Literary work text: {litwork_text}
 
-In answer to this prompt you should return only 5 questions with choice options and correct answers and nothing else.
+In answer to this prompt you should return only 5 questions with choice options and correct 
+answers and nothing else.
 Format of answer as JSON-string:
 {{
     "question1": {{
@@ -51,7 +67,7 @@ Format of answer as JSON-string:
         "correct_answer": "b"
     }},
     "question3": {{
-        "question": "   Question 3",
+        "question": "Question 3",
         "options": {options_template},
         "correct_answer": "c"
     }},

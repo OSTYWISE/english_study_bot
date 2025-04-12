@@ -10,6 +10,7 @@ from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
 from app.user_router import user
 from app.database.models import async_main
+from app.rag.initialize_rag import initialize_rag
 warnings.filterwarnings("ignore", category=UserWarning)
 
 
@@ -29,14 +30,9 @@ async def set_commands(bot: Bot):
 async def main():
     """
     Main script for launching bot
-    Args:
-        config (DictConfig): hydra experiment config.
     """
     load_dotenv()
-    # TOGETHER_API_KEY = os.getenv("TOGETHER_API_KEY", "")
     TG_BOT_TOKEN = os.getenv("BOT_TOKEN", "")
-
-    # together_client = TogetherAIClient(api_key=TOGETHER_API_KEY)
     bot = Bot(token=TG_BOT_TOKEN,
               default=DefaultBotProperties(parse_mode=ParseMode.HTML))
     dp = Dispatcher()
@@ -49,6 +45,7 @@ async def main():
 
 async def startup(dispatcher: Dispatcher):
     await async_main()
+    await initialize_rag()
     print('Starting up...')
 
 

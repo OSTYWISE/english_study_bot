@@ -5,9 +5,13 @@ from dotenv import load_dotenv
 
 from app.llm.utils import extract_questionary, get_questionary_system_prompt, \
     create_questionary_prompt
+from app.rag.rag_utils import RAGManager
 
 load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
+# Initialize RAG manager
+rag_manager = RAGManager()
 
 
 async def make_api_call(
@@ -78,6 +82,7 @@ async def make_api_call(
                         'completion_tokens', 0
                     )
                 }
+                print(result)
 
                 if structured_flg and functions:
                     function_call = result['choices'][0]['message'].get(
@@ -96,13 +101,23 @@ async def make_api_call(
 
 async def generate_questionary(
         litwork_text: str,
+        litwork_id: int,
         temperature: float = 1,
         max_tokens: int | None = None,
         raw_result: bool = False
         ):
     try:
+        # Get relevant excerpts using RAG
+        relevant_excerpts = rag_manager.get_relevant_excerpts_for_questionary(
+            litwork_id, k=5
+        )
+        
+        # If no relevant excerpts found, use the full text
+        if not relevant_excerpts:
+            relevant_excerpts = litwork_text
+            
         system_prompt = get_questionary_system_prompt()
-        questionary_prompt = create_questionary_prompt(litwork_text)
+        questionary_prompt = create_questionary_prompt(relevant_excerpts)
 
         text_result, _ = await make_api_call(
             prompt=questionary_prompt,
@@ -126,23 +141,52 @@ async def generate_questionary(
 async def discuss_litwork(
         discussion_messages: list[dict[str, str]],
         literary_work: str,
-        temperature: float = 0.5,
+        litwork_id: int,
+        temperature: float = 0.7,
         max_tokens: int | None = None) -> str:
     try:
-        system_prompt = "You are a brilliant student that study “Drama and Theatre” advanced english course." + \
-            "You discuss the text of the literary work, that is provided below, with your classmate. " + \
-            "You want to help him to analyze the text, the realize the real meaning author put to his work. " + \
-            "You may use your background knowledge about the work and literary work and provided author if needed. " + \
-            "Continue to communicate with him for help both understand the text better." + \
-            "Be short and concise in your answers. Your answer should be in average 1-2 sentences. If needed you can use up to 4 sentences."
+        # Get the last user message as the query
+        last_user_message = None
+        for msg in reversed(discussion_messages):
+            if msg["role"] == "user":
+                last_user_message = msg["content"]
+                break
+                
+        # If no user message found, use a default query
+        if not last_user_message:
+            last_user_message = "What is this literary work about?"
+            
+        # Get relevant excerpts using RAG
+        relevant_excerpts = rag_manager.get_relevant_excerpts_for_discussion(
+            last_user_message, litwork_id, k=5
+        )
+        
+        # If no relevant excerpts found, use the full text
+        if not relevant_excerpts:
+            relevant_excerpts = literary_work
+            
+        system_prompt = (
+            "You are a brilliant literature scholar with expertise in 'Drama and Theatre' "
+            "advanced English courses. You have a deep understanding of literary theory, "
+            "narrative techniques, and critical analysis. When discussing the literary work "
+            "with your classmate, focus on deeper analytical insights rather than simple "
+            "plot summaries. Explore themes, symbolism, character psychology, narrative "
+            "structure, and the author's stylistic choices. Draw connections between the "
+            "text and broader literary traditions, historical context, or philosophical "
+            "ideas. Challenge conventional interpretations and offer unique perspectives "
+            "that reveal hidden layers of meaning. Use your background knowledge about "
+            "the work, author, and literary theory to enrich the discussion. Be concise "
+            "but insightful in your responses (1-3 sentences), focusing on quality of "
+            "analysis over quantity of text."
+        )
         messages = [
-            {"role": "system", "text": system_prompt},
-            {"role": "user", "text": f"Literary work text:\n{literary_work}"}
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": f"Literary work text:\n{relevant_excerpts}"}
         ]
         messages.extend(discussion_messages)
 
-        result = await make_api_call(
-            prompt=f"Literary work text:\n{literary_work}",
+        result, _ = await make_api_call(
+            prompt="",
             system_prompt=system_prompt,
             messages=messages,
             temperature=temperature,
@@ -156,16 +200,43 @@ async def discuss_litwork(
 async def generate_idea(
         topic: str,
         litwork_text: str,
-        temperature: float = 0.5,
+        litwork_id: int,
+        temperature: float = 0.9,
         max_tokens: int | None = None) -> str:
     try:
+        # Get relevant excerpts using RAG
+        relevant_excerpts = rag_manager.get_relevant_excerpts_for_idea(
+            topic, litwork_id, k=5
+        )
+        
+        # If no relevant excerpts found, use the full text
+        if not relevant_excerpts:
+            relevant_excerpts = litwork_text
+            
         # Prompt in english to create a new non-obvious thought or idea on the certain topic in context of the text of literary work
-        idea_prompt = f"""Create a new non-obvious thought or idea on the certain topic in context of the text of literary work.
-        Topic: {topic}
-        Literary work text: {litwork_text}
-        In answer to this prompt you should return only the thought or idea and explain it, without any other text.
-        """
-        system_prompt = "You are a very creative person, who likes to generate new ideas based on literary works"
+        idea_prompt = f"""Create a truly original, unconventional, and thought-provoking idea on the following topic in the context of the literary work.
+
+Topic: {topic}
+Literary work text: {relevant_excerpts}
+
+Your idea should:
+- Be completely original and not obvious
+- Connect the topic to unexpected elements in the text
+- Challenge conventional interpretations
+- Draw surprising parallels or contrasts
+- Offer a fresh perspective that most readers would miss
+- Be intellectually stimulating and potentially controversial
+
+In your response, provide only the idea and a brief explanation of your reasoning, without any introductory text or additional commentary.
+"""
+        system_prompt = (
+            "You are a brilliant literary theorist and creative thinker with expertise in "
+            "generating unconventional ideas. You excel at making unexpected connections, "
+            "challenging assumptions, and seeing patterns that others miss. Your ideas are "
+            "always original, thought-provoking, and intellectually stimulating. You're not "
+            "afraid to be controversial or challenge conventional wisdom when your analysis "
+            "supports it."
+        )
 
         result, _ = await make_api_call(
             prompt=idea_prompt,

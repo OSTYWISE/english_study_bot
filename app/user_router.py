@@ -78,7 +78,7 @@ async def questionary_handler(message: Message, state: FSMContext):
     await message.answer("Generating questionary...")
     await message.bot.send_chat_action(message.from_user.id, ChatAction.TYPING)
 
-    questionary = await generate_questionary(litwork_text)
+    questionary = await generate_questionary(litwork_text, litwork.id)
     await state.update_data(questionary=questionary)
     for question in questionary:
         if len(question['options']) != 4:
@@ -129,7 +129,7 @@ async def discuss_handler(message: Message, state: FSMContext):
     await message.answer("Let's start discussion. If you want to stop, just type /stop")
     await message.answer(f"Hi, {hbold(message.from_user.full_name)}! What do you want to discuss with me?")
     await state.update_data(discussion_messages=[
-        {"role": "assistant", "text": f"Hi, {hbold(message.from_user.full_name)}! What do you want to discuss with me?"},
+        {"role": "assistant", "content": f"Hi, {hbold(message.from_user.full_name)}! What do you want to discuss with me?"},
     ])
     await state.set_state(Discussion.discussion)
 
@@ -137,17 +137,21 @@ async def discuss_handler(message: Message, state: FSMContext):
 @user.message(Discussion.discussion)
 async def study_discussion(message: Message, state: FSMContext):
     user_data = await state.get_data()
+    if message.text.strip() == "/stop":
+        await message.answer("Discussion stopped.")
+        await state.clear()
+        return
     student = await get_student(message.from_user.id)
     litwork = await get_litwork_by_id(student.litwork_id)
     with open(litwork.path, "r", encoding="utf-8") as file:
         litwork_text = file.read()
 
-    user_data['discussion_messages'].append({"role": "user", "text": message.text})
+    user_data['discussion_messages'].append({"role": "user", "content": message.text})
     await state.update_data(discussion_messages=user_data['discussion_messages'])
     await message.bot.send_chat_action(message.from_user.id, ChatAction.TYPING)
-    next_message = await discuss_litwork(user_data['discussion_messages'], litwork_text)
+    next_message = await discuss_litwork(user_data['discussion_messages'], litwork_text, litwork.id)
     await message.answer(next_message)
-    user_data['discussion_messages'].append({"role": "assistant", "text": next_message})
+    user_data['discussion_messages'].append({"role": "assistant", "content": next_message})
     await state.update_data(discussion_messages=user_data['discussion_messages'])
     await state.set_state(Discussion.discussion)
 
@@ -175,7 +179,7 @@ async def study_idea(message: Message, state: FSMContext):
     with open(litwork.path, "r", encoding="utf-8") as file:
         litwork_text = file.read()
 
-    idea_text = await generate_idea(topic=message.text, litwork_text=litwork_text)
+    idea_text = await generate_idea(topic=message.text, litwork_text=litwork_text, litwork_id=litwork.id)
     await message.answer(idea_text)
     await state.clear()
 

@@ -1,7 +1,5 @@
 import os
-import uuid
 from dotenv import load_dotenv
-from typing import Optional
 from sqlalchemy import ForeignKey, String, BigInteger, ARRAY
 from sqlalchemy.orm import Mapped, DeclarativeBase, mapped_column
 from sqlalchemy.ext.asyncio import AsyncAttrs, async_sessionmaker, create_async_engine

@@ -42,7 +42,6 @@ answer_options_basic = ReplyKeyboardMarkup(
 )
 
 
-
 async def litwork_builder():
     litworks = await get_all(Litwork)
     builder = InlineKeyboardBuilder()
