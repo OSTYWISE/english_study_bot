@@ -48,6 +48,12 @@ async def delete_student(tg_id: int) -> None:
         await session.commit()
 
 
+async def delete_litwork(id: int) -> None:
+    async with async_session() as session:
+        await session.execute(delete(Litwork).where(Litwork.id == id))
+        await session.commit()
+
+
 async def get_litwork_by_name(name: str) -> Litwork | None:
     async with async_session() as session:
         return await session.scalar(select(Litwork).where(Litwork.title == name))

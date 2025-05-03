@@ -2,7 +2,7 @@ import os
 import aiohttp
 from typing import Dict, Tuple, Optional, List
 from dotenv import load_dotenv
-
+from app.database.requests import get_litwork_by_id
 from app.llm.utils import extract_questionary, get_questionary_system_prompt, \
     create_questionary_prompt
 from app.rag.rag_utils import RAGManager
@@ -18,7 +18,7 @@ async def make_api_call(
     prompt: str,
     system_prompt: Optional[str] = None,
     messages: Optional[List[Dict]] = None,
-    model_name: str = "gpt-4",
+    model_name: str = "gpt-4o",
     temperature: float = 1,
     max_tokens: Optional[int] = None,
     structured_flg: bool = False,
@@ -29,7 +29,7 @@ async def make_api_call(
     Args:
         prompt: The user's prompt
         system_prompt: Optional system prompt
-        model_name: Model to use (default: gpt-4)
+        model_name: Model to use (default: gpt-4o)
         temperature: Sampling temperature (default: 1)
         max_tokens: Max tokens to generate
         structured_flg: Whether to use function calling
@@ -82,7 +82,8 @@ async def make_api_call(
                         'completion_tokens', 0
                     )
                 }
-                print(result)
+                print("Input tokens: ", result.get('usage', {}).get('prompt_tokens', 0))
+                print("Output tokens: ", result.get('usage', {}).get('completion_tokens', 0))
 
                 if structured_flg and functions:
                     function_call = result['choices'][0]['message'].get(
@@ -100,7 +101,6 @@ async def make_api_call(
 
 
 async def generate_questionary(
-        litwork_text: str,
         litwork_id: int,
         temperature: float = 1,
         max_tokens: int | None = None,
@@ -108,14 +108,16 @@ async def generate_questionary(
         ):
     try:
         # Get relevant excerpts using RAG
-        relevant_excerpts = rag_manager.get_relevant_excerpts_for_questionary(
-            litwork_id, k=5
+        relevant_excerpts = await rag_manager.get_relevant_excerpts_for_questionary(
+            litwork_id, k=20
         )
-        
         # If no relevant excerpts found, use the full text
         if not relevant_excerpts:
-            relevant_excerpts = litwork_text
-            
+            litwork = await get_litwork_by_id(litwork_id)
+            with open(litwork.path, "r", encoding="utf-8") as file:
+                litwork_text = file.read()
+            relevant_excerpts = litwork_text[:300_000]
+
         system_prompt = get_questionary_system_prompt()
         questionary_prompt = create_questionary_prompt(relevant_excerpts)
 
@@ -125,13 +127,13 @@ async def generate_questionary(
             temperature=temperature,
             max_tokens=max_tokens
         )
-        print(f"Generated text: {text_result}")
+        print(f"Generated questionary's text length: {len(text_result)}")
 
         if raw_result:
             return text_result
 
         questionary = extract_questionary(text_result)
-        print(questionary)
+        print(f"Questionary length: {len(questionary)}")
         return questionary
     except Exception as e:
         print(f"Error occurred: {str(e)}")
@@ -140,7 +142,6 @@ async def generate_questionary(
 
 async def discuss_litwork(
         discussion_messages: list[dict[str, str]],
-        literary_work: str,
         litwork_id: int,
         temperature: float = 0.7,
         max_tokens: int | None = None) -> str:
@@ -151,20 +152,23 @@ async def discuss_litwork(
             if msg["role"] == "user":
                 last_user_message = msg["content"]
                 break
-                
+
         # If no user message found, use a default query
         if not last_user_message:
             last_user_message = "What is this literary work about?"
-            
+
         # Get relevant excerpts using RAG
-        relevant_excerpts = rag_manager.get_relevant_excerpts_for_discussion(
-            last_user_message, litwork_id, k=5
+        relevant_excerpts = await rag_manager.get_relevant_excerpts_for_discussion(
+            last_user_message, litwork_id, k=10
         )
-        
+
         # If no relevant excerpts found, use the full text
         if not relevant_excerpts:
-            relevant_excerpts = literary_work
-            
+            litwork = await get_litwork_by_id(litwork_id)
+            with open(litwork.path, "r", encoding="utf-8") as file:
+                litwork_text = file.read()
+            relevant_excerpts = litwork_text[:300_000]
+
         system_prompt = (
             "You are a brilliant literature scholar with expertise in 'Drama and Theatre' "
             "advanced English courses. You have a deep understanding of literary theory, "
@@ -181,7 +185,7 @@ async def discuss_litwork(
         )
         messages = [
             {"role": "system", "content": system_prompt},
-            {"role": "user", "content": f"Literary work text:\n{relevant_excerpts}"}
+            {"role": "user", "content": f"Literary work relevant excerpts:\n{relevant_excerpts}"}
         ]
         messages.extend(discussion_messages)
 
@@ -199,25 +203,27 @@ async def discuss_litwork(
 
 async def generate_idea(
         topic: str,
-        litwork_text: str,
         litwork_id: int,
         temperature: float = 0.9,
         max_tokens: int | None = None) -> str:
     try:
         # Get relevant excerpts using RAG
-        relevant_excerpts = rag_manager.get_relevant_excerpts_for_idea(
-            topic, litwork_id, k=5
+        relevant_excerpts = await rag_manager.get_relevant_excerpts_for_idea(
+            topic, litwork_id, k=10
         )
-        
+
         # If no relevant excerpts found, use the full text
         if not relevant_excerpts:
-            relevant_excerpts = litwork_text
-            
+            litwork = await get_litwork_by_id(litwork_id)
+            with open(litwork.path, "r", encoding="utf-8") as file:
+                litwork_text = file.read()
+            relevant_excerpts = litwork_text[:300_000]
+
         # Prompt in english to create a new non-obvious thought or idea on the certain topic in context of the text of literary work
         idea_prompt = f"""Create a truly original, unconventional, and thought-provoking idea on the following topic in the context of the literary work.
 
 Topic: {topic}
-Literary work text: {relevant_excerpts}
+Literary work relevant excerpts: {relevant_excerpts}
 
 Your idea should:
 - Be completely original and not obvious
@@ -226,8 +232,12 @@ Your idea should:
 - Draw surprising parallels or contrasts
 - Offer a fresh perspective that most readers would miss
 - Be intellectually stimulating and potentially controversial
+- Be short and concise
 
 In your response, provide only the idea and a brief explanation of your reasoning, without any introductory text or additional commentary.
+Format of answer:
+Idea: ...
+Explanation: ...
 """
         system_prompt = (
             "You are a brilliant literary theorist and creative thinker with expertise in "

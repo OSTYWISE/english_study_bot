@@ -1,8 +1,73 @@
 [
     {
+        "title": "Fruit of the Calabash",
+        "author": "Rafeeat Aliyu",
+        "path": "data/fruit_of_the_calabash.txt"
+    },
+    {
+        "title": "The Maiden without Hands",
+        "author": "Jacob and Wilhelm Grimm",
+        "path": "data/maiden_without_hands.txt"
+    },
+    {
+        "title": "Disfigured: On Fairy Tales, Disability, and Making Space",
+        "author": "Amanda Leduc",
+        "path": "data/disfigured_on_fairy_tales.txt"
+    },
+    {
+        "title": "Disability and Narrative",
+        "author": "Michael Berube",
+        "path": "data/disability_and_narrative.txt"
+    },
+    {
+        "title": "Behind our Irises",
+        "author": "Tlotlo Tsamaase",
+        "path": "data/behind_our_irises.txt"
+    },
+    {
+        "title": "Loss of Signal",
+        "author": "Divya Srinivasan Breed",
+        "path": "data/loss_of_signal.txt"
+    },
+    {
+        "title": "The Cycle of Socialization",
+        "author": "Bobbie Harro",
+        "path": "data/cycle_of_socialization.txt"
+    },
+    {
+        "title": "Binti: The Complete Trilogy",
+        "author": "Nnedi Okorafor",
+        "path": "data/binti_trilogy.txt"
+    },
+    {
+        "title": "The Glass Bottle Trick",
+        "author": "Nalo Hopkinson",
+        "path": "data/glass_bottle_trick.txt"
+    },
+    {
         "title": "Blue Beard",
         "author": "Charles Perrault",
         "path": "data/blue_beard.txt"
+    },
+    {
+        "title": "Bluebeard's Wife",
+        "author": "Ursula Vernon",
+        "path": "data/bluebeards_wife.txt"
+    },
+    {
+        "title": "Invisible Cities",
+        "author": "Italo Calvino",
+        "path": "data/invisible_cities.txt"
+    },
+    {
+        "title": "What Metaverse Planners Can Learn",
+        "author": "Chloe Sun",
+        "path": "data/metaverse_planners.txt"
+    },
+    {
+        "title": "The Magical Realisms of Miyazaki's Totoro",
+        "author": "Zainab Mubashir",
+        "path": "data/magical_realisms_of_totoro.txt"
     },
     {
         "title": "The Garden of Forking Paths",
@@ -10,13 +75,53 @@
         "path": "data/borges_garden_fantastic.txt"
     },
     {
+        "title": "How Ms. Marvel Became Marvel's Most Important Super Heroes",
+        "author": "Abad-Santos",
+        "path": "data/ms_marvel_super_heroes.txt"
+    },
+    {
+        "title": "Fandom and Participatory Culture",
+        "author": "Article in newspaper",
+        "path": "data/fandom_participatory_culture.txt"
+    },
+    {
+        "title": "Three Observations",
+        "author": "Sam Altman",
+        "path": "data/three_observations.txt"
+    },
+    {
+        "title": "Fandom Robots",
+        "author": "Vina Jie-MinPrasad",
+        "path": "data/fandom_robots.txt"
+    },
+    {
+        "title": "Metal like blood in the dark",
+        "author": "T. Kingfisher",
+        "path": "data/metal_like_blood_in_dark.txt"
+    },
+    {
+        "title": "A dream of electric mothers",
+        "author": "L.A. Weatherwax",
+        "path": "data/dream_of_electric_mothers.txt"
+    },
+    {
+        "title": "Centaurs and Cyborgs on the Jagged Frontier",
+        "author": "Ethan Mollick",
+        "path": "data/centaurs_and_cyborgs.txt"
+    },
+    {
+        "title": "Sunrise",
+        "author": "Nnedi Okorafor",
+        "path": "data/okorafor_sunrise.txt"
+    },
+    {
+        "title": "In Xanadu",
+        "author": "Lavie Tidhar",
+        "path": "data/in_xanadu.txt"
+    },
+    {
         "title": "The Theory of Adaptation",
         "author": "Linda Hutcheon with Siobhan O'Flynn",
         "path": "data/theory_of_adaptation.txt"
-    },
-    {
-        "title": "The Cycle of Socialization",
-        "author": "Bobbie Harro",
-        "path": "data/cycle_of_socialization.txt"
     }
 ]

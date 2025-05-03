@@ -1,7 +1,3 @@
-import os
-import uuid
-import random
-import asyncio
 from dotenv import load_dotenv
 from aiogram import Router, F
 from aiogram.enums import ChatAction
@@ -10,7 +6,9 @@ from aiogram.filters import Filter, Command, CommandStart
 from aiogram.fsm.context import FSMContext
 from aiogram.utils.markdown import hbold
 
-from app.database.requests import get_student, get_litwork_by_id, set_or_update_student, get_litwork_by_name
+from app.database.requests import get_student, get_litwork_by_id, \
+    set_or_update_student, get_litwork_by_name, get_all
+from app.database.models import Litwork
 from app.llm.llm_client import generate_questionary, generate_idea, discuss_litwork
 from app.user_states import UserSettings, Discussion, Idea, Questionary
 from app.utils import question_to_text, has_litwork
@@ -31,25 +29,49 @@ async def cmd_start(message: Message, state: FSMContext) -> None:
         "2. Discussion mode: I'll be your classmate to discuss the plot and the meaning of engrossing scences(/discuss);\n" + \
         "3. Create a new non-obvious thought or idea on the certain topic in context of the text (/idea);\n"
     await message.answer(help_message)
-    await message.answer("To start using the bot, you need to set the literary work you want to deep dive into.", reply_markup=await kb.litwork_builder())
+    await message.answer("To start using the bot, you need to set the literary work you want to deep dive into.")
+
+    litworks_message = ""
+    litworks_dict = dict()
+    litworks = await get_all(Litwork)
+    for i, litwork in enumerate(litworks):
+        litworks_message += f"{i+1}. {litwork.title} by {litwork.author}\n"
+        litworks_dict[i+1] = litwork.id
+    await message.answer(litworks_message)
+    await message.answer("Choose the number from the list above and write it. Example: 5")
+    await state.update_data(litworks_dict=litworks_dict)
     await state.set_state(UserSettings.litwork_choice)
 
 
 @user.message(Command('change_litwork'))
 async def settings_handler(message: Message, state: FSMContext):
-    await message.answer("What literary work do you want to deep dive into now?", reply_markup=await kb.litwork_builder())
+    litworks_message = ""
+    litworks_dict = dict()
+    litworks = await get_all(Litwork)
+    for i, litwork in enumerate(litworks):
+        litworks_message += f"{i+1}. {litwork.title} by {litwork.author}\n"
+        litworks_dict[i+1] = litwork.id
+    await message.answer("What literary work do you want to deep dive into now?")
+    await message.answer(litworks_message)
+    await message.answer("Please, choose the number from the list above and write it. Example: 5")
+    await state.update_data(litworks_dict=litworks_dict)
     await state.set_state(UserSettings.litwork_choice)
 
 
-@user.callback_query(UserSettings.litwork_choice)
-async def user_litwork_choice(callback: CallbackQuery, state: FSMContext):
-    litwork = await get_litwork_by_id(int(callback.data.split('_')[1]))
-    if litwork:
-        await set_or_update_student(callback.from_user.id, litwork.id)
-        await callback.message.answer("Your choice is saved! Now you can start studying.")
+@user.message(UserSettings.litwork_choice)
+async def user_litwork_choice(message: Message, state: FSMContext):
+    user_data = await state.get_data()
+    if message.text.strip().isdigit() and int(message.text.strip()) in user_data['litworks_dict']:
+        litwork = await get_litwork_by_id(user_data['litworks_dict'][int(message.text.strip())])
+        if litwork:
+            await set_or_update_student(message.from_user.id, litwork.id)
+            await message.answer("Your choice is saved! Now you can start studying.")
+            await state.clear()
+        else:
+            await message.answer("I can't find this work. Please try one more time or another work.")
     else:
-        await callback.message.answer("I don't know this work. Please, choose option from the list below.", reply_markup=await kb.litwork_builder())
-    await state.clear()
+        await message.answer("I don't have this option. Please, choose the number from the list above and write it.")
+        await state.set_state(UserSettings.litwork_choice)
 
 
 @user.message(Command('help'))
@@ -72,24 +94,26 @@ async def questionary_handler(message: Message, state: FSMContext):
     student = await get_student(message.from_user.id)
     litwork = await get_litwork_by_id(student.litwork_id)
 
-    with open(litwork.path, "r", encoding="utf-8") as file:
-        litwork_text = file.read()
-
     await message.answer("Generating questionary...")
     await message.bot.send_chat_action(message.from_user.id, ChatAction.TYPING)
 
-    questionary = await generate_questionary(litwork_text, litwork.id)
-    await state.update_data(questionary=questionary)
-    for question in questionary:
-        if len(question['options']) != 4:
-            await message.answer("Something went wrong. Please, try one more time /questionary")
-            return
+    try:
+        questionary = await generate_questionary(litwork.id)
+        await state.update_data(questionary=questionary)
+        for question in questionary:
+            if len(question['options']) != 4:
+                await message.answer("Something went wrong. Please, try one more time /questionary")
+                return
 
-    await message.answer(
-        "Question 1:\n" + question_to_text(questionary[0]), reply_markup=kb.answer_options_basic
-        )  # 4 options
-    await state.update_data(current_question_num=0, student_score=0)
-    await state.set_state(Questionary.question)
+        await message.answer(
+            "Question 1:\n" + question_to_text(questionary[0]), reply_markup=kb.answer_options_basic
+            )  # 4 options
+        await state.update_data(current_question_num=0, student_score=0)
+        await state.set_state(Questionary.question)
+    except Exception as e:
+        print(e)
+        await message.answer("Something went wrong. Please, try one more time /questionary")
+        return
 
 
 @user.message(Questionary.question)
@@ -98,11 +122,11 @@ async def study_answer(message: Message, state: FSMContext):
     current_question_num = user_data['current_question_num']
 
     if message.text.strip() == str(user_data['questionary'][current_question_num]['correct_answer']):
-        await message.answer("Correct!", reply_markup=ReplyKeyboardRemove())
+        await message.answer("✅Correct!", reply_markup=ReplyKeyboardRemove())
         user_data['student_score'] += 1
         await state.update_data(student_score=user_data['student_score'])
     else:
-        await message.answer("Incorrect!", reply_markup=ReplyKeyboardRemove())
+        await message.answer("❌Incorrect!", reply_markup=ReplyKeyboardRemove())
         await message.answer(f"Here is the correct answer: {user_data['questionary'][current_question_num]['correct_answer']}")
 
     if current_question_num < len(user_data['questionary']) - 1:
@@ -143,13 +167,11 @@ async def study_discussion(message: Message, state: FSMContext):
         return
     student = await get_student(message.from_user.id)
     litwork = await get_litwork_by_id(student.litwork_id)
-    with open(litwork.path, "r", encoding="utf-8") as file:
-        litwork_text = file.read()
 
     user_data['discussion_messages'].append({"role": "user", "content": message.text})
     await state.update_data(discussion_messages=user_data['discussion_messages'])
     await message.bot.send_chat_action(message.from_user.id, ChatAction.TYPING)
-    next_message = await discuss_litwork(user_data['discussion_messages'], litwork_text, litwork.id)
+    next_message = await discuss_litwork(user_data['discussion_messages'], litwork.id)
     await message.answer(next_message)
     user_data['discussion_messages'].append({"role": "assistant", "content": next_message})
     await state.update_data(discussion_messages=user_data['discussion_messages'])
@@ -176,11 +198,10 @@ async def idea_handler(message: Message, state: FSMContext):
 async def study_idea(message: Message, state: FSMContext):
     student = await get_student(message.from_user.id)
     litwork = await get_litwork_by_id(student.litwork_id)
-    with open(litwork.path, "r", encoding="utf-8") as file:
-        litwork_text = file.read()
+    await message.bot.send_chat_action(message.from_user.id, ChatAction.TYPING)
 
-    idea_text = await generate_idea(topic=message.text, litwork_text=litwork_text, litwork_id=litwork.id)
-    await message.answer(idea_text)
+    idea_text = await generate_idea(topic=message.text, litwork_id=litwork.id)
+    await message.answer(f"💡{idea_text}")
     await state.clear()
 
 

@@ -1,0 +1,398 @@
+﻿What Can Metaverse Planners Learn from Italo Calvino’s Invisible Cities
+
+Written by Chloe Sun
+
+Published on June 01, 2022 Share
+
+We are still at the dawn of the Metaverse, the next wave of the Internet. The current “mainstream” Metaverse
+platforms serve as experimental containers to host the wildest dreams of virtual worlds where we are supposed to
+unleash the imagination. However, from a spatial design perspective, they have so far been lame and ordinary.
+Without the constraints in the physical world, how do we draft the urban blueprints in the metaverse? I believe
+metaverse planners can find inspiration from Italo Calvino’s Invisible Cities, in which he revealed a poetic and
+mathematical approach to “urban planning” in the imaginary worlds.
+
+About Invisible Cities
+
+Invisible Cities is a novel by Italian writer Italo Calvino, published in 1972. It is a short book, like a piece of jewelry
+made with fragments of dreamland. You can start reading it from any page, and each chapter is like a dream, short,
+bizarre, and traceless but with endless aftertaste. The book consists of brief prose poems, describing a series of
+verbal reports that the traveler Marco Polo makes to emperor Kublai Khan, telling fantastical stories about the cities
+that he’s visited.
+
+Related Article
+
+Architecting the Metaverse
+
+“ What is the city today, for us? I believe that I have written something like a last love
+poem addressed to the city, at a time when it is becoming increasingly difficult to live
+there. It looks, indeed, as if we are approaching a period of crisis in urban life; and
+Invisible Cities is like a dream born out of the heart of the unlivable cities we know. --
+Italo Calvino ”
+
+Over eleven thematic groups, Marco describes a total of 55 fictitious cities, all women’s names, to give rise to a
+reflection which holds good for all cities in general. With poetic imagery and geometric rigor, Calvino intertwines
+various elements in the catalog, “Cities and Memory”, “Cities and Desire”, “Cities and Sign”, “Thin Cities”, and
+“Trading Cities”… Through this means, the city forms a huge intricate labyrinth, with countless alleys and
+intersections intertwined, and readers are caught in this vortex and cannot extricate themselves. By rearranging the
+elements, like combinations and permutations, you can construct dozens of cities with different characteristics.
+
+Let’s travel through Calvino’s cities to discover the meanings of cities, and get inspired while building the metaverse.
+
+Cities and Desire
+
+The Appearance of a City is Shaped by Our Desires
+
+“ From there, after six days and seven nights, you arrive at Zobeide, the white city, well
+exposed to the moon, with streets wound about themselves as in a skein. They tell this
+tale of its foundation: men of various nations had an identical dream. They saw a
+woman running at night through an unknown city; she was seen from behind, with long
+hair, and she was naked. They dreamed of pursuing her. As they twisted and turned,
+each of them lost her. After the dream they set out in search of that city; they never
+found it, but they found one another; they decided to build a city like the one in the
+dream. In laying out the streets, each followed the course of his pursuit; at the spot
+where they had lost the fugitive’s trail, they arranged spaces and walls differently from
+the dream, so she would be unable to escape again. -- Zobeide, Cities and Desire 5 ”
+
+Zobeide, a city with streets as puzzling as a maze, is shaped by men’s desires. In order to pursue the naked woman in
+their dreams, they turned the city into an ugly trap. If we take a look at the layouts of some metaverse platforms, we
+can see the opposite pattern. They adopt a grid system with plots of land distributed on a horizontal plane. This
+allows for property to be easily parcelled and sold. The maps of these metaverse platforms are also shaped by
+desires. With speculation and profit in mind, are we only going to see big and small boxes in the metaverse?
+
+Cities are not Necessarily Built on (Limited) “Lands”
+
+“ If you choose to believe me, good. Now I will tell how Octavia, the spider-web city, is
+made. There is a precipice between two steep mountains: the city is over the void,
+bound to the two crests with ropes and chains and catwalks. You walk on the little
+wooden ties, careful not to set your foot in the open spaces, or you cling to the hempen
+strands. Below there is nothing for hundreds and hundreds of feet: a few clouds glide
+past; farther down you can glimpse the chasm’s bed. This is the foundation of the city: a
+net which serves as passage and as support. All the rest, instead of rising up, is hung
+below: rope ladders, hammocks, houses made like sacks, clothes hangers, terraces like
+gondolas, skins of water, gas jets, spits, baskets on strings, dumb-waiters, showers,
+trapezes and rings for children’s games, cable cars, chandeliers, pots with trailing
+plants. Suspended over the abyss, the life of Octavia’s inhabitants is less uncertain than
+in other cities. They know the net will last only so long. - Octavia, Thin Cities 5 ”
+
+Octavia is a city built on a spider web. In the book Invisible Cities, there is Armilla, a city made only of water pipes;
+there is Baucis, a city build on the cloud; there is Isaura, a city built upon deep vertical wells; there is Valdrada, a city of
+mirrors and reflections; there is Olinda, a microscopic city which gradually spreads out until one realizes that it is
+made up of lots and lots of concentric cities which are all expanding…
+
+Archigram, an avant-garde architectural group formed in the early 60s, proposed cities that moved, Walking City
+imagines a future in which borders and boundaries are abandoned in favor of a nomadic lifestyle among groups of
+people worldwide. Inspired by NASA's towering, mobile launch pads, hovercraft, and science fiction comics,
+Archigram envisioned parties of itinerant buildings that travel on land and sea. Like so many of Archigram's projects,
+Walking City anticipated the fast-paced urban lifestyle of a technologically advanced society in which one need not be
+tied down to a permanent location. The structures are conceived to plug into utilities and information networks at
+different locations to support the needs and desires of people who work and play, travel and stay put,
+simultaneously. By means of this nomadic existence, different cultures and information is shared, creating a global
+information market that anticipates later Archigram projects, such as Instant City.
+
+Cities are not necessarily built on “lands”. Why do we need “lands” in the metaverse? Also, the limited supply of
+virtual lands created a man-made scarcity that drives the price to soar, increasing the bar for the general public to
+participate in the creation of metaverse.
+
+Cities and Memory
+
+City Archetypes
+
+“ “There is still one of which you never speak.” Marco Polo bowed his head. “Venice,” the
+Khan said. Marco smiled. “What else do you believe I have been talking to you about?”
+The emperor did not turn a hair. “And yet I have never heard you mention that name.”
+And Polo said: “Every time I describe a city I am saying something about Venice.” ”
+
+In one key exchange in the middle of the book, Kublai prods Polo to tell him of the one city he has never mentioned
+directly — his hometown. Polo’s response: “Every time I describe a city I am saying something about Venice.” Invisible
+Cities pays close attention to the ways in which travel and experiencing new things influence how a person sees the
+world, ultimately suggesting that a person’s perception of their surroundings is subjective and individualized,
+informed entirely by their memories, perspective, and experiences — in Marco’s case, his memories of Venice.
+
+“Thus there are psychoanalytical critics who have found the deep roots of the book in Marco Polo’s evocations of
+Venice, his native city, as a return to the first archetypes of the memory. ” If all the imaginary cities in the novel are just
+iterations of “Venice”, how do we design the archetypes of the metaverse?
+
+Let’s go back to the real world for a second to discuss the archetype of a city. Manhattan, through the advent of
+elevators and the steel frame and the concentration they brought, was the archetype of the Metropolis, fusing a
+“culture of congestion.” In Las Vegas, the vacuum effect of the automobile and highway created “vast expansive
+texture: the mega texture of the commercial landscape,” making it the archetype of the American suburb.
+
+To create a new archetype in the imaginary world, you can always heavily modify and combine existing cities and
+urban configurations, following the example set by Half-Life 2. Famously, even Terry Pratchett’s Ankh-Morpork was
+based on Tallinn, Prague, and had bits of 18th century London, 19th century Seattle, and early 20th century NY
+thrown in.
+
+Familiarity and Surrealism
+
+In his 2012 book, Building Imaginary Worlds, media theorist Mark J.P. Wolf says that fictional worlds often “use
+Primary World [ie real world] defaults for many things, despite all the defaults they may reset”. In other words,
+because everything in the metaverse is built from scratch, technically you don’t actually have to reference the real
+world in your designs. But many people choose to do so anyway. They plump for familiar architectural characteristics
+in their virtual buildings because it makes it easier for participants to feel immersed.
+
+Are users satisfied with just the familiar objects in the metaverse? I believe users are looking for something beyond
+everyday life, something they can relate to but different, fresh, weird, and confusing…
+
+Art movements like Surrealism provided us with a formula, composing real, ordinary objects in strange, unexpected
+ways, just like in a dream. For a moment, the mind is confused, and the power of surrealism is that it breaks the mind.
+
+For example, take Dalí’s Persistence of Memory: a barren landscape covered in a bunch of melting clocks… and
+possibly a platypus…
+
+Let’s try this dreamwork approach:
+
+1. Manifest Content: Sure, we can certainly recognize the objects in this painting — real things like a tree, clock faces,
+a pocket watch, ants — and yet they are illustrated in very strange ways, making them feel at once real and unreal.
+
+2. Latent Content: Beneath the surface of these objects lies the symbolism — the clocks seem to be melting,
+distorting their faces. Perhaps this could represent how memory becomes distorted over time.
+
+“ The mind loves the unknown. It loves images whose meaning is unknown since the
+meaning of the mind itself is unknown.-- René Magritte ”
+
+Cities and Signs
+
+Ways to Convey Meanings
+
+“ Finally the journey leads to the city of Tamara. You penetrate it along streets thick with
+signboards jutting from the walls. The eye does not see things but images of things that
+mean other things: pincers point out the tooth-drawer’s house; a tankard, the tavern;
+halberds, the barracks; scales, the grocer’s. Statues and shields depict lions, dolphins,
+towers, stars: a sign that something — who knows what? — has as its sign a lion or a
+dolphin or a tower or a star. Other signals warn of what is forbidden in a given place (to
+enter the alley with wagons, tourinate behind the kiosk, to fish with your pole from the
+bridge) and what is allowed (watering zebras,playing bowls, burning relatives’ corpses)
+Your gaze scans the streets as if they were written pages: the city says everything you
+must think, makes you repeat her discourse, and while you believe you are visiting
+Tamara you are only recording the names with which she defines herself and all her
+parts.
+
+However the city may really be, beneath this thick coating of signs, whatever it may
+contain or conceal, you leave Tamara without having discovered it. - Tamara, Cities and
+Signs 1 ”
+
+Tamara reminds me of Las Vegas, a city built from scratch in the middle of the desert. Las Vegas was regarded as a
+“non-city” and as an outgrowth of a “strip”, along which were placed parking lots and singular frontages for gambling
+casinos, hotels, churches and bars. According to the book Learning from Las Vegas by Robert Venturi, Denise Scott
+Brown, and Steven Izenour in 1972, “Passing through Las Vegas is Route 91, the archetype of the commercial strip,
+the phenomenon at its purest and most intense. We believe a careful documentation and analysis of its physical form
+is as important to architects and urbanists today as were the studies of medieval Europe and ancient Rome and
+Greece to earlier generations. Such a study will help to define a new type of urban form emerging in America and
+Europe, radically different from that we have known”. With the rise of Las Vegas, we see the return of symbolism and
+the rise of pop culture references in architecture and city planning.
+
+Las Vegas is a city built with desires and inclusiveness. The most distinctive feature is the display of wealth and the
+pursuit of wealth. In Las Vegas, the precepts of modern architecture like space and form are not the main
+consideration, they have a different priority, communication — a sign and symbol that can convey information directly
+to potential customers to stimulate them to pursue wealth, consume, and gamble! Las Vegas has no historical roots,
+it is an inclusive city in which there is no value authority, no religious authority, no academic authority, and the
+freedom and will of individuals and groups are maximized. This sounds a lot like the metaverse, doesn’t it?
+
+So far, many metaverse platforms are grid systems parked with signs(Logos). How to communicate with potential
+users and build your presence intelligently in this virgin territory? In order to convey meanings, architecture before
+the modern movement used decoration, often in a profound way. Modernists eschewed such ornament, relying only
+on form, volume or structural elements, and buildings in Las Vegas rely on imagery and signs. Designers today still
+struggle with whether or how to use ornamentation in contemporary architecture. Metaverse could learn from the
+past or create a new system to communicate to the users.
+
+Identity of “Elsewhere”
+
+“ If on arriving at Trude I had not read the city’s name written in big letters, I would have
+thought I was landing at the same airport from which I had taken off. The suburbs they
+drove me through were no different from the others, with the same little greenish and
+yellowish houses. Following the same signs, we swung around the same flower beds in
+the same squares. The downtown streets displayed goods, packages, signs that had
+not changed at all. This was the first time I had come to Trude, but I already knew the
+hotel where I happened to be lodged; I had already heard and spoken my dialogues
+with the buyers and sellers of hardware; I had ended other days identically, looking
+through the same goblets at the same swaying navels.
+
+Why come to Trude? I asked myself. And I already wanted to leave. “You can resume
+your flight whenever you like,” they said to me, “but you will arrive at another Trude,
+absolutely the same, detail by detail. The world is covered by a sole Trude which does
+not begin and does not end. Only the name of the airport changes.” -Trude, Continous
+Cities 2 ”
+
+Trude, the undifferentiated city which is steadily covering the surface of the earth, is everywhere. Marco Polo’s
+travelogue was about continents of the “elsewhere”, now that there is no longer any “elsewhere” in the world, and the
+whole world is becoming more and more uniform(and for the worse).
+
+All cities have a soul, a character, that is expressed in the symbolic dimension. As the variety of their symbols and
+symbol carriers is abundant, very different configurations of symbols or symbolic patterns can be found in cities.
+These symbol carriers can be as diverse as layout, statues, monuments, landmarks, street names, murals, graffiti,
+rituals, festivities and so on. The identities of the metaverse can also be distinguished through the symbol carriers
+that upon us to define, like the recognizable urban layout, meaningful storytelling based on specific user groups,
+memorable social events and public engagement…
+
+Trading Cities
+
+Trading Not Just NFTs
+
+“ You do not come to Euphemia only to buy and sell. but also because at night. by the
+fires all around the market, seated on sacks or barrels or stretched out on piles of
+carpets, at each word that one man says — such as “wolf,” “sister,” “hidden treasure,”
+“battle,” “scabies,” “lovers” — the others tell, each one, his tale of wolves, sisters,
+treasures, scabies, lovers, battles. And you know that in the long journey ahead of you
+when to keep awake against the camel’s swaying or the junk’s rocking. you start
+summoning up your memories one by one, your wolf will have become another wolf,
+your sister a different sister, your battle other battles, on your return from Euphemia,
+the city where memory is traded at every solstice and at every equinox. - Euphemia,
+Trading Cities 1 ”
+
+Euphemia, the city where memory is traded at every solstice and at every equinox, ultimately represents the essence
+of trading urban centers in connecting people and ideas, rather than just goods.
+
+Euphemia reminds me of Paris in the 1920s. At the time it was the epicenter of culture, embracing extravagance,
+diversity and creativity. Artists, poets, writers, musicians, and dancers, flocked from all over the world to Paris. One of
+the messages from the movie Midnight in Paris is that almost everyone wants to escape from the present and needs
+to find a golden age of their own, metaverse could act as time machines to take us to any “golden ages” in history, or
+create our current golden age to facilitate rich social, artistic and cultural collaborations.
+
+Current metaverse platforms are mostly just showcased to display “goods”. “Seeing people use an environment for
+something, towards something, accomplishing a goal that impacts real life, I think that would be my dream,” said
+metaverse architect untitled,xyz, he envisions the metaverse to be “a space where you can have a protest… where
+you can create art rather than just showcase it. I think that would be my hope, that these environments, it’s not just a
+static thing that then hosts something you visit once and you leave…But if it’s a true public space where you can go,
+like Union Square or Barclays Center and have a protest or something, that has real-world implications, I think that’s
+something that can enhance everything.”
+
+Structure, Pattern, Variety and Wholeness
+
+A Mathematical Approach to Constructing a City
+
+“ Kublai Khan had noticed that Marco Polo’s cities resembled one another, as if the
+passage from one to another involved not a journey but a change of elements. Now,
+from each city Marco described to him, the Great Khan’s mind set out on its own, and
+after dismantling the city piece by piece, he reconstructed it in other ways, substituting
+components, shifting them, inverting them… “And yet I have constructed in my mind a
+model city from which all possible cities can be deduced,” Kublai said. “It contains
+everything corresponding to the norm. Since the cities that exist diverge in varying
+degree from the norm, I need only foresee the exceptions to the norm and calculate the
+most probable combinations.”
+
+ 
+
+“I have also thought of a model city from which I deduce all the others,” Marco
+answered. “It is a city made only of exceptions, exclusions, incongruities, contradictions.
+If such a city is the most improbable, by reducing the number of abnormal elements, we
+increase the probability that the city really exists. So I have only to subtract exceptions
+from my model, and in whatever direction I proceed, I will arrive at one of the cities
+which, always as an exception, exist. But I cannot force my operation beyond a certain
+limit: I would achieve cities too probable to be real.” ”
+
+The dialogue between Kublai and Polo reveals how they interpreted cities, and suggested a mathematical approach
+to constructing a city. The cities could be dismantled into elements and reconstructed through combination and
+permutation. The cities could also be calculated as probabilities diverged from the “norm”, by tweaking the
+“abnormal elements”.
+
+What are the elements in the cities? In the classic urban design book The Image of the City, American urban theorist
+Kevin Lynch introduces and describes five elements — nodes, paths, districts, landmarks and edges — that give shape
+to the mental representation of the city. The pattern or structure of the interrelations among five elements shaped
+the identity or character of cities.
+
+The study of interrelations of elements, and how a ‘complex visual whole’ is organized could be considered a
+“pattern”. According to Christopher Alexandar, in A Pattern Language: Towns, Buildings, Construction, patterns
+describe a problem and then offer a solution. Alexander claims that ordinary people, not only professionals, can use
+the pattern language approach to successfully solve very large, complex design problems. In software, Alexander is
+regarded as the father of pattern language movement.
+
+“ A person with a pattern language does not need to be an “expert”. The expertise is in the
+language. He/she can contribute to planning and design because they know relevant
+patterns, how to combine them, and how the particular piece fits into the larger whole. -
+-  Christopher Alexandar, A Pattern Language ”
+
+Design Systems for the Metaverse
+
+“ Kublai was a keen chess player; following Marco’s movements, he observed that certain
+pieces implied or excluded the vicinity of other pieces and were shifted along certain
+lines. Ignoring the objects’ variety of form, he could grasp the system of arranging one
+with respect to the others on the majolica floor. He thought: “If each city is like a game of
+chess, the day when I have learned the rules, I shall finally possess my empire, even if I
+shall never succeed in knowing all the cities it contains.” ”
+
+With elements(components) and patterns in mind, many tech companies have come up with design systems to
+facilitate design and development prototyping for their digital products. A design system is a collection of reusable
+components, guided by clear standards, that can be assembled together to build any number of applications. It’s
+about reusability, product identities, guidelines, and best practices.
+
+Design systems like Material design is a great example of 2D internet, designers and developers can use the
+predefined components so they don’t need to start from scratch while making the applications for different devices.
+When it comes to the metaverse, how to envision design systems for the 3D internet?
+
+The game industry has developed many techniques for worldbuilding, creating the rules and structures of the
+imaginary world. Townscraper, one of my favorite indie games, in my opinion, is a great example of the design
+system. Users can click randomly and generate beautiful cities based on the constraints that tiles have, similarly to
+solving a Sudoku.
+
+The Matrix Awakens, an open-world video game developed by Epic Games, generated a world of 15.79 kilometers,
+larger than downtown Los Angeles, 7000 buildings and many other assets, with procedural techniques like shape
+grammar, wave function collapse...etc
+
+Design systems for the metaverse are still a new topic. With the nature of the richness of 3D worlds, we’d see various
+systems with different themes, for different use cases.
+
+“ “Cities, like dreams, are made of desires and fears, even if the thread of their discourse
+is secret, their rules are absurd, their perspectives deceitful, and everything conceals
+something else.” ”
+
+Thanks for reading this far. Let’s revitalize the missing poetic life in the Metaverse, to dream the impossible dream, to
+reach the unreachable star.
+
+Image gallery
+
+SEE ALL
+
+Share
+
+About this author
+
+Chloe Sun
+Author
+
+FOLLOW
+
+#TAGS
+
+News Articles Robert Venturi Archigram Learning From Las Vegas Digital Architecture Surrealism
+
+RELATED ARTICLES
+
+The Architectural Legacy of Queen Elizabeth’s 70 Year Reign
+
+The 126 Best Architecture Books
+
+MORE ARTICLES
+
+What Makes a Good Suburb?
+
+From the Streets to the Internet: The History of Commerce and Its Relationship With the
+Territory
+
+The Evolution of Large-Scale Windows: Towards Unobstructed, Uninterrupted Views
+
+More Articles »
+
+SELECTED PRODUCTS
+
+Architectural Wire Meshes - MULTI-BARRETTE 8123 | HAVER & BOECKER
+
+Whitewash - SEIFERT® | Nelissen
+
+Facade Systems - VISS Basic TV/VISS Ixtra TV | Jansen
+
+BROWSE THE CATALOG
+
+3M EQUITONE
+Architectural Finishes - DI-NOC™ Textile Fiber Cement Facade Panel - Tectiva
+
+Sika Florense
+Construction Solutions for Modular Building Wall Unit - Vice-Versa
+
+Kvadrat Acoustics Terrazzo & Marble
+Soft Cells in HELM Headquarters Terrazzo in Chicago Magic Lounge
+
+More products »
+
+Save
+
+Home Projects Products Folders Feed

@@ -1,0 +1,1329 @@
+﻿DISFIGURED
+ON FAIRY TALES, DISABILITY,
+AND MAKING SPACE
+
+AMANDA LEDUC
+
+COACH HOUSE BOOKS, TORONTO
+
+
+
+copyright © Amanda Leduc, 2020
+
+first edition
+
+Published with the generous assistance of the Canada Council for the Arts
+and the Ontario Arts Council. Coach House Books also gratefully acknowl-
+edges the support of the Government of Canada through the Canada Book
+Fund and the Government of Ontario through the Ontario Book Publishing
+Tax Credit.
+
+library and archives canada cataloguing in publication
+
+Title: Disfigured : on fairy tales, disability, and making space / Amanda Leduc.
+Names: Leduc, Amanda, author.
+Series: Exploded views.
+Description: Series statement: Exploded views
+Identifiers: Canadiana (print) 2019014453X | Canadiana (ebook)
+20190144564 | isbn 9781552453957 (softcover) | isbn 9781770566057
+(pdf) | isbn 9781770566040 (epub)
+Subjects: lcsh: Fairy tales—History and criticism. | lcsh: Disabilities in
+literature. | lcsh: People with disabilities in literature.
+Classification: lcc pn3437 .l43 2020 | ddc 398/.3561—dc23
+
+Disfigured is available as an ebook: isbn 978 1 77056 604 0 (epub), isbn 978
+1 77056 605 7 (pdf).
+
+Purchase of the print version of this book entitles you to a free digital copy.
+To claim your ebook of this title, please email sales@chbooks.com with proof
+of purchase. (Coach House Books reserves the right to terminate the free
+download o>er at any time.)
+
+
+
+For Dorothy, who showed me the path into the woods;
+
+For Jael, who helped me to see that I was brave enough
+to follow it;
+
+And for all of my disabled brothers and sisters, who
+held my hands so that I did not go down the path alone.
+
+
+
+No one ever sees Sophocles’ play as a drama about
+a cripple and a blind man fighting over Thebes.
+
+– Tobin Siebers
+
+Your once-silken voice will desert you, your legs
+will make every step on land a torture.
+There will come a time when you miss
+the seaweed and seals, your old ways,
+your old body. Now fit for neither land
+nor sea, your sacrifice long in the past now.
+Comb your hair, which keeps growing,
+though you’ve lost your prince.
+You know the time is coming
+where you’ll pay the price
+for your short time in the sun.
+
+– Jeannine Hall Gailey
+
+
+
+Introduction
+
+R ather appropriately, the idea for this book came to me
+while I was in the forest. In the summer of 2018 I had the
+
+extraordinary good fortune to participate in a three-week writ-
+ing retreat at Hedgebrook Farm, on Whidbey Island o> the
+coast of Seattle. I was working on a novel, and after a particu-
+larly challenging day took myself out to the woods to try and
+find some solace. There was a walking stick at the front door
+of my cottage, and I took it without thinking, then set o>
+toward the back of the property. Somewhere at the far north
+end of the farm was a blackberry bush, and I was eager to
+reach it and fill my hands with berries.
+
+As I walked, I thought idly about how much easier going it
+was with the walking stick – an inanimate companion to help
+me along through all of the forest’s dips and swells and hollows.
+It was helpful even on the paved ground closer to my residence.
+With the walking stick in my hand, I felt sure of myself, confi-
+dent. It balanced my weight as I shifted from foot to foot in a
+way that was thrillingly surprising. 
+
+Does this mean I should use a cane in regular life? I
+wondered as I made my way to the blackberries. Would it
+be helpful? How would that change the way I move through
+the world?
+
+I don’t use a cane in my day-to-day. I have mild cerebral
+palsy and spastic hemiplegia, and though I walk with a visible
+
+
+
+limp, my balance has been good enough, for my first three
+and a half decades, to allow me to walk unaided. 
+
+But I do stare at the ground when I walk, a fact that I was
+completely unaware of until a chiropodist pointed it out at an
+appointment when I was twenty-seven. It took a few more
+years for me to realize that I stare at the ground because the
+ground is full of danger – unpredictable and capricious, with
+gaps between concrete blocks, uneven bricks, cracks in the
+sidewalk. If I do not pay attention to where my feet are all the
+time, it’s pretty much guaranteed that I will fall at some point
+in my walking.
+
+A cane, I thought, would probably be helpful. 
+For many of us with physical disabilities, the forest is often
+
+a dangerous place to be. There’s no hope of taking a wheelchair
+into the trees unless there’s a clearly marked and flattened
+path; it can be di?cult to navigate a forest even with a guide
+dog at your side. I’d wager that the forest presents trouble
+perhaps even for those whose disabilities are often deemed
+invisible – it can be a dark place, filled with all manner of
+smells and sensory onslaughts, a place where even the able-
+bodied can lose themselves.
+
+A princess in a wheelchair would have trouble finding those
+blackberries, I thought as I crept through the bushes. And then
+I stopped, briefly, and smiled. A princess in a wheelchair?
+Whoever heard of such a thing?
+
+But by the time I reached the blackberry bush, that
+unknown princess in her wheelchair was all I could think
+about. That princess, and the seven dwarfs who helped Snow
+White, and Rumpelstiltskin, and the ugliness of the Beast in
+‘Beauty and the Beast,’ the evil queen in ‘Snow White’ who
+transforms herself into a hunchbacked old woman, the prince
+who goes blind after the witch casts Rapunzel from her tower,
+
+10 | D I S F I G U R E D
+
+
+
+the princess who falls into a long, enchanted sleep. The witch
+with the crutch in ‘Hansel and Gretel,’ the stepsisters who get
+their eyes plucked out by doves in ‘Aschenputtel’ – the Brothers
+Grimm version of ‘Cinderella’ – and all the ugly princes and
+princesses who gain the throne by their cunning and then are
+made or revealed to be beautiful after all. 
+
+And suddenly I was no longer alone in the forest; suddenly
+I was thinking about these connections, disability and fairy
+tales, how obvious, how had I not considered these things
+before? 
+
+This needed to be an essay, I thought. But no doubt it was
+already an essay; no doubt the link between fairy tales and
+disability had been written about a million times before. There
+was so much in there that one could write about. People far
+smarter than I had no doubt already done it, and done it well.
+I filled my soul with blackberries and went back to my cottage.
+I went back to working on the novel.
+
+I also kept thinking about that long stretch of moments in
+the forest. Disability and fairy tales. Disability in fairy tales.
+When I got home I did some research and found surprisingly
+little on the topic; sure that I was missing something, I dug a
+little harder. My digging brought me Ann Schmiesing and her
+wonderful book Disability, Deformity, and Disease in the
+Grimms’ Fairy Tales. My digging brought me to Sharon Snyder
+and David T. Mitchell and their work on narrative prosthesis,
+to the work of disability-studies scholar Tobin Siebers, to the
+fantastic breadth of scholarship a>orded by Jack Zipes. 
+
+And it brought me, again, to the fairy tales. So many darker
+versions of the Disney stories that I’d known as a child – and
+so many darker moments in the Disney stories, too. Why was
+Scar, the villain of The Lion King, known only by the mark
+that slashed his face? Why did the depiction of the ‘hunchback’
+
+11
+
+
+
+Quasimodo make my skin crawl? Why hadn’t I ever thought
+of The Little Mermaid’s Ariel in those moments just after she’d
+arrived on land with legs and seen myself in her unsteady
+posture and stumbling? 
+
+Why, in all of these stories about someone who wants to
+be something or someone else, was it always the individual
+who needed to change, and never the world? 
+
+Disfigured is my attempt at unravelling some of the more
+well-known Western fairy-tale archetypes in light of a disabil-
+ity rights framework. In order to understand how we move on
+from the damage that these archetypes can do, we first need
+to understand what put them in place – why the disfigured
+body has historically been seen as less than whole; why fairy
+tales, narratives so often associated with seeming empower-
+ment, have provided a breeding ground for anti-disability
+narrative; and how the allure and the potency of these stories
+has continued to influence the perceptions of disability today.
+To reclaim disability narrative in storytelling, we need to
+understand why stories like fairy tales have been fascinated
+with it right from the very beginning, and how the stories we
+tell have maligned di>erence – and disability – in order to
+make sense of it in the world. 
+
+A few notes. As someone who grew up on Western fairy tales
+and their various interpretations, it is my intention to stay in
+my lane, as it were, and focus the majority of this book on
+fairy tales and several pop culture hero narratives that are
+familiar to a Western audience. While I make mention of
+several tales from other cultures in an e>ort to show the perva-
+siveness of certain archetypes, the bulk of this book remains
+focused on Western stories and several modern interpretations
+that stem from predominantly European frameworks. I very
+
+12 | D I S F I G U R E D
+
+
+
+much hope this book can contribute to the conversations
+around disability in fairy tales from other cultures, and look
+forward to continued learning around this. 
+
+It’s also important to note that this book is not a work of
+fairy-tale scholarship. My intention is to approach fairy tales
+from the perspective of someone who has loved them but
+operated with what amounts to a layperson’s knowledge of
+the tales throughout most of her life. I am interested specifically
+in where the fairy-tale narrative and its archetypes intersect
+with disability representation, and have used that framework
+to guide the book. As such, my interpretations of several tales
+and their relationships to disability may at times seem to
+group certain tales together that have traditionally been consid-
+ered very di>erent from one another (for example, in the
+sections on the tales of the Brothers Grimm and Hans Chris-
+tian Andersen’s ‘The Little Mermaid’). 
+
+Nor is this book meant to be a work of disability scholar-
+ship. I am a physically disabled woman who also deals with a
+major depressive disorder, and while I use my own experience
+to explore fairy tales and their cultural impact in the world, it
+is not my intention here to speak for the field of disability
+studies or for all disabled people, or for all those who likewise
+deal with their own mental health challenges on a regular
+basis. Disability is not a monolith – every disabled person’s
+experience in the world is di>erent, and the way that we all
+navigate the world is likewise varied and complex.
+
+I also think it’s important to note that my experience as a
+white disabled woman makes my ability to comment on
+multiple marginalizations within the disabled community
+necessarily limited. We need to make space for, pay attention
+to, and elevate the stories of disabled people from ibpoc
+(Indigenous, Black, and People of Colour) communities. The
+
+13
+
+
+
+question of how the Western fairy-tale framework has
+contributed to the colonialist and capitalist structures that
+continue to disenfranchise ibpoc disabled communities today
+is one that all white disabled people should be asking, no
+matter the intersections within our own communities, and I
+hope that the questions posed in this book can help to spark
+further conversations around how fairy tales have impacted
+and hurt disabled ibpoc communities in particular. It is my
+hope this book can speak to people in whatever way they
+need, and that in telling my own particular story and exploring
+the way disability operates in some of the Western world’s
+best-known fairy tales, this book can help further the conver-
+sation around disability representation in the stories we tell
+in our modern world. 
+
+Interspersed throughout Disfigured are doctor’s notes from
+the initial consultation that my parents had with the neuro-
+surgeon who operated on me when I was four. I have included
+excerpts from these notes because understanding the story
+my parents were told about my disability – and, indeed, the
+story my doctors told themselves about it – has been crucial
+to my own understanding of how my disability operates in
+my life today. In sharing my doctor’s words here, my aim is to
+take back the narrative. However, I want to stress that medical
+records are not something disabled people should be expected
+to share as a part of our stories, and while I have been incredibly
+fortunate – and privileged – in my experience with the medical
+world, I am well aware that this is not the case for many. 
+
+I spoke with many disabled individuals over the course of
+writing Disfigured, and as a general rule use identity-first
+language throughout the text, unless otherwise requested.
+ Identity-first language (‘disabled person’) holds that the
+disabled identity is an important part of what makes someone
+
+14 | D I S F I G U R E D
+
+
+
+a person in the first place, inextricably bound up with how
+someone navigates the world. Person-first language, by
+contrast, argues that an individual must be seen as a person
+first and someone with a disability second (‘person with a
+disability’). The general consensus among disability activists
+is that person-first language, while well-meaning, separates
+disability from identity and thus continues to malign disability
+and perpetuate the idea that it is a negative thing.
+
+The disabilities and pronouns of every individual cited in
+this book have been expressed according to their wishes. 
+
+I am grateful to all of those who chose to share their time
+and expertise with me. It is my fervent hope that the explo-
+rations in this book do everybody justice. 
+
+15
+
+
+
+2
+Disability: A Fairy Tale
+
+Disabled:
+1a: impaired or limited by a physical, mental, cognitive, or
+developmental condition : a"ected by disability 
+b: incapacitated by illness or injury 
+2: of a device or mechanism : rendered inoperative (as by
+being damaged or deliberately altered) 
+
+In English, the word disabled comes to us as the past participle
+of disable. From the Latin dis (‘to do the opposite of’) and
+
+the Old French (h)able (‘capable, fitting, suitable, agile,
+nimble’), itself from the Latin verb habere – to hold and receive.
+It came into use as a term in the sixteenth century. Once used
+primarily for impairments of a physical nature, it is now widely
+recognized as a term that applies to all manner of impairments.
+According to the World Health Organization, disabilities
+
+is an umbrella term, covering impairments, activity limi-
+tations, and participation restrictions. An impairment is a
+problem in body function or structure; an activity limita-
+tion is a di!culty encountered by an individual in execut-
+ing a task or action; while a participation restriction is a
+problem experienced by an individual in involvement in
+life situations. Disability is thus not just a health problem.
+It is a complex phenomenon, reflecting the interaction
+
+
+
+between features of a person’s body and features of the
+society in which he or she lives.
+
+It is a complex phenomenon in part due to the growing preva-
+lence of the social model of disability, which holds that the
+disability of individuals is, in fact, maintained by systemic
+barriers, exclusion, and negative attitudes toward these disabil-
+ities more than the physical limitations of the conditions them-
+selves. (If a building has elevators and accessible entryways,
+the fact that a person uses a wheelchair doesn’t limit them in
+the building in any way; by contrast, a building with an inac-
+cessible doorway and no elevators is a barrier because a person
+with accessibility needs cannot go through it, thus indicating
+that, on a structural level, the design of the building has failed
+to take the considerations of every di"erent body into account.)
+The social model of disability stands in contrast to the medical
+model, which links a body directly to a diagnosis and places
+emphasis on the intervention of medicine as a way of solving
+or eradicating the particular disability or condition. ‘The
+medical model,’ notes Tobin Siebers, ‘defines disability as an
+individual defect lodged in the person, a defect that must be
+cured or eliminated if the person is to achieve full capacity as
+a human being.’ It’s not that society needs to be fixed, in other
+words – it’s the person who is broken. ‘Medicine and charity,’
+says Siebers, ‘[and] not social justice, are the answers to the
+problem of the disabled body, because the disabled body is
+thought to be the real cause of the problems.’
+
+In the medical model, disability is both a reality of life as
+well as a kind of storytelling. Every disabled story becomes a
+narrative – a story that has everything to do with what culture
+perceives of as good (able-bodiedness, beauty) and bad (disabil-
+ity, disfigurement), and how we, as a society, are supposed to
+
+36 | D I S F I G U R E D
+
+
+
+act toward one another – and what society, or the higher powers
+that be, will do to us in return. Quite apart from its own physical
+realities – from the disabled person’s own physical realities –
+a disability thus becomes a symbol for everyone else, an ‘other
+other,’ in Siebers’s words, operating as a kind of intellectual
+bogeyman for the well – a whispering darkness that sits on
+the edge of the perceived order of the world.
+
+In short, in the medical model, disability is almost always
+the villain. Disability is di"erent because there is an assump-
+tion that there is one way of moving through the world – one
+way of walking, one way of seeing, one way of smell and
+touch, of processing information. Deviations from this
+assumption must therefore both require and generate expla-
+nations. A child is born with a cyst in her brain but should
+have been born with none, and therefore the reasons for it
+must be uncovered: genetic defect, in-utero injury, identifiable
+condition. Otherwise, how to place her? How to understand
+where she fits into the world? The narrative around her
+disability follows the same structure as the fairy tales she
+reads in bed at night with her mother: problem, quest, return.
+In the medical model, the ‘return’ involves the acquisition/
+reacquisition of an able-bodied life inasmuch as this is possible
+– think gene therapy, think cochlear implants, think searching
+for a cure. 
+
+But before we had the medical model, before we had
+science, we had storytelling in all of its inscrutable magic.
+How else to make sense of a child born with a malformed
+limb than by telling a story about it – encasing the limb in a
+glass co!n of story that reaches back to magic and the gods,
+ever inscrutable themselves? Stories impose order even on
+unruly bodies. When you make something inconceivable into
+
+37
+
+
+
+a story, suddenly it gains legitimacy, suddenly it operates in
+the realm of the possible. 
+
+So, too, with bodies that are di"erent. 
+
+‘Fairy tales,’ argues the renowned fairy-tale scholar Jack Zipes,
+‘are informed by a human disposition to action – to transform
+the world and make it more adaptable to human needs, while
+we also try to change and make ourselves fit for the world.
+Therefore, the focus of fairy tales, whether oral, written, or
+cinematic, has always been on finding magical instruments,
+extraordinary technologies, or powerful people and animals
+that will enable protagonists to transform themselves along
+with their environment, making it more suitable for living in
+peace and contentment.’ 
+
+Fairy tales are among those most quintessential of stories
+– the ones we tell to make sense of ourselves and of the world.
+They are both a way of explaining the world around us and a
+method of imagining a world that is possible. ‘Early oral tales,’
+notes Zipes, ‘were closely tied to the rituals, customs and
+beliefs of tribes, communities and trades. They fostered a
+sense of belonging and hope that miracles involving some
+kind of magical transformation were possible to bring about
+a better world.’ 
+
+Imagining a world that is possible becomes particularly
+important when one considers fairy tales in light of the times
+in which they were told. It is hard to conceive of the possibility
+of a ct scan when you live in a society that hasn’t yet discovered
+electricity; it is much easier to conceive of and believe in magic,
+and so too in potions and fairy dust and magical godmothers,
+or genies who can grant wishes. Fairy tales have in so many
+ways concerned themselves with transformation. But because
+their creators – perhaps particularly in the Western world –
+
+38 | D I S F I G U R E D
+
+
+
+were often not able to envision the full possibilities of science
+and technology, the transformations in the fairy tales that we
+know have necessarily been limited in crucial ways. 
+
+In ‘Hans My Hedgehog,’ a tale from the Brothers Grimm,
+a farmer, despairing of his and his wife’s inability to have a
+child (a despair magnified by the other farmers mocking their
+childlessness), exclaims that he would be happy to have a
+child, ‘even if it’s a hedgehog.’ Their son, Hans My Hedgehog,
+born nine months after this proclamation, is born with the
+upper half of a hedgehog and the bottom half of a human.
+Horrified, the parents keep their son behind the stove for
+seven years, ultimately forcing Hans to go out into the world
+on his own to make his fortune as a musician (he has his
+father bring him back a set of bagpipes from the market) and
+herder and tender of geese and pigs. 
+
+Hans is a plucky protagonist, unafraid, despite his parents’
+treatment of him, to ask for what he wants and demand better-
+ments in life. He gradually amasses a reputation as an excel-
+lent herder, becoming so successful at it that he is able to
+return to his childhood home with a herd of pigs he sells to
+benefit the town. 
+
+Sale behind him, Hans My Hedgehog goes out into the
+world once again and meets a king who has lost his way. In
+exchange for directions, the king agrees to give Hans My
+Hedgehog his daughter in marriage; however, once the king
+has found his way and realizes the full extent of the bargain
+he has made – marrying his daughter o" to a half-human
+creature – he is reluctant to carry it out. For her part, the
+daughter is less than pleased. As punishment for her distaste,
+Hans My Hedgehog has the princess take o" her clothes, then
+stabs her with his quills until she’s covered in blood. She flees
+from him in disgrace, never to return to her kingdom. 
+
+39
+
+
+
+Sometime later, Hans My Hedgehog encounters another
+king who has gotten lost in the forest. This king is also accept-
+ing of Hans My Hedgehog’s help, but, more importantly, is
+amenable to the price of it; as a result, Hans My Hedgehog
+returns to this king’s castle and manages to get himself married
+to the princess. It is to her and her alone that he reveals his
+greatest secret: his hedgehogness is only a costume, a disguise
+he can take o" at night. He instructs the princess and the king
+to have four guards grasp his hedgehog suit when he removes
+it and throw it onto the fire, thereby banishing his hedgehog-
+ness forever and assuming his true, permanent guise as an
+attractive young man. This feat accomplished, Hans My
+Hedgehog is able to return to his parents, beautiful princess
+wife in tow, and rejoice with them at the ultimate triumph
+over his disfigurement. His father, overjoyed at this appearance
+of a ‘normal’ son, is kind to Hans My Hedgehog for the rest of
+his life. 
+
+‘Hans My Hedgehog’ is interesting because it relies on
+both the protagonist’s self-advocacy and a deep undercurrent
+of social expectation. Hans is vocal about his wants and
+needs, and presses his father to let him go out into the world
+and live an independent life. He proves himself as a character
+worthy of respect by becoming quite successful at herding
+the pigs. He is also a character of no small musical skill; the
+first king, hearing the beauty of his bagpipe music in the
+forest, remarks on the unseen player’s talent. In his continued
+work to prove who he is to the world, Hans My Hedgehog is
+advocating for social change: he wants society to accept him
+as he is, to recognize the gifts he can bring to the community,
+hedgehog or no. There is a constant sense throughout the
+tale that Hans My Hedgehog is being unfairly treated by
+those he encounters. He is scorned by his parents, and the
+
+40 | D I S F I G U R E D
+
+
+
+first king who meets him is reluctant to give away his daugh-
+ter due to his distaste for Hans My Hedgehog’s appearance.
+The daughter herself is also ashamed to be around him, and
+punished for her attitude. It is only the kind king and the
+willing princess who learn the truth about Hans – a reward,
+if you will, for their good behaviour. 
+
+And yet, toward the end of the tale, we have the standard
+fairy-tale transformation/reveal: the hedgehogness is only a
+suit, one that Hans My Hedgehog can take o" at will. Hans
+My Hedgehog gets the homecoming that one senses the narra-
+tor has been rooting for all along: the reunification of his
+family and the quiet, relieved joy of the princess, who, kindness
+notwithstanding, likely much prefers her human husband to
+his previous half-animal form. 
+
+Whether it’s the pumpkin in ‘Cinderella’ or the sudden
+appearance of the Little Mermaid’s human legs, fairy tales
+often pivot on something or someone becoming di"erent at
+some point through the text – the unattainable suddenly made
+manifest through magic, fairy dust, and longing. The evil fairy
+transforms a spinning wheel into an instrument of death in
+‘Sleeping Beauty’; the wolf transforms/disguises himself in
+‘Little Red Riding Hood.’ Cinderella herself transforms from a
+scullery maid into a princess. 
+
+But it is never society that changes, no matter how many
+half-animals or scullery maids are out there arguing for their
+place at the table. It is almost always the protagonists them-
+selves who transform in some way – becoming more palatable,
+more beautiful, more easily able to fit into the mould of society
+already in place. The intervention is magical rather than surgi-
+cal, but one can imagine the writers of these tales arguing in
+favour of the medical model: the life-saving surgery, where
+life is synonymous with social standing and regard. The child
+
+41
+
+
+
+who has surgery to repair their club foot is the same child
+who, in a fairy tale, would likely be visited by a fairy godmother
+or an evil witch, the gift of able-bodiedness dangled in front
+of them in a way that’s entirely irresistible.
+
+In fairy tales, the transformation of the individual relies
+on fairies and magic – or the gods – because it is understood
+that society itself can’t (and indeed won’t) improve. Again,
+when viewed in the historical context of the tales, this makes
+at least a small amount of sense; how to fix the world when
+you are a peasant with a disabled child, possessed of little to
+no power to change the place and society in which you live?
+And yet the power of magic in the tales also, strangely, has
+the opposite e"ect – instead of imbuing the reader with a
+worldview in which change is possible and things can turn
+out positively for the disenfranchised, the prevalence of magic
+in fairy tales serves to reinforce the class and societal structures
+already in place, as well as traditional ideas of what it means
+to have a functional body in the world. This is possibly why
+there’s almost always a price that a protagonist pays for the
+magic of their transformation. You cannot simply move from
+one place to the next – society won’t allow it. And so the
+protagonist must prove their worthiness – through good deeds
+and gentle behaviour, as in the case of Cinderella, or, as with
+the Little Mermaid, through sacrifice and trial.
+
+Failing that, perhaps one can find a magic fairy, or, as in
+many of the Brothers Grimm tales, shore up their belief in
+God. ‘While championing health and able-bodiedness as the
+ideal,’ says Ann Schmiesing, ‘tales in the [Brothers Grimm]
+frequently suggest that this ideal is unattainable, at least with-
+out divine intervention.’
+
+To walk, to see, to hear, to touch. Gifts worth all their trou-
+ble, no matter what price must be paid. 
+
+42 | D I S F I G U R E D
+
+
+
+I’m four years old, soon to be five, when I leave the hospital
+for the first time, after the surgery where they opened my
+head and sliced out bits of the cyst. I am excited to be going
+home. My mother and I have read all of the Little House on the
+Prairie books while here, some of them twice. (On the Banks
+of Plum Creek is my favourite. I like the idea of Mary and
+Laura Ingalls living in a dugout and running through the grass
+on their own roof.)
+
+One day close to the end of my three-week stay, I come
+back to my hospital room with the nurse and find my mother
+and grandmother standing beside Dr. Humphreys. 
+
+‘We have three dresses for you,’ Dr. Humphreys says. He
+smiles. I like his smile a lot. ‘But you can only wear one of
+them! So you need to pick which one you want to wear.’
+
+This is a celebration dress – I know this even when I’m
+four. We are celebrating because soon I’m not going to be in
+the hospital anymore. Soon I won’t have any bandages. Soon
+Margaret the nurse won’t need to wash my head and help
+me bathe.
+
+I don’t remember what the other dresses looked like,
+but the dress I pick is pale green. It has short sleeves, and
+two lines of pink ribbon down the front. The skirt puffs out
+when I twirl, even though I can’t twirl very fast because of
+the bandages. 
+
+I love it. It makes me feel like a princess. 
+
+In the social model of disability, the ‘return’ from the quest
+involves a recognition of the different body and how it fits,
+differently, into the world – and from there, a recognition
+of how society in turn must adapt to welcome it. ‘[D]isabling
+environments,’ writes Siebers, ‘produce disability in bodies
+
+43
+
+
+
+and require interventions at the level of social justice.’ The
+social model arose in the 1960s as a response, by disabled
+people, to the patriarchal nature of and infantilization inher-
+ent in the medical model. Transcripts from a 1975 meeting
+between the UK Disability Alliance and the Union of the
+Physically Impaired Against Segregation stress the point:
+‘In our view it is society which disables physically impaired
+people. Disability is something imposed on top of our
+impairments by the way we are unnecessarily isolated and
+excluded from full participation in society.’ (‘Physically
+impaired’ is historical language; though it was in use at the
+time of the quote, impaired is generally considered to be
+language not acceptable to use in reference to the disability
+community today.) The social model of disability as a specific
+term was coined in the UK in 1983 by the disabled academic
+Mike Oliver. 
+
+In the social model, there is emphasis on creating space
+for wheelchairs that accommodate a body that cannot walk,
+as opposed to the need to walk at all costs; there is the growing
+recognition of the need for things like asl interpretation and
+scent-free spaces at public events; there is, as I have touched
+on, the acknowledgement that public events and spaces that
+do not o"er accessible entryways or accessible washrooms fail
+to consider the varied needs of the population. There is, above
+all, the push for disabled people to be involved in all aspects
+of decisions regarding their participation in society – and the
+recognition that society has a responsibility toward all of its
+citizens, up to and including the need to consider how best to
+meet the varying needs of di"erent bodies. Nothing about us,
+without us – a saying that has been associated with the disabil-
+ity justice movement since the 1990s – encompasses much of
+the ethos that underpins the social model. 
+
+44 | D I S F I G U R E D
+
+
+
+The social model of disability has steadily gained traction
+in the years since its inception. As with other justice movements
+in the early twenty-first century, the advent of social media
+has proven particularly helpful and galvanizing for disability
+justice activists, providing an accessible platform that many
+disabled individuals are able to access and participate in,
+economic barriers (access to the internet, to a computer, to a
+mobile phone, to libraries) notwithstanding. In the last few
+years alone, Twitter hashtags like #DisabledAndCute (started
+by Black disabled writer and activist Keah Brown), #Things-
+DisabledPeopleKnow (started by Black disabled writer and
+activist Imani Barbarin), and #DisabilityTooWhite (started by
+Black disabled activist and blogger Vilissa Thompson) have
+done much to push the conversation about disability, the social
+model, and access into mainstream public attention.
+
+This is also a kind of storytelling, though firmly set in
+modern packaging. But though the medium of telling is rela-
+tively new, the act of storytelling itself has a long history of
+speaking truth to power. The trick here is to tell stories in a
+way that outlines injustice but also calls on the community
+and the social structures in place to change so that anyone –
+and not just a select few – might also be able to reach for
+success in the future. 
+
+‘Telling stories – that is, command of the word – was
+vital if one wanted to become a leader, shaman, priest, priest-
+ess, king, queen, medicine man, healer, minister, and so on,
+in a particular family, clan, tribe, or small society,’ writes Jack
+Zipes in The Irresistible Fairy Tale. He argues that fairy tales,
+by their very nature, speak to the longing for justice that
+bubbles deep in every human heart – the ability to tell a
+story that captivated was, in bygone times, an essential part
+of governance, inextricably bound up with power. It is
+
+45
+
+
+
+arguably still an essential part of governance today – one
+need only look to the words of people like Barack Obama to
+acknowledge the ability that words and stories have to
+inflame the minds and hearts of a generation.
+
+Conversely, one need also only look to the words of some-
+one like Donald Trump to see how words can also do the oppo-
+site – pack prejudice and fear into tightly controlled narratives
+that then infect the thoughts of many. In these instances,
+stories become narratives that champion the individual’s
+triumph as opposed to narratives that change the world so
+everyone can win. Perhaps more importantly, stories become
+narratives that champion the individual’s triumph specifically
+at the expense of those who do not win – a process of othering
+that has wide-ranging implications. 
+
+In Illness as Metaphor, Susan Sontag notes that ‘modern
+totalitarian movements have been peculiarly – and revealingly
+– inclined to use disease imagery.’ Thus did we see Donald
+Trump tweet on June 19, 2018, that ‘[Democrats] want illegal
+immigrants, no matter how bad they may be, to pour into and
+infest our Country, like ms-13’ (italics mine). Thus did David
+Ward, a former US immigration o!cer, talk on Fox News in
+October 2018 of migrants who bring diseases ‘such as smallpox
+and leprosy and [tuberculosis] that are going to infect our
+people in the United States.’ In this kind of real-world story-
+telling, the fear-mongering is focused specifically on the aspect
+of disease – and, by extension, disability – as something that
+others. To avoid it, we must also avoid the people who are su"er-
+ing. Because nobody wants to be other, even by association. In
+this way, telling stories – command of the word – often works
+to disenfranchise those who are already disenfranchised, further
+decreasing their own chances of success and thereby increasing
+the continued success of a particular few.
+
+46 | D I S F I G U R E D
+
+
+
+Put another way: the medical model celebrates an individ-
+ual’s triumph over disability, while the social model celebrates
+society’s collective power and responsibility to consider the
+needs of all, thus making disability an integrated element of
+the society in which we live.
+
+(It should be noted that the social model is not without its
+criticism. In particular, recent critiques note that it is not always
+possible to improve the social environment so that all aspects
+of a disability are accounted for and mitigated. Ramps might
+help a wheelchair user into a store, but ramps and accessible
+washrooms do not erase pain or fatigue – and the push for
+social adjustments that account for certain aspects of a disabil-
+ity but not all can often have the e"ect of silencing those who
+might speak about their pain or other di!culties but do not,
+for fear of seeming to speak against the social model itself.)
+
+Disabled people, along with other marginalized groups,
+have long borne the brunt of disenfranchisement in story-
+telling, which is why the explosion of social media o"ers such
+a powerful opportunity. In demanding the space to tell our
+own stories, in advocating for the social model of disability
+and for its di"erent ways of viewing the world, disabled people
+are taking back control of the narrative, and urging the world
+to rethink the idea of the individual triumph, doing the work
+of dismantling the narratives that have been told about
+disabled people for thousands of years. 
+
+And yet these narratives run so much deeper than we real-
+ize. Like the thorns that grew to submerge Sleeping Beauty’s
+castle in the Disney film, their roots run gnarled paths far
+below the ground. To understand how the medical and social
+models of disability function in the world of our everyday,
+and how these models and ways of thinking shape the words
+that guide countries on a social, political, and structural level,
+
+47
+
+
+
+we must also understand how the stories that we’ve told in
+the past have worked to entrench the idea of the disabled other
+as – at best – an object of pity, and at worst an invisible some-
+one, barely there at all. 
+
+In Care Work, author and disability activist Leah Lakshmi
+Piepzna-Samarasinha explores the rise of disability justice
+against the specific concerns and experiences of Black, poc,
+and queer disability politics. In looking specifically at disabled
+ibpoc survivor narratives, Piepzna-Samarasinha raises the
+spectre that haunts most of the fairy tales we know – this
+question of there being only two ways for a story to end.
+‘[S]omething terrible and murky happens in a bedroom,’ they
+write, ‘there’s a lot of darkness, and then the sun comes out,
+you speak to a nice therapist in a pastel o!ce for six sessions,
+and then you’re fixed, you marry your husband or get a girl-
+friend and have a kid, and it’s all pastel soft lighting fade out
+forever. You either do that or you’re fucked – you abuse your
+kids, and you die a horrible death. Those are the two options
+in the back of folks’ heads.’ 
+
+These two options – happiness forever or terrible tragedy
+and sadness until death – sit in the backs of our heads in many
+ways because of the stories we’ve all been told as children.
+Happy endings are happy precisely because they have no dark-
+ness – unhappy endings, conversely, are that way because of
+a total absence of happiness and light. 
+
+For many able-bodied people in the world today, the idea
+of disability comes shrouded in darkness. It is inconceivable
+to so many that someone could be disabled and also happy,
+because we as social beings have been taught, through the
+books we read and the films and television we watch and the
+music we listen to, the stories we tell one another, that to be
+
+48 | D I S F I G U R E D
+
+
+
+disabled is to be at a disadvantage: to be a lesser body, to be a
+body that cannot function at the same level as other bodies in
+society. To be disabled is to be in pain, physically and psycho-
+logically, emotionally and spiritually – and what possible
+goodness can be found in pain? What sort of happy ending
+can be found in constant struggle? 
+
+(And yet society also parrots an accompanying surface
+truth: that we are all individuals, that we all have di"erent
+ways of being in the world. Of course life isn’t all happy endings,
+society says – while simultaneously venerating happiness and
+joy and shying away from struggle and pain. Of course the
+larger world believes – in an intellectual, thought-exercise kind
+of way – that it is possible to be happy and also disabled –
+until that same larger world is faced with the specific complex-
+ities of what it means to occupy the disabled body. Of course
+society can expand and grow and change to account for bodies
+of all types – until that body is seen as unreasonable, or
+demanding, or wanting ‘special treatment,’ in which case the
+world falls back on the ableism that has underpinned our stories
+for centuries, and lets out a resounding cry of that’s unfair. 
+
+It’s unfair that disabled people get special treatment. It’s
+unfair that disabled people get to park closer, or that disabled
+people get discounts, or that disabled people are allowed to
+bring their service animals into a restaurant. It’s unfair that
+disabled people get to stay at home while other people have to
+go out and work!)
+
+Often, the medical and social models of disability embody
+this happy/unhappy dichotomy – and depending on where
+you’re standing, the question of which model represents the
+happy ending is open to interpretation. Proponents of the
+medical model see the disabled life as an unhappy ending
+because the medical model can fix it; proponents of the social
+
+49
+
+
+
+model see the prospect of a cure as an unhappy ending
+because it removes the responsibility of bettering the social
+environment from society at large and places the onus on
+the individual to transform, thus eradicating the physical
+differences and accompanying memories that so often tether
+the disabled person’s experience of the world.
+
+Who would I be, for example, if I hadn’t been born the girl
+with the cyst in her brain? My experiences at the hospital and
+with surgeries, with the wheelchair and my crutches, with my
+limp and the eventual bullying that came about as a result of
+all of this – these experiences have shaped me, have made me
+who I am. Had I been born without that cyst, I would have a
+di"erent life now. I would not be who I am today. 
+
+In Disability Theory, Siebers advances a theory of what he
+terms complex embodiment, wherein elements of both the
+medical model and the social model guide how the body makes
+its way through the world. ‘The theory of complex embodi-
+ment,’ he writes, ‘raises awareness of the e"ects of disabling
+environments on people’s lived experience of the body, but it
+emphasizes as well that some factors a"ecting disability, such
+as chronic pain, secondary health e"ects, and aging, derive
+from the body.’ 
+
+In e"ect, it is possible to be disabled both by society and
+by pain; to struggle both as a result of the overwhelming bias
+in favour of the able body and as a result of the unique nature
+of one’s own body and its di"erent challenges in the world.
+Disability and able-bodiedness are both merely points on an
+enormous spectrum of human variation, and the work of being
+in the world at all entails being on this spectrum in some way,
+shape, or form. 
+
+It is not hard to travel from this reality of a spectrum of
+disability through to a subsequent spectrum of happiness,
+
+50 | D I S F I G U R E D
+
+
+
+where it is possible to recognize happiness, like ability and
+disability, as a malleable, changeable quality that doesn’t exist
+in static form. Just as it is possible to move from ability to
+disability – and also possible, through innovations both
+medical and social, to move from disability to ability and back
+again – so too is it possible (and, in fact, more realistic) to
+move from happiness to unhappiness and back again, over
+and over, as we move through life. 
+
+We mustn’t tell this to the princess, however. Who is she
+if she can’t walk down the aisle to meet her prince? 
+
+In the Brothers Grimm’s ‘The Maiden Without Hands,’ a miller
+is visited by the Devil, disguised as an old man, who promises
+the miller riches in exchange for whatever lies beyond his
+mill. The miller, thinking the Devil means an old apple tree,
+gladly makes the bargain; it is only when he returns home to
+his wife, who is overjoyed at the jewels and money that now
+overflow their cupboards, that he discovers the truth: his
+daughter, beautiful and pious, was standing on the other side
+of the mill when the Devil struck his bargain. 
+
+In three years, the Devil returns to claim the maiden. First
+she draws a circle round herself and purifies it with water so
+he can’t get to her; then, when the Devil angrily instructs the
+father to rid the house of water so she can’t purify herself
+anymore, she weeps onto her hands and purifies them with
+her tears. 
+
+‘Chop o" her hands!’ the Devil instructs, and the father,
+terrified, does as he is told. 
+
+But the maiden weeps over her stumps, purifying them
+once again, and the Devil retreats in defeat. The father, now a
+rich man, promises to look after his daughter for the rest of
+her life, but she refuses to stay. Instead, she instructs her father
+
+51
+
+
+
+to tie her severed hands to her back and casts herself out onto
+the mercy of the world. 
+
+She comes to a kingdom, and a royal garden. Suffering
+from hunger, she falls to her knees and cries aloud to God;
+an angel appears and lets her into the garden, then brings
+her fruit from the trees. But she is discovered, and the angel
+vanishes. Thinking she’s a thief, the soldiers throw her in
+the dungeon.
+
+She is rescued by the king, who falls in love with her and
+brings her out of the dungeon. When they marry, the king
+gives her a pair of silver hands that she learns to use in place of
+her real ones. But the Devil, still angry at his thwarted attempt
+to take her, isn’t finished. A year after their marriage, the king
+goes away to war and the Maiden Without Hands, now queen,
+gives birth to a son; the Devil intercepts the messenger who is
+bringing this news to the king and gives him a message to say
+that the queen has given birth to a changeling. The king reads
+the fake message and is distressed, but still loves his wife – he
+instructs the messenger to go back and tell the kingdom that
+his wife and the child must be protected. 
+
+But the Devil intercepts the message again, and the
+messenger brings back a falsified edict, purportedly from the
+king, that the queen and the child are to be killed. The king’s
+old mother helps them both escape from the castle, and the
+Maiden Without Hands finds herself wandering the world
+again, this time with her child. 
+
+They come to a hut in the forest; an angel appears to
+them and tells the queen that she may stay there, untroubled.
+They live here for fourteen years until the king – who spent
+the first seven years fighting on the battlefield and then,
+having learned of the Devil’s treachery, the last seven years
+searching the wilderness for his family – finally finds them
+
+52 | D I S F I G U R E D
+
+
+
+again. They return to the kingdom and live happily for the
+rest of their days.
+
+The queen’s hands have grown back in the interim, as hands
+in fairy tales are wont to do if you pray hard enough. 
+
+Changeling, in itself, is an interesting term. Historically, the
+idea of a changeling child has been inextricably tied up with
+magic; in Irish folklore, changelings were thought to be the
+children of fairies who’d been swapped in for healthy human
+children. Fairy children were considered to be sickly, and it was
+often expected that they wouldn’t live long; families would
+leave their ‘changeling’ children out to die in the cold as a result,
+convinced that their actual child was lost to them forever. 
+
+The belief was held that fairies swapped out human children
+for any number of reasons: for companionship, out of revenge,
+to have a human child as a servant. Usually, the suspicion that
+a child was a changeling arose right at birth; but in some cases,
+the question didn’t come up until years later. In 1826 an Irish
+woman drowned a three-year-old boy in her care in the River
+Flesk because he couldn’t speak or walk and she was trying to
+get ‘the changeling out of him’; in 1895 the Irishwoman Bridget
+Cleary was killed by her husband and relatives after a short
+illness, with the husband invoking what became infamous as
+the ‘fairy defence.’ 
+
+Tellingly, the question of whether a child was a changeling
+or not was directly tied to whether the child showcased visible
+disabilities at birth – or, in cases of later development, whether
+the child/young person exhibited behaviour that was thought
+at the time to be incomprehensible or strange. Nineteenth-
+century beliefs posited that autistic children were the product
+of fairies – the belief that fairies themselves spent long amounts
+of time completing repetitive tasks like counting gold coins
+
+53
+
+
+
+echoes documented elements of autistic behaviour. (If there is
+no worldly explanation, there is most assuredly a magical one.) 
+
+Consider them, for a moment. A child born with a caul, a
+boy with a club foot, a girl with spina bifida, left outside to
+shiver and cry until they are no more. A child three centuries
+ago, born with cerebral palsy, though no one yet knows what
+it is, only that the child can’t eat or speak or roll over. Grief-
+stricken parents who curse the fairies and leave the child
+outside to die of starvation or exposure. Children who aren’t
+magical, but only di"erent. 
+
+How many children have we lost to the cold and snow
+over the centuries – children born not to a king and queen but
+to common people, mothers and fathers with no knowledge
+of the world apart from the stories they’ve told themselves at
+night before their fires? How many lives have been smothered
+or disappeared or haven’t been allowed to flourish because of
+the stories we tell? 
+
+‘The Maiden Without Hands,’ notes Ann Schmiesing, stands
+in stark opposition to a tale like ‘Hans My Hedgehog,’ precisely
+because the maiden is meek and subservient, where Hans My
+Hedgehog is a vocal activist in his own life. The maiden is
+ready and willing to cast herself into the world, to believe that
+society will meet all of her needs, whereas Hans My Hedgehog
+is instead focused on proving himself within the confines of
+the system. In contrast to Hans My Hedgehog’s rage and advo-
+cacy, the Maiden’s faith is as much an undercurrent throughout
+the tale as is her amputation.
+
+It’s tempting to think that ‘The Maiden Without Hands’
+espouses the social model of disability, wherein disabled
+individuals operate within the world as a result of a society
+that takes care of their needs. But, in reality, this fairy tale
+
+54 | D I S F I G U R E D
+
+
+
+operates squarely within the realm of the disabled charity
+trope, which many if not all modern disabled people recognize
+in some form or another. 
+
+The charity model shares similarities with the medical
+model of disability in that the disabled person is once again
+seen as a flaw – as someone in possession of a less-than-
+perfect body, a disfigured body, someone who is set apart from
+society as a result of these di"erences. In each case, the disabled
+person is at the mercy of others – in the medical model, medical
+professionals are the experts who can help the disabled indi-
+vidual and ultimately, hopefully, eradicate the disability; in
+the charity model, the disabled person is someone to be pitied
+and saved by both the medical and social establishments. The
+medical world will work to cure the physical, while the social
+world will work to improve the life of the disabled person
+through charity and magnanimous good deeds. 
+
+The charity model, as noted by the online resource Disabled
+World, ‘[d]epicts disabled people as victims of circumstance
+who are deserving of pity.’ It relies on the time-honoured tradi-
+tion of noblesse oblige (where those with means – literally, the
+‘nobles’ – are obligated to improve society by giving back and
+sharing their wealth), but instead of the rich giving to the
+poor, the able-bodied are posited as those who instead deign
+to help the disabled. Yet while the idea of being charitable
+certainly seems like a nice thing to aspire to – the philanthro-
+pist is inevitably seen as a more morally acceptable figure
+than Ebenezer Scrooge – it’s worth noting that charity also
+functions as a way of reinforcing existing social structures. As
+long as individual people are charitable, as long as individual
+charities and charitable actions exist to make gestures toward
+those who are less fortunate, there is less need for the sweeping
+societal change that would do away with the hierarchies and
+
+55
+
+
+
+gross economic and structural inequalities that disadvantage
+people in the first place. Essentially, the existence of charity,
+by making concern for one’s fellow humans less a responsibility
+and more an active choice, works to undermine the eradication
+of poverty and injustice. 
+
+(I am not, of course, arguing against the presence of
+charities – I think charities can and do accomplish wonder-
+ful things. It’s good to encourage people to think of ways
+they can give to the world, and especially to think of how
+they might consider those less fortunate; the key is that we
+need to stop thinking of those less fortunate as being so
+because of some specific circumstance [disability, say] and
+more because of structural inequalities that the ‘more fortu-
+nate’ continue to uphold no matter how much money they
+give away.) 
+
+In Illness as Metaphor, Susan Sontag notes that disease has
+often been associated with moral failings. 
+
+Psychological theories of illness are a powerful means of
+placing the blame on the ill. Patients who are instructed
+that they have, unwittingly, caused their disease are also
+being made to feel that they have deserved it … Nothing
+is more punitive than to give a disease a meaning – that
+meaning invariably being a moralistic one.
+
+In literature, this has also been the case with disability. In the
+same way that su"erers of a disease become poster children
+for the ravages of the disease itself (tb, cancer, aids), disabled
+people become iterations of loss, of struggle, of the ways in
+which the world is not kind to those who are di"erent. And in
+the same way that disease, for Sontag, then becomes a
+metaphor – something is a cancer, something spreads like the
+
+56 | D I S F I G U R E D
+
+
+
+plague – so too does disability often become emblematic of
+these time-worn but still somehow newly urgent fears: loss
+of independence, social ostracization, loneliness in an increas-
+ingly connected world.
+
+And in the same way that the medical model places the
+fault of disability at the body of the disabled person and lifts
+the medical professional up as the ‘expert,’ in the same way
+that the charity model removes the blame for society from
+the shoulders of the magnanimous philanthropist and rein-
+forces hierarchical norms, psychological theories of illness lift
+the blame and responsibility for illness from the shoulders of
+society and place it squarely within the fault of the patient. If
+one had only refrained from some behaviour or practised
+others or been more devout or had more faith, the illness
+might have been avoided. (In the nineteenth and early- to
+mid-twentieth centuries, it was believed in some circles that
+melancholy patients might have avoided cancer if they had
+been happier; in the eighteenth century, those who were deli-
+cate and high-strung and prone to fits of excitability and high
+emotion might have avoided tuberculosis by practising a
+calmer, quieter kind of life.)
+
+This sort of thinking sounds ridiculous now – except that
+when it comes to disability, it’s often still engaged in, albeit in
+subtler (and arguably more damaging) ways. Disabled people
+are still brought to faith healers; they are told to drink more
+water or drink green tea or do detoxes or try hypnosis to remove
+barriers of the mind as a way of overcoming physical impair-
+ments. Disabled people are encouraged to ‘push through’ and
+‘exercise’ and are reminded over and over again that the only
+disability is a bad attitude. 
+
+And when disabled people do manage to ‘push through’
+in whatever way the able-bodied society sees fit, they are
+
+57
+
+
+
+lauded as examples for all, as people who have refused to let
+themselves be ‘confined’ by their physical limitations in much
+the same way as people are spoken of as being ‘confined’ to 
+a wheelchair.
+
+Look at what you’ve overcome, society says. You’re such an
+inspiration.
+
+Inspiration porn, a phrase coined by the late Australian
+disability activist Stella Young in 2012, refers to the portrayal
+of disabled people as inspirational precisely because of their
+disability. Inspiration porn goes hand in hand with the idea
+of the disabled body as less. If a disabled body is seen as
+less, then what that body can achieve is also less – and yet
+somehow, paradoxically, more: more difficult, more noble,
+more special. 
+
+In an April 2019 article for Bustle, Imani Barbarin recounts
+going to a ballet class when she was seven. ‘I wanted to develop
+art,’ she wrote, ‘but the teachers just wanted me to be seen. I
+wanted to be challenged, but no one challenges those born
+with “challenges.”‘ Thus does the less of the disabled body
+become more in the eyes of the able-bodied world. The disabled
+body cannot meet the same bar as the body that is not disabled,
+and so the bar is lowered. When the disabled person meets
+the expectations of this new, lowered bar, they are cheered
+and congratulated.
+
+You want to dance, but you have cerebral palsy and you’ll
+never be a prima ballerina. So instead of creating a dance that
+responds specifically to the needs of your own body, you’re
+given token representation and told you should be happy with
+being able to do this much.
+
+Look at you, meeting this much lower bar. Look at you,
+trying to be like able-bodied people. That’s more than enough
+– that’s inspiring. 
+
+58 | D I S F I G U R E D
+
+
+
+As with the charity model, psychological approaches to
+disability work to take the blame away from society and put it
+on the individual – to make disability not a lived, mundane
+reality but a temporary struggle that can be overcome if one
+has the inner and outer strength to do it. (The corollary here
+is that those who do not ‘overcome’ their disabilities – or fail
+to appreciate the so-called ‘accomplishments’ they make in
+the world of the disabled body’s lowered bar – fail because of
+their own lack of strength or e"ort.)
+
+Your disability is causing you pain? Do yoga. Struggling
+because of mental health issues? Meditate. The more you
+focus, the more you’ll improve, and the less society at large
+needs to worry about having di"erent kinds of dance classes
+or accessible entryways or accessible bathrooms or clearly
+marked accessible parking, to say nothing of captions or asl
+or quiet rooms that o"er respite from external stimuli. 
+
+After all, the kingdom didn’t need to change for the Maiden
+Without Hands, did it? She got her hands back because of her
+faith. (The only disability is a bad attitude.)
+
+She did that all on her own.
+
+I’m six years old when I go back to school after both my
+surgeries. Grade 1. There is, as mentioned, a wheelchair, and
+a taxi that drives me to school. There is one half of a hexagonal
+table that I get to sit at all by myself because my wheelchair
+doesn’t fit under the regular desks. There are classmates, again
+as mentioned, who are happy to push me around in the school-
+yard until they get bored and don’t want to push me anymore.
+Sometimes – most times – it is easier to stay inside and read
+books, so that’s what I do. 
+
+The cast on my leg begins to smell after a while; bathing is
+an ordeal because I am not allowed to get it wet. My mother
+
+59
+
+
+
+has to help me because my right leg has to hang out of the tub
+at all times. 
+
+After the cast comes o", I work with a physiotherapist
+named Eric. He has dark hair and a beard and glasses and he
+reminds me of Robert Munsch (author of the beloved Canadian
+children’s book The Paper Bag Princess). Or does Robert Munsch
+remind me of Eric the physiotherapist? I don’t remember. 
+
+I don’t remember much about this time, to be honest. The
+surgery, the two or three years after. 
+
+The memories start a bit later, when my nemesis arrives
+in Grade 3.
+
+60 | D I S F I G U R E D

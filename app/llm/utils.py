@@ -3,7 +3,8 @@ import json
 
 
 def extract_questionary(text_result: str) -> dict:
-    text_result = text_result.replace("```", "")
+    text_result = text_result.replace("```json", "").replace("```", "").strip()
+
     def parse_options(options_str: str) -> list[str]:
         options = re.split(r'\n[a-d]\) ', options_str.strip())
         return [opt.strip() for opt in options if opt]
@@ -40,8 +41,7 @@ def get_questionary_system_prompt() -> str:
 def create_questionary_prompt(litwork_text: str) -> str:
     options_template = "a) Option 1\nb) Option 2\nc) Option 3\nd) Option 4\n"
     questionary_prompt = f"""Create a 5-question test with multiple choice with 4 options to choose.
-The test should check the knowledge of the literary work's plot, characters, themes, and 
-author's techniques.
+The test should check the knowledge of the literary work's plot, characters, themes, and author's techniques.
 Include a mix of question types:
 - At least 1 question about specific plot details
 - At least 1 question about character motivations or relationships
@@ -50,10 +50,9 @@ Include a mix of question types:
 - At least 1 question that requires deeper analysis rather than simple recall
 
 The test should be in English and challenging but fair.
-Literary work text: {litwork_text}
+Literary work relevant excerpts: {litwork_text}
 
-In answer to this prompt you should return only 5 questions with choice options and correct 
-answers and nothing else.
+In answer to this prompt you should return only 5 questions with choice options and correct answers and nothing else.
 Format of answer as JSON-string:
 {{
     "question1": {{
