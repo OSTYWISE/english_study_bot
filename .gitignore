@@ -1,8 +1,8 @@
 # Project specific
-backend/test.ipynb
-backend/prokachka_tasks.ipynb
-backend/test_db.ipynb
-backend/data/
+app/test.ipynb
+app/test_db.ipynb
+# Do not commit data folder 
+data/
 
 # Secrets
 secrets/
